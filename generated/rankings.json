@@ -146,23 +146,23 @@
   },
   {
     "rank": 30,
+    "passport": "AU",
+    "score": 136.6
+  },
+  {
+    "rank": 31,
     "passport": "GB",
     "score": 136.5
   },
   {
-    "rank": 31,
+    "rank": 32,
     "passport": "NZ",
     "score": 136.1
   },
   {
-    "rank": 32,
+    "rank": 33,
     "passport": "SI",
     "score": 135.4
-  },
-  {
-    "rank": 33,
-    "passport": "AU",
-    "score": 135.1
   },
   {
     "rank": 34,
@@ -521,13 +521,13 @@
   },
   {
     "rank": 105,
-    "passport": "TH",
-    "score": 4.5
+    "passport": "OM",
+    "score": 3.4
   },
   {
     "rank": 106,
-    "passport": "OM",
-    "score": 3.4
+    "passport": "TH",
+    "score": 3
   },
   {
     "rank": 107,
