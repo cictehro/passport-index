@@ -517,12 +517,12 @@
   {
     "rank": 104,
     "passport": "MC",
-    "score": 5.5
+    "score": 6
   },
   {
     "rank": 105,
     "passport": "CA",
-    "score": 5
+    "score": 5.5
   },
   {
     "rank": 106,
@@ -576,13 +576,13 @@
   },
   {
     "rank": 116,
-    "passport": "TM",
-    "score": -2
+    "passport": "MA",
+    "score": -2.9
   },
   {
     "rank": 117,
-    "passport": "MA",
-    "score": -2.9
+    "passport": "TM",
+    "score": -3
   },
   {
     "rank": 118,

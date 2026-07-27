@@ -32711,6 +32711,12 @@
     "last_verified": "",
     "confidence": "unverified"
   },
+  "CA:SA": {
+    "notes": "",
+    "source_url": "https://visa.visitsaudi.com/",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
   "CA:TW": {
     "notes": "",
     "source_url": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
@@ -125963,6 +125969,12 @@
     "last_verified": "",
     "confidence": "unverified"
   },
+  "MC:SA": {
+    "notes": "",
+    "source_url": "https://visa.visitsaudi.com/",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
   "MC:TW": {
     "notes": "",
     "source_url": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
@@ -200552,6 +200564,12 @@
   "TM:HK": {
     "notes": "",
     "source_url": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "TM:SG": {
+    "notes": "",
+    "source_url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
     "last_verified": "",
     "confidence": "unverified"
   },
