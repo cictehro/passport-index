@@ -44,4 +44,4 @@ jobs:
           git config user.name "savvydarknight"
           git add -A
           git diff --cached --quiet || git commit -m "Sync data from r-passe $(date -u +%Y-%m-%d)"
-          git diff --cached --quiet || git push
+          git push
