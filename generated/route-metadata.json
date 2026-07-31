@@ -32999,6 +32999,18 @@
     "last_verified": "",
     "confidence": "unverified"
   },
+  "CA:CL": {
+    "notes": "",
+    "source_url": "https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "CA:CN": {
+    "notes": "",
+    "source_url": "https://en.nia.gov.cn/n147418/n147463/c183390/content.html",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
   "CA:HK": {
     "notes": "",
     "source_url": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
@@ -33014,6 +33026,12 @@
   "CA:MO": {
     "notes": "",
     "source_url": "https://www.gov.mo/en/services/ps-1474/ps-1474b/",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "CA:NZ": {
+    "notes": "",
+    "source_url": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
     "last_verified": "",
     "confidence": "unverified"
   },
@@ -127079,9 +127097,27 @@
     "last_verified": "",
     "confidence": "unverified"
   },
+  "MC:AM": {
+    "notes": "",
+    "source_url": "https://www.mfa.am/en/visafreelist",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
   "MC:BY": {
     "notes": "",
     "source_url": "https://mfa.gov.by/kcfinder/upload/files/GKU/21.10.17_List_countries_eng.pdf",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "MC:CL": {
+    "notes": "",
+    "source_url": "https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "MC:CN": {
+    "notes": "",
+    "source_url": "https://en.nia.gov.cn/n147418/n147463/c183390/content.html",
     "last_verified": "",
     "confidence": "unverified"
   },
@@ -127100,6 +127136,12 @@
   "MC:MO": {
     "notes": "",
     "source_url": "https://www.gov.mo/en/services/ps-1474/ps-1474b/",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "MC:NZ": {
+    "notes": "",
+    "source_url": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
     "last_verified": "",
     "confidence": "unverified"
   },
@@ -131828,6 +131870,18 @@
   "MK:BY": {
     "notes": "",
     "source_url": "https://mfa.gov.by/kcfinder/upload/files/GKU/21.10.17_List_countries_eng.pdf",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "MK:CL": {
+    "notes": "",
+    "source_url": "https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "MK:CN": {
+    "notes": "",
+    "source_url": "https://en.nia.gov.cn/n147418/n147463/c183390/content.html",
     "last_verified": "",
     "confidence": "unverified"
   },
@@ -151406,6 +151460,12 @@
   "NL:NR": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "NL:NZ": {
+    "notes": "",
+    "source_url": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
     "last_verified": "",
     "confidence": "unverified"
   },
@@ -202295,6 +202355,12 @@
     "last_verified": "",
     "confidence": "unverified"
   },
+  "TM:CL": {
+    "notes": "",
+    "source_url": "https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
   "TM:GB": {
     "notes": "",
     "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
@@ -221066,6 +221132,12 @@
   "VU:BY": {
     "notes": "",
     "source_url": "https://mfa.gov.by/kcfinder/upload/files/GKU/21.10.17_List_countries_eng.pdf",
+    "last_verified": "",
+    "confidence": "unverified"
+  },
+  "VU:CL": {
+    "notes": "",
+    "source_url": "https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf",
     "last_verified": "",
     "confidence": "unverified"
   },

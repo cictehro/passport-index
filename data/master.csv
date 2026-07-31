@@ -5499,9 +5499,12 @@ BZ,ZA,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citize
 BZ,ZM,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citizens,,unverified
 BZ,ZW,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citizens,,unverified
 CA,BY,vf,30,,https://mfa.gov.by/kcfinder/upload/files/GKU/21.10.17_List_countries_eng.pdf,,unverified
+CA,CL,vf,,,https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf,,unverified
+CA,CN,vf,30,,https://en.nia.gov.cn/n147418/n147463/c183390/content.html,,unverified
 CA,HK,vf,90,,https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html,,unverified
 CA,KY,vf,,,https://gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required,,unverified
 CA,MO,vf,30,,https://www.gov.mo/en/services/ps-1474/ps-1474b/,,unverified
+CA,NZ,ev,90,,https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/,,unverified
 CA,SA,ev,90,,https://visa.visitsaudi.com/,,unverified
 CA,TC,vf,,,https://borderforce.gov.tc/entry-requirements,,unverified
 CA,TW,vf,90,,https://www.boca.gov.tw/cp-149-4486-7785a-2.html,,unverified
@@ -21179,10 +21182,14 @@ MA,YE,vr,,"Yemen introduced an e-Visa system for visitors who meet certain eligi
 MA,ZA,ev,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens,,unverified
 MA,ZM,vf,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens,,unverified
 MA,ZW,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens,,unverified
+MC,AM,vf,180,,https://www.mfa.am/en/visafreelist,,unverified
 MC,BY,vf,30,,https://mfa.gov.by/kcfinder/upload/files/GKU/21.10.17_List_countries_eng.pdf,,unverified
+MC,CL,vf,,,https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf,,unverified
+MC,CN,vf,30,,https://en.nia.gov.cn/n147418/n147463/c183390/content.html,,unverified
 MC,HK,vf,90,,https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html,,unverified
 MC,KY,vf,,,https://gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required,,unverified
 MC,MO,vf,30,,https://www.gov.mo/en/services/ps-1474/ps-1474b/,,unverified
+MC,NZ,ev,90,,https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/,,unverified
 MC,RU,ev,30,,https://dublin.kdmid.ru/en/consular-functions/visas/electronic-visa-e-visa/,,unverified
 MC,SA,ev,90,,https://visa.visitsaudi.com/,,unverified
 MC,TC,vf,,,https://borderforce.gov.tc/entry-requirements,,unverified
@@ -21971,6 +21978,8 @@ MH,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_
 MH,ZM,vf,90,90 days as tourists or 30 days for business,https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_citizens,,unverified
 MH,ZW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_citizens,,unverified
 MK,BY,vf,30,,https://mfa.gov.by/kcfinder/upload/files/GKU/21.10.17_List_countries_eng.pdf,,unverified
+MK,CL,vf,,,https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf,,unverified
+MK,CN,vf,30,,https://en.nia.gov.cn/n147418/n147463/c183390/content.html,,unverified
 MK,GB,vr,,,https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list,,unverified
 MK,HK,vf,14,,https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html,,unverified
 MK,RU,ev,30,,https://dublin.kdmid.ru/en/consular-functions/visas/electronic-visa-e-visa/,,unverified
@@ -25234,6 +25243,7 @@ NL,NI,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,
 NL,NO,vf,,Freedom of movement. ID card valid.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified
 NL,NP,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified
 NL,NR,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified
+NL,NZ,ev,90,,https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/,,unverified
 NL,OM,vf,14,No need of visa for less than 14 days.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified
 NL,PA,vf,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified
 NL,PE,vf,90,90 days within any 6-month period.,https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens,,unverified
@@ -33715,6 +33725,7 @@ TL,YE,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_cit
 TL,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens,,unverified
 TL,ZM,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens,,unverified
 TL,ZW,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens,,unverified
+TM,CL,vr,,,https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf,,unverified
 TM,GB,vr,,,https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list,,unverified
 TM,HK,vr,,,https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html,,unverified
 TM,KY,vr,,,https://gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required,,unverified
@@ -36844,6 +36855,7 @@ VN,ZA,vr,,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citize
 VN,ZM,ev,90,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified
 VN,ZW,ev,30,,https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens,,unverified
 VU,BY,vf,30,,https://mfa.gov.by/kcfinder/upload/files/GKU/21.10.17_List_countries_eng.pdf,,unverified
+VU,CL,vr,,,https://www.consulado.gob.cl/consulados/site/docs/20190220/20190220161313/cuadro_de_visas_corregido060326.pdf,,unverified
 VU,GB,vr,,,https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list,,unverified
 VU,HK,vf,90,,https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html,,unverified
 VU,KY,vf,,,https://gov.ky/web/cbc/travel/visas-extensions/visitors-visas/list-of-countries-visa-required,,unverified
