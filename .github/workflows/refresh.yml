@@ -43,7 +43,3 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "Sync data from r-passe $(date -u +%Y-%m-%d)"
           git diff --cached --quiet || git push
-      - name: Trigger Render deploy
-        env:
-          RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
-        run: curl -fsS -X POST "$RENDER_DEPLOY_HOOK"

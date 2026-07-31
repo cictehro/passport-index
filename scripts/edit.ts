@@ -67,16 +67,11 @@ switch (command) {
     }
     const flags = rest.filter((a) => a.startsWith("--"));
     const positional = rest.filter((a) => !a.startsWith("--"));
-    const days = positional[0] ?? "";
 
     const flagValue = (name: string): string => {
       const flag = flags.find((f) => f.startsWith(`--${name}=`));
       return flag ? flag.slice(name.length + 3) : "";
     };
-
-    const sourceUrl = flagValue("source");
-    const lastVerified = flagValue("verified");
-    const confidence = flagValue("confidence") || "unverified";
 
     const p = passport.toUpperCase();
     const d = destination.toUpperCase();
@@ -84,9 +79,14 @@ switch (command) {
 
     const rows = readCSV();
     const existing = rows.findIndex((r) => r.passport === p && r.destination === d);
+    const old = existing >= 0 ? rows[existing] : undefined;
 
-    if (existing >= 0) {
-      const old = rows[existing];
+    const days = positional[0] ?? old?.days ?? "";
+    const sourceUrl = flagValue("source") || old?.sourceUrl || "";
+    const lastVerified = flagValue("verified") || old?.lastVerified || "";
+    const confidence = flagValue("confidence") || old?.confidence || "unverified";
+
+    if (old) {
       rows[existing] = { passport: p, destination: d, status, days, notes: old.notes, sourceUrl, lastVerified, confidence };
       writeCSV(rows);
       console.log(`✓ Updated ${p} → ${d}: ${old.status} → ${status}`);

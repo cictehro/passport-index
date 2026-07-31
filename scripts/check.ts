@@ -1,5 +1,11 @@
 import fs from "fs";
 import { log, group } from "./log.ts";
+import { computeScores, rankPassports } from "./scoring.ts";
+
+function fail(msg: string): never {
+  console.error(`✗ Integrity check failed: ${msg}`);
+  process.exit(1);
+}
 
 log("reading ./data/passport_matrix.json");
 const matrix = JSON.parse(
@@ -12,106 +18,74 @@ const { codes: territoryCodes } = JSON.parse(
 );
 const territories = new Set<string>(territoryCodes);
 
-const scores: Record<string, number> = {};
-const visaFreeCounts: Record<string, number> = {};
+log("reading generated/scores.json, generated/visa-free-counts.json, generated/rankings.json, generated/route-metadata.json");
+const scores: Record<string, number> = JSON.parse(
+  fs.readFileSync("./generated/scores.json", "utf8")
+);
+const visaFreeCounts: Record<string, number> = JSON.parse(
+  fs.readFileSync("./generated/visa-free-counts.json", "utf8")
+);
+const rankings: { rank: number; passport: string; score: number }[] = JSON.parse(
+  fs.readFileSync("./generated/rankings.json", "utf8")
+);
+const routeMetadata: Record<string, unknown> = JSON.parse(
+  fs.readFileSync("./generated/route-metadata.json", "utf8")
+);
 
-const WEIGHTS: Record<string, number> = {
-  vf: 1.0,
-  vo: 0.7,
-  ev: 0.5,
-  et: 0.3,
-  vr: -1.0,
-};
-log(`weights: ${JSON.stringify(WEIGHTS)}`);
+group("check: recompute and diff against shipped output", () => {
+  const recomputed = computeScores(matrix, territories);
 
-group("check: score each passport", () => {
-  for (const passport of Object.keys(matrix)) {
-    if (territories.has(passport)) {
-      log(`${passport}: skipped, is a territory`);
-      continue;
+  for (const passport of Object.keys(recomputed.scores)) {
+    log(`${passport}: shipped score=${scores[passport]} recomputed=${recomputed.scores[passport]}`);
+    if (scores[passport] !== recomputed.scores[passport]) {
+      fail(`score mismatch for ${passport}: shipped=${scores[passport]} recomputed=${recomputed.scores[passport]}`);
     }
-
-    let score = 0;
-    let vf = 0;
-
-    for (const destination of Object.keys(matrix[passport])) {
-      if (territories.has(destination)) {
-        log(`${passport}->${destination}: skipped, destination is a territory`);
-        continue;
-      }
-
-      const [status] = matrix[passport][destination];
-      const weight = WEIGHTS[status] ?? 0;
-      score += weight;
-      log(`${passport}->${destination}: status=${status} weight=${weight} running_score=${score}`);
-
-      if (status === "vf") {
-        vf++;
-      }
+    if (visaFreeCounts[passport] !== recomputed.visaFreeCounts[passport]) {
+      fail(`visa-free count mismatch for ${passport}: shipped=${visaFreeCounts[passport]} recomputed=${recomputed.visaFreeCounts[passport]}`);
     }
-
-    scores[passport] = Math.round(score * 100) / 100;
-    visaFreeCounts[passport] = vf;
-    log(`${passport}: final score=${scores[passport]} visa_free_count=${vf}`);
   }
-});
+  log(`${Object.keys(recomputed.scores).length} passport scores match shipped output`);
 
-const sorted = Object.entries(scores).sort((a, b) => {
-  const [passportA, scoreA] = a;
-  const [passportB, scoreB] = b;
-
-  if (scoreB !== scoreA) return scoreB - scoreA;
-
-  const vfA = visaFreeCounts[passportA] ?? 0;
-  const vfB = visaFreeCounts[passportB] ?? 0;
-  if (vfB !== vfA) return vfB - vfA;
-
-  return passportA.localeCompare(passportB);
-});
-log(`sorted ${sorted.length} passports by score`);
-
-const rankings: { rank: number; passport: string; score: number }[] = [];
-
-group("check: assign ranks", () => {
-  for (let index = 0; index < sorted.length; index++) {
-    const [passport, score] = sorted[index];
-
-    if (index > 0) {
-      const [prevPassport, prevScore] = sorted[index - 1];
-      const tied =
-        prevScore === score &&
-        visaFreeCounts[prevPassport] === visaFreeCounts[passport];
-
-      if (tied) {
-        rankings.push({ rank: rankings[index - 1].rank, passport, score });
-        log(`${passport}: tied with ${prevPassport}, rank=${rankings[index - 1].rank}`);
-        continue;
-      }
-    }
-
-    rankings.push({ rank: index + 1, passport, score });
-    log(`${passport}: rank=${index + 1} score=${score}`);
+  const recomputedRankings = rankPassports(recomputed.scores, recomputed.visaFreeCounts);
+  if (recomputedRankings.length !== rankings.length) {
+    fail(`ranking length mismatch: shipped=${rankings.length} recomputed=${recomputedRankings.length}`);
   }
+  for (let i = 0; i < recomputedRankings.length; i++) {
+    log(`rank ${i}: shipped=${JSON.stringify(rankings[i])} recomputed=${JSON.stringify(recomputedRankings[i])}`);
+    if (
+      recomputedRankings[i].passport !== rankings[i].passport ||
+      recomputedRankings[i].rank !== rankings[i].rank
+    ) {
+      fail(`ranking mismatch at position ${i}: shipped=${JSON.stringify(rankings[i])} recomputed=${JSON.stringify(recomputedRankings[i])}`);
+    }
+  }
+  log(`${recomputedRankings.length} rankings match shipped output`);
 });
 
-group("check: write files", () => {
-  fs.writeFileSync(
-    "./generated/scores.json",
-    JSON.stringify(scores, null, 2)
-  );
-  log("wrote ./generated/scores.json");
+group("check: sanity invariants", () => {
+  for (const [passport, score] of Object.entries(scores)) {
+    if (score < 0) fail(`negative score for ${passport}: ${score}`);
+    log(`${passport}: score=${score} >= 0 OK`);
+  }
 
-  fs.writeFileSync(
-    "./generated/visa-free-counts.json",
-    JSON.stringify(visaFreeCounts, null, 2)
-  );
-  log("wrote ./generated/visa-free-counts.json");
+  let prevRank = 0;
+  let prevScore = Infinity;
+  for (const entry of rankings) {
+    if (entry.rank < prevRank) fail(`ranks out of order at ${entry.passport}`);
+    if (entry.score > prevScore) fail(`scores out of order at ${entry.passport}`);
+    log(`${entry.passport}: rank=${entry.rank} score=${entry.score} order OK`);
+    prevRank = entry.rank;
+    prevScore = entry.score;
+  }
 
-  fs.writeFileSync(
-    "./generated/rankings.json",
-    JSON.stringify(rankings, null, 2)
-  );
-  log("wrote ./generated/rankings.json");
+  for (const key of Object.keys(routeMetadata)) {
+    const [passport, destination] = key.split(":");
+    if (!matrix[passport] || !matrix[passport][destination]) {
+      fail(`route-metadata entry ${key} has no matching row in passport_matrix.json`);
+    }
+    log(`${key}: has matching matrix row OK`);
+  }
+  log(`${Object.keys(routeMetadata).length} route-metadata entries all match passport_matrix.json`);
 });
 
-console.log("✓ Statistics generated");
+console.log(`✓ Integrity check passed (${Object.keys(scores).length} passports, ${rankings.length} rankings)`);

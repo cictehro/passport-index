@@ -89,6 +89,9 @@ func ShowTop(n int) {
 		os.Exit(1)
 	}
 
+	if n < 0 {
+		n = 0
+	}
 	if n > len(rankings) {
 		n = len(rankings)
 	}
