@@ -297,7 +297,7 @@
   {
     "rank": 60,
     "passport": "UA",
-    "score": 130.7
+    "score": 131.2
   },
   {
     "rank": 61,
@@ -462,7 +462,7 @@
   {
     "rank": 93,
     "passport": "KW",
-    "score": 100.1
+    "score": 101.1
   },
   {
     "rank": 94,
@@ -896,18 +896,18 @@
   },
   {
     "rank": 180,
-    "passport": "BD",
-    "score": 53.2
-  },
-  {
-    "rank": 181,
     "passport": "SD",
     "score": 53.2
   },
   {
-    "rank": 182,
+    "rank": 181,
     "passport": "CD",
     "score": 52.4
+  },
+  {
+    "rank": 182,
+    "passport": "BD",
+    "score": 51.8
   },
   {
     "rank": 183,
