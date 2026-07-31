@@ -86,7 +86,7 @@ function main() {
     const sourceUrl = r[iUrl];
 
     const passport = CODE_MAP[rawPassport];
-    const destination = NAME_MAP[rawDest];
+    const destination = resolveName(rawDest);
 
     if (!passport || !destination) {
       skippedUnmapped++;
