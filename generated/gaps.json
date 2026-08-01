@@ -1,0 +1,7604 @@
+{
+  "generated_at": "2026-08-01T05:51:22.793Z",
+  "universe_size": 202,
+  "total_expected_pairs": 40602,
+  "total_missing_pairs": 2585,
+  "by_passport": [
+    {
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "VG",
+      "name": "British Virgin Islands",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VN",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RW",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "missing": [
+        "AU",
+        "GB",
+        "HK",
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
+      "missing": [
+        "AU",
+        "GB",
+        "HK",
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "KP",
+      "name": "North Korea",
+      "missing": [
+        "HK",
+        "KR",
+        "KY",
+        "LK",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "missing": [
+        "AR",
+        "AU",
+        "CN",
+        "HK",
+        "JM",
+        "KY",
+        "MO",
+        "PS",
+        "RS",
+        "XK"
+      ]
+    },
+    {
+      "code": "CD",
+      "name": "DR Congo",
+      "missing": [
+        "AU",
+        "HK",
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "missing": [
+        "AU",
+        "CA",
+        "MO",
+        "NZ",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "missing": [
+        "AU",
+        "HK",
+        "MO",
+        "NZ",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "VG"
+      ]
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia",
+      "missing": [
+        "AG",
+        "AU",
+        "GB",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "missing": [
+        "AG",
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "missing": [
+        "CN",
+        "FR",
+        "KY",
+        "MO",
+        "PS",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "missing": [
+        "AU",
+        "NZ",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "missing": [
+        "CN",
+        "HK",
+        "KY",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "missing": [
+        "AU",
+        "GB",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "missing": [
+        "AM",
+        "IL",
+        "IN",
+        "LY",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "missing": [
+        "AU",
+        "GB",
+        "MO",
+        "PS",
+        "TC",
+        "US",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "missing": [
+        "AU",
+        "KY",
+        "MX",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "missing": [
+        "AG",
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "missing": [
+        "AU",
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "ST",
+      "name": "Sao Tome and Principe",
+      "missing": [
+        "AG",
+        "AU",
+        "GB",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "missing": [
+        "AU",
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "missing": [
+        "MO",
+        "NZ",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "missing": [
+        "AU",
+        "CI",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "missing": [
+        "AU",
+        "GB",
+        "MO",
+        "NZ",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "missing": [
+        "AU",
+        "MO",
+        "NZ",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "missing": [
+        "GB",
+        "HK",
+        "MO",
+        "PS",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "missing": [
+        "AU",
+        "BI",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "missing": [
+        "AD",
+        "AU",
+        "MO",
+        "PS",
+        "SM",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "missing": [
+        "AU",
+        "GB",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "missing": [
+        "MO",
+        "PS",
+        "SR",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "missing": [
+        "AU",
+        "PK",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "SY",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "missing": [
+        "AU",
+        "MO",
+        "NZ",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "missing": [
+        "AU",
+        "DK",
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "ST",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "Laos",
+      "missing": [
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "missing": [
+        "AU",
+        "GB",
+        "MO",
+        "PS",
+        "TC",
+        "US",
+        "VG"
+      ]
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "missing": [
+        "AU",
+        "PS",
+        "TC",
+        "TW",
+        "UA",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "missing": [
+        "AU",
+        "NZ",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "missing": [
+        "MO",
+        "NZ",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "VG"
+      ]
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States of America",
+      "missing": [
+        "HK",
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "VG"
+      ]
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "missing": [
+        "AU",
+        "GB",
+        "PS",
+        "SB",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "missing": [
+        "AM",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "missing": [
+        "AU",
+        "GB",
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TC",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "missing": [
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "missing": [
+        "AU",
+        "GB",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "missing": [
+        "KP",
+        "KY",
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "missing": [
+        "CV",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "missing": [
+        "AU",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "missing": [
+        "CN",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "missing": [
+        "AU",
+        "GB",
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "missing": [
+        "AU",
+        "KY",
+        "MO",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "missing": [
+        "GB",
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "missing": [
+        "AU",
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "missing": [
+        "AU",
+        "FR",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "missing": [
+        "AU",
+        "DK",
+        "GB",
+        "MO",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "missing": [
+        "AM",
+        "HK",
+        "MO",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "missing": [
+        "MO",
+        "PS",
+        "SB",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "missing": [
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "missing": [
+        "AU",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "missing": [
+        "KZ",
+        "MO",
+        "PS",
+        "TC",
+        "XK"
+      ]
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "missing": [
+        "MO",
+        "PS",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "missing": [
+        "AU",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "missing": [
+        "IL",
+        "MO",
+        "PS",
+        "TC",
+        "XK"
+      ]
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "missing": [
+        "MO",
+        "PS",
+        "SB",
+        "TC",
+        "TW"
+      ]
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "missing": [
+        "PS",
+        "TC",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "missing": [
+        "AU",
+        "GB",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "missing": [
+        "IL",
+        "KP",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "missing": [
+        "AU",
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "missing": [
+        "FR",
+        "KY",
+        "NZ",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "PS",
+      "name": "Palestine",
+      "missing": [
+        "CV",
+        "KY",
+        "MO",
+        "TC",
+        "XK"
+      ]
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "missing": [
+        "FR",
+        "MO",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "missing": [
+        "AU",
+        "GB",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "missing": [
+        "HK",
+        "MX",
+        "PS",
+        "TW",
+        "VN"
+      ]
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "missing": [
+        "PS",
+        "SC",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "missing": [
+        "AU",
+        "PS",
+        "TW",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW"
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "missing": [
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "missing": [
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW"
+      ]
+    },
+    {
+      "code": "BN",
+      "name": "Brunei Darussalam",
+      "missing": [
+        "KY",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "missing": [
+        "GB",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "missing": [
+        "MO",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "missing": [
+        "CV",
+        "KY",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "missing": [
+        "AU",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "missing": [
+        "KY",
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "missing": [
+        "AU",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "missing": [
+        "MO",
+        "PS",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "missing": [
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "missing": [
+        "MY",
+        "PK",
+        "PS",
+        "SA"
+      ]
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "missing": [
+        "MO",
+        "PS",
+        "TC",
+        "TW"
+      ]
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "missing": [
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "missing": [
+        "AU",
+        "MO",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "missing": [
+        "PS",
+        "TC",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "missing": [
+        "PS",
+        "TC",
+        "US",
+        "XK"
+      ]
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "missing": [
+        "AU",
+        "PS",
+        "TW",
+        "VG"
+      ]
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "missing": [
+        "CV",
+        "KY",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "missing": [
+        "GB",
+        "KY",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "missing": [
+        "PS",
+        "TC",
+        "US",
+        "VG"
+      ]
+    },
+    {
+      "code": "VA",
+      "name": "Holy See",
+      "missing": [
+        "MO",
+        "PS",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "VN",
+      "name": "Viet Nam",
+      "missing": [
+        "PS",
+        "TC",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "missing": [
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "missing": [
+        "GB",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "missing": [
+        "MO",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "missing": [
+        "CV",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "missing": [
+        "FR",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "missing": [
+        "PS",
+        "TC",
+        "VG"
+      ]
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "missing": [
+        "MO",
+        "PS",
+        "XK"
+      ]
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "missing": [
+        "PS",
+        "TC",
+        "XK"
+      ]
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "missing": [
+        "CV",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "missing": [
+        "MO",
+        "PS",
+        "TW"
+      ]
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "missing": [
+        "PS",
+        "TC",
+        "TW"
+      ]
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "missing": [
+        "MO",
+        "PS",
+        "TW"
+      ]
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "missing": [
+        "PS",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "missing": [
+        "PS",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "missing": [
+        "KY",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "missing": [
+        "MO",
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "missing": [
+        "PS",
+        "TC",
+        "XK"
+      ]
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "missing": [
+        "PS",
+        "TW"
+      ]
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "missing": [
+        "PS",
+        "TC"
+      ]
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "missing": [
+        "PS",
+        "VG"
+      ]
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "missing": [
+        "PS"
+      ]
+    }
+  ],
+  "by_destination": [
+    {
+      "code": "PS",
+      "name": "Palestine",
+      "missing": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "missing": [
+        "AE",
+        "AF",
+        "AG",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "DJ",
+        "DM",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GW",
+        "GY",
+        "HK",
+        "HT",
+        "ID",
+        "IN",
+        "IR",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LK",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MD",
+        "ME",
+        "MG",
+        "MK",
+        "ML",
+        "MN",
+        "MO",
+        "MR",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NP",
+        "NR",
+        "PA",
+        "PE",
+        "PG",
+        "PK",
+        "QA",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "TC",
+        "TD",
+        "TG",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TZ",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VE",
+        "VG",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "missing": [
+        "AD",
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AZ",
+        "BA",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CU",
+        "CV",
+        "DJ",
+        "DO",
+        "DZ",
+        "EG",
+        "ER",
+        "ET",
+        "FM",
+        "GA",
+        "GB",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "HN",
+        "HT",
+        "ID",
+        "IN",
+        "IQ",
+        "IR",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LI",
+        "LK",
+        "LR",
+        "LY",
+        "MA",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MV",
+        "MW",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NP",
+        "NR",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PS",
+        "PW",
+        "PY",
+        "RS",
+        "RU",
+        "RW",
+        "SD",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "VG",
+      "name": "British Virgin Islands",
+      "missing": [
+        "AD",
+        "AG",
+        "AR",
+        "AT",
+        "AU",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BW",
+        "BZ",
+        "CA",
+        "CD",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CN",
+        "CO",
+        "CR",
+        "CZ",
+        "DE",
+        "DK",
+        "DM",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GB",
+        "GD",
+        "GH",
+        "GM",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HR",
+        "HU",
+        "IE",
+        "IN",
+        "IS",
+        "IT",
+        "JP",
+        "KE",
+        "KI",
+        "KN",
+        "KP",
+        "KR",
+        "KY",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MD",
+        "ME",
+        "MH",
+        "MK",
+        "MO",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "NA",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NR",
+        "NZ",
+        "PA",
+        "PG",
+        "PL",
+        "PT",
+        "PW",
+        "PY",
+        "RO",
+        "RU",
+        "SB",
+        "SC",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SZ",
+        "TC",
+        "TL",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UG",
+        "US",
+        "UY",
+        "VA",
+        "VC",
+        "VE",
+        "VU",
+        "WS",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "missing": [
+        "AF",
+        "AG",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BB",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BO",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CZ",
+        "DJ",
+        "DO",
+        "DZ",
+        "EC",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HT",
+        "IQ",
+        "IR",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LC",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MG",
+        "MH",
+        "MK",
+        "MR",
+        "MV",
+        "MW",
+        "MZ",
+        "NE",
+        "NI",
+        "NR",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RW",
+        "SA",
+        "SB",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TG",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TW",
+        "UA",
+        "UG",
+        "US",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VU",
+        "XK",
+        "YE",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "missing": [
+        "AF",
+        "AO",
+        "AZ",
+        "BA",
+        "BF",
+        "BI",
+        "BJ",
+        "BO",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CN",
+        "CU",
+        "CV",
+        "DJ",
+        "DO",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "GA",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HT",
+        "ID",
+        "IN",
+        "IQ",
+        "IR",
+        "JM",
+        "KE",
+        "KG",
+        "KH",
+        "KM",
+        "KP",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LK",
+        "LR",
+        "LY",
+        "MA",
+        "MD",
+        "MG",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MZ",
+        "NE",
+        "NG",
+        "NP",
+        "OM",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PS",
+        "PW",
+        "RU",
+        "RW",
+        "SD",
+        "SG",
+        "SI",
+        "SL",
+        "SN",
+        "SO",
+        "SS",
+        "SY",
+        "TC",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TM",
+        "TN",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UZ",
+        "VA",
+        "VG",
+        "VN",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "missing": [
+        "AO",
+        "BB",
+        "BI",
+        "BJ",
+        "BS",
+        "BT",
+        "BW",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CV",
+        "CZ",
+        "DM",
+        "DZ",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GW",
+        "IN",
+        "IR",
+        "KE",
+        "KI",
+        "KM",
+        "KN",
+        "KY",
+        "KZ",
+        "LC",
+        "LK",
+        "LR",
+        "LS",
+        "LY",
+        "MC",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MN",
+        "MR",
+        "MU",
+        "MW",
+        "MX",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NR",
+        "PG",
+        "PW",
+        "RU",
+        "SB",
+        "SC",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SZ",
+        "TC",
+        "TD",
+        "TG",
+        "TL",
+        "TM",
+        "TN",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UG",
+        "UY",
+        "VC",
+        "VE",
+        "VG",
+        "VU",
+        "WS",
+        "ZA",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States of America",
+      "missing": [
+        "AF",
+        "BI",
+        "CA",
+        "CU",
+        "DZ",
+        "GQ",
+        "HT",
+        "KY",
+        "LA",
+        "LK",
+        "LY",
+        "MC",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MV",
+        "NP",
+        "PW",
+        "SD",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "TC",
+        "TG",
+        "TL",
+        "TM",
+        "VE",
+        "VG",
+        "VU",
+        "YE"
+      ]
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "missing": [
+        "BN",
+        "CD",
+        "CG",
+        "CI",
+        "DK",
+        "GB",
+        "HK",
+        "KG",
+        "KN",
+        "KP",
+        "KR",
+        "LA",
+        "MK",
+        "MO",
+        "NL",
+        "NO",
+        "NZ",
+        "PS",
+        "RU",
+        "SK",
+        "SS",
+        "SZ",
+        "TC",
+        "TG",
+        "TW",
+        "US",
+        "VG"
+      ]
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "missing": [
+        "AU",
+        "BB",
+        "BR",
+        "BS",
+        "CA",
+        "CG",
+        "CI",
+        "CN",
+        "FM",
+        "GW",
+        "KI",
+        "KY",
+        "MC",
+        "MH",
+        "MX",
+        "NZ",
+        "PG",
+        "PW",
+        "SB",
+        "SC",
+        "ST",
+        "TC",
+        "TO",
+        "VC",
+        "VG",
+        "WS"
+      ]
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "missing": [
+        "BO",
+        "CA",
+        "CR",
+        "GT",
+        "HK",
+        "HN",
+        "IS",
+        "KY",
+        "MC",
+        "MK",
+        "NI",
+        "NL",
+        "PA",
+        "PE",
+        "PY",
+        "SV",
+        "TC",
+        "TM",
+        "UY",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "missing": [
+        "AF",
+        "BB",
+        "BT",
+        "CA",
+        "KM",
+        "KY",
+        "LK",
+        "MC",
+        "MK",
+        "MN",
+        "MV",
+        "NL",
+        "SO",
+        "TC",
+        "TL",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "missing": [
+        "CA",
+        "DK",
+        "FR",
+        "KY",
+        "MA",
+        "MC",
+        "MK",
+        "NO",
+        "PL",
+        "PS",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "missing": [
+        "CD",
+        "CG",
+        "CI",
+        "CN",
+        "KP",
+        "KY",
+        "MO",
+        "TC",
+        "TL",
+        "TR",
+        "TW",
+        "US",
+        "VG",
+        "XK"
+      ]
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "missing": [
+        "CA",
+        "FM",
+        "GM",
+        "KY",
+        "MC",
+        "MK",
+        "SN",
+        "ST",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "missing": [
+        "CA",
+        "HK",
+        "KY",
+        "MC",
+        "MK",
+        "MO",
+        "NP",
+        "TC",
+        "TM",
+        "TW",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "missing": [
+        "AZ",
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "PK",
+        "TC",
+        "TM",
+        "VG",
+        "VU",
+        "XK"
+      ]
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "missing": [
+        "CA",
+        "IQ",
+        "KY",
+        "MC",
+        "MK",
+        "MY",
+        "PK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "missing": [
+        "AG",
+        "CA",
+        "KW",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU",
+        "WS"
+      ]
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "missing": [
+        "CA",
+        "KN",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VC",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KP",
+      "name": "North Korea",
+      "missing": [
+        "CA",
+        "KR",
+        "KY",
+        "MC",
+        "MK",
+        "MY",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "RU",
+        "TC",
+        "TM",
+        "TR",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "missing": [
+        "CA",
+        "IL",
+        "IN",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "missing": [
+        "CA",
+        "FJ",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "TW",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "missing": [
+        "CA",
+        "ER",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
+      "missing": [
+        "AO",
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "PK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "TW",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "missing": [
+        "CA",
+        "KP",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "missing": [
+        "CA",
+        "DO",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "missing": [
+        "CA",
+        "KP",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "PK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "missing": [
+        "CA",
+        "IL",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "TW",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "UZ",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "missing": [
+        "CA",
+        "FJ",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "missing": [
+        "CA",
+        "HT",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ST",
+      "name": "Sao Tome and Principe",
+      "missing": [
+        "CA",
+        "KY",
+        "KZ",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "missing": [
+        "CA",
+        "IR",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "ML",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "VN",
+      "name": "Viet Nam",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "TR",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BN",
+      "name": "Brunei Darussalam",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "missing": [
+        "KY",
+        "MC",
+        "MK",
+        "SO",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CD",
+      "name": "DR Congo",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "Laos",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "VA",
+      "name": "Holy See",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "missing": [
+        "CA",
+        "KY",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "missing": [
+        "IL",
+        "KY",
+        "MK",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "missing": [
+        "CA",
+        "KY",
+        "MC",
+        "MK",
+        "TC",
+        "TM",
+        "VG"
+      ]
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "missing": [
+        "CA",
+        "KY",
+        "TC",
+        "TM",
+        "VG",
+        "VU"
+      ]
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "missing": [
+        "KY",
+        "TC",
+        "TM",
+        "VG"
+      ]
+    }
+  ]
+}
