@@ -69,9 +69,6 @@ group("validate: all rows", () => {
     if (territories.has(passport))
       throw new Error(`Territory code '${passport}' at row ${rowNumber} cannot be a passport`);
 
-    if (territories.has(destination))
-      throw new Error(`Territory code '${destination}' at row ${rowNumber} cannot be a destination`);
-
     const key = `${passport}:${destination}`;
     if (seen.has(key))
       throw new Error(`Duplicate route ${key} at row ${rowNumber}`);

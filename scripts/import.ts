@@ -7,6 +7,11 @@ import { log, group } from "./log.ts";
 
 const R_DATA_DIR = process.env.R_DATA_DIR ?? "../r-data";
 
+const { codes: territoryCodes } = JSON.parse(
+  fs.readFileSync("./data/territories.json", "utf8")
+);
+const territories = new Set<string>(territoryCodes);
+
 const NAME_MAP_CI: Record<string, string> = {};
 for (const [name, code] of Object.entries(NAME_MAP)) {
   NAME_MAP_CI[name.toLowerCase()] = code;
@@ -79,6 +84,7 @@ function main() {
   let skippedUnmapped = 0;
   let skippedUnknown = 0;
   let skippedDuplicate = 0;
+  let skippedTerritoryPassport = 0;
 
   group("import: wikipedia pass", () => {
     for (const [i, r] of dataRows.entries()) {
@@ -102,6 +108,12 @@ function main() {
       if (!passport || !destination) {
         skippedUnmapped++;
         log(`row ${i + 2}: skipped (unmapped) rawPassport='${rawPassport}'->${passport} rawDest='${rawDest}'->${destination}`);
+        continue;
+      }
+
+      if (territories.has(passport)) {
+        skippedTerritoryPassport++;
+        log(`row ${i + 2}: skipped (territory as passport) ${passport}:${destination}`);
         continue;
       }
 
@@ -169,6 +181,12 @@ function main() {
         continue;
       }
 
+      if (territories.has(passport)) {
+        skippedTerritoryPassport++;
+        log(`policy row ${i + 2}: skipped (territory as passport) ${passport}:${destination}`);
+        continue;
+      }
+
       const key = `${passport}:${destination}`;
       if (seen.has(key)) {
         log(`policy row ${i + 2}: skipped, ${key} already seen from wikipedia pass`);
@@ -232,6 +250,7 @@ function main() {
 
   console.log(`✓ master.csv written: ${out.length} rows`);
   console.log(`  skipped (unmapped code): ${skippedUnmapped}`);
+  console.log(`  skipped (territory as passport): ${skippedTerritoryPassport}`);
   console.log(`  skipped (unknown/unclassified requirement): ${skippedUnknown}`);
   console.log(`  skipped (duplicate route): ${skippedDuplicate}`);
   console.log(`  backfilled from destination-policy (official sources): ${backfilled}`);
