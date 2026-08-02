@@ -51,6 +51,7 @@ type MasterRow = {
   source_url: string;
   last_verified: string;
   confidence: string;
+  reciprocity: string;
 };
 
 function main() {
@@ -70,7 +71,8 @@ function main() {
   const iStay = idx("allowed_stay");
   const iNotes = idx("notes");
   const iUrl = idx("source_url");
-  log(`column indices: passport_code=${iPassport} destination_name=${iDest} requirement=${iReq} requirement_raw=${iReqRaw} allowed_stay=${iStay} notes=${iNotes} source_url=${iUrl}`);
+  const iReciprocity = idx("reciprocity");
+  log(`column indices: passport_code=${iPassport} destination_name=${iDest} requirement=${iReq} requirement_raw=${iReqRaw} allowed_stay=${iStay} notes=${iNotes} source_url=${iUrl} reciprocity=${iReciprocity}`);
 
   const seen = new Set<string>();
   const out: MasterRow[] = [];
@@ -92,6 +94,7 @@ function main() {
       const allowedStay = r[iStay];
       const notes = r[iNotes];
       const sourceUrl = r[iUrl];
+      const reciprocity = iReciprocity >= 0 ? r[iReciprocity] : "";
 
       const passport = CODE_MAP[rawPassport];
       const destination = resolveName(rawDest);
@@ -117,7 +120,7 @@ function main() {
       }
       seen.add(key);
 
-      log(`row ${i + 2}: accepted ${key} status=${status} days_raw='${allowedStay}' notes='${notes}' source_url='${sourceUrl}'`);
+      log(`row ${i + 2}: accepted ${key} status=${status} days_raw='${allowedStay}' notes='${notes}' source_url='${sourceUrl}' reciprocity='${reciprocity}'`);
       out.push({
         passport,
         destination,
@@ -127,6 +130,7 @@ function main() {
         source_url: sourceUrl,
         last_verified: "",
         confidence: "unverified",
+        reciprocity: reciprocity || "",
       });
     }
     log(`wikipedia pass done: ${out.length} accepted, ${skippedUnmapped} unmapped, ${skippedUnknown} unknown, ${skippedDuplicate} duplicate`);
@@ -189,6 +193,7 @@ function main() {
         source_url: r[iPUrl],
         last_verified: "",
         confidence: "unverified",
+        reciprocity: "",
       });
     }
     log(`backfill done: ${backfilled} rows added`);
@@ -202,7 +207,7 @@ function main() {
     );
     log(`sorted ${out.length} rows`);
 
-    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence"];
+    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity"];
     for (const [i, row] of out.entries()) {
       log(`writing row ${i + 1}/${out.length}: ${JSON.stringify(row)}`);
       lines.push(
@@ -215,6 +220,7 @@ function main() {
           csvField(row.source_url),
           row.last_verified,
           row.confidence,
+          csvField(row.reciprocity),
         ].join(",")
       );
     }
