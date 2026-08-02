@@ -10,6 +10,7 @@ export const CODE_MAP: Record<string, string> = {
   CENTRAL_AF: "CF",
   CHADIAN: "TD",
   "CITIZENS_O": "MK",
+  NORTH_MACE: "MK",
   COMORIAN: "KM",
   DEMOCRATIC: "CD",
   REPUBLIC_O: "CG",
