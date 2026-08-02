@@ -39,6 +39,7 @@ jobs:
           cp generated/scores.json ../r-ui/data/scores.json
           cp generated/visa-free-counts.json ../r-ui/data/visa-free-counts.json
           cp generated/route-metadata.json ../r-ui/data/route-metadata.json
+          cp generated/territory-notes.json ../r-ui/data/territory-notes.json
           cd ../r-ui
           git config user.email "153359624+savvydarknight@users.noreply.github.com"
           git config user.name "savvydarknight"
