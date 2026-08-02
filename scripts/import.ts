@@ -34,6 +34,13 @@ function cleanNotes(notes: string): string {
   return notes.trim();
 }
 
+function normalizeReciprocity(raw: string): string {
+  const v = raw.trim().toLowerCase();
+  if (["✓", "✔️", "✔", "yes", "y"].includes(v)) return "Yes";
+  if (["x", "✗", "✘", "no", "n"].includes(v)) return "No";
+  return "";
+}
+
 function mapStatus(requirement: string, requirementRaw: string): string | null {
   if (requirement === "visa_free") return "vf";
   if (requirement === "visa_on_arrival") return "vo";
@@ -100,7 +107,7 @@ function main() {
       const allowedStay = r[iStay];
       const notes = r[iNotes];
       const sourceUrl = r[iUrl];
-      const reciprocity = iReciprocity >= 0 ? r[iReciprocity] : "";
+      const reciprocity = iReciprocity >= 0 ? normalizeReciprocity(r[iReciprocity] || "") : "";
 
       const passport = CODE_MAP[rawPassport];
       const destination = resolveName(rawDest);
