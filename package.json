@@ -11,9 +11,10 @@
     "changelog": "tsx scripts/changelog.ts",
     "gaps": "tsx scripts/gaps.ts",
     "territories": "tsx scripts/territories.ts",
+    "references": "tsx scripts/references.ts",
     "edit": "tsx scripts/edit.ts",
     "test": "tsx --test tests/validate.test.ts tests/build.test.ts",
-    "generate": "npm run import && npm run validate && npm run build && npm run stats && npm run check && npm run changelog && npm run gaps && npm run territories"
+    "generate": "npm run import && npm run validate && npm run build && npm run stats && npm run check && npm run changelog && npm run gaps && npm run territories && npm run references"
   },
   "devDependencies": {
     "tsx": "^4.20.0",

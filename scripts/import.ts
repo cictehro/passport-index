@@ -64,6 +64,7 @@ type MasterRow = {
   last_verified: string;
   confidence: string;
   reciprocity: string;
+  footnote_ids: string;
 };
 
 function main() {
@@ -84,6 +85,7 @@ function main() {
   const iNotes = idx("notes");
   const iUrl = idx("source_url");
   const iReciprocity = idx("reciprocity");
+  const iFootnoteIds = idx("footnote_ids");
   log(`column indices: passport_code=${iPassport} destination_name=${iDest} requirement=${iReq} requirement_raw=${iReqRaw} allowed_stay=${iStay} notes=${iNotes} source_url=${iUrl} reciprocity=${iReciprocity}`);
 
   const seen = new Set<string>();
@@ -108,6 +110,7 @@ function main() {
       const notes = r[iNotes];
       const sourceUrl = r[iUrl];
       const reciprocity = iReciprocity >= 0 ? normalizeReciprocity(r[iReciprocity] || "") : "";
+      const footnoteIds = iFootnoteIds >= 0 ? r[iFootnoteIds] || "" : "";
 
       const passport = CODE_MAP[rawPassport];
       const destination = resolveName(rawDest);
@@ -150,6 +153,7 @@ function main() {
         last_verified: "",
         confidence: "unverified",
         reciprocity: reciprocity || "",
+        footnote_ids: footnoteIds,
       });
     }
     log(`wikipedia pass done: ${out.length} accepted, ${skippedUnmapped} unmapped, ${skippedUnknown} unknown, ${skippedDuplicate} duplicate`);
@@ -219,6 +223,7 @@ function main() {
         last_verified: "",
         confidence: "unverified",
         reciprocity: "",
+        footnote_ids: "",
       });
     }
     log(`backfill done: ${backfilled} rows added`);
@@ -232,7 +237,7 @@ function main() {
     );
     log(`sorted ${out.length} rows`);
 
-    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity"];
+    const lines = ["passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids"];
     for (const [i, row] of out.entries()) {
       log(`writing row ${i + 1}/${out.length}: ${JSON.stringify(row)}`);
       lines.push(
@@ -246,6 +251,7 @@ function main() {
           row.last_verified,
           row.confidence,
           csvField(row.reciprocity),
+          csvField(row.footnote_ids),
         ].join(",")
       );
     }

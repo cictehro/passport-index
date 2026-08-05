@@ -19,10 +19,11 @@ const iUrl = idx("source_url");
 const iVerified = idx("last_verified");
 const iConfidence = idx("confidence");
 const iReciprocity = idx("reciprocity");
-log(`column indices: passport=${iPassport} destination=${iDest} status=${iStatus} days=${iDays} notes=${iNotes} source_url=${iUrl} last_verified=${iVerified} confidence=${iConfidence} reciprocity=${iReciprocity}`);
+const iFootnoteIds = idx("footnote_ids");
+log(`column indices: passport=${iPassport} destination=${iDest} status=${iStatus} days=${iDays} notes=${iNotes} source_url=${iUrl} last_verified=${iVerified} confidence=${iConfidence} reciprocity=${iReciprocity} footnote_ids=${iFootnoteIds}`);
 
 const matrix: Record<string, Record<string, any>> = {};
-const metadata: Record<string, { notes: string; source_url: string; last_verified: string; confidence: string; reciprocity: string }> = {};
+const metadata: Record<string, { notes: string; source_url: string; last_verified: string; confidence: string; reciprocity: string; footnote_ids: string }> = {};
 
 group("build: matrix + metadata", () => {
   for (const [i, row] of dataRows.entries()) {
@@ -40,6 +41,7 @@ group("build: matrix + metadata", () => {
       last_verified: row[iVerified] || "",
       confidence: row[iConfidence] || "unverified",
       reciprocity: (iReciprocity >= 0 ? row[iReciprocity] : "") || "",
+      footnote_ids: (iFootnoteIds >= 0 ? row[iFootnoteIds] : "") || "",
     };
 
     log(`row ${i + 2}: ${passport}->${destination} = ${JSON.stringify(matrix[passport][destination])}`);

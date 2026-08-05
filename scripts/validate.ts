@@ -19,7 +19,7 @@ const rows = parseCSV(csv);
 const header = rows[0].join(",");
 log(`header: ${header}`);
 
-if (header !== "passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity") {
+if (header !== "passport,destination,status,days,notes,source_url,last_verified,confidence,reciprocity,footnote_ids") {
   throw new Error("Invalid CSV header");
 }
 
@@ -33,7 +33,7 @@ const seen = new Set<string>();
 group("validate: all rows", () => {
   for (const [index, row] of dataRows.entries()) {
     const rowNumber = index + 2;
-    const [passport, destination, status, days, notes, sourceUrl, lastVerified, confidence, reciprocity] = row;
+    const [passport, destination, status, days, notes, sourceUrl, lastVerified, confidence, reciprocity, footnoteIds] = row;
     log(`row ${rowNumber}: ${JSON.stringify(row)}`);
 
     if (!passport || passport.length !== 2)

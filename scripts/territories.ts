@@ -11,6 +11,7 @@ interface TerritoryEntry {
   name: string;
   description: string;
   source_url: string;
+  footnote_ids: string;
 }
 
 const byPassport: Record<string, TerritoryEntry[]> = {};
@@ -35,6 +36,7 @@ group("territories: parse and group", () => {
   const iName = idx("territory_name");
   const iDescription = idx("description");
   const iUrl = idx("source_url");
+  const iFootnoteIds = idx("footnote_ids");
 
   let skippedUnmapped = 0;
   for (const [i, r] of dataRows.entries()) {
@@ -43,6 +45,7 @@ group("territories: parse and group", () => {
     const name = r[iName] ?? "";
     const description = r[iDescription] ?? "";
     const sourceUrl = r[iUrl] ?? "";
+    const footnoteIds = iFootnoteIds >= 0 ? r[iFootnoteIds] ?? "" : "";
 
     const passport = CODE_MAP[rawPassport];
     if (!passport || !name) {
@@ -52,7 +55,7 @@ group("territories: parse and group", () => {
     }
 
     byPassport[passport] ??= [];
-    byPassport[passport].push({ region, name, description, source_url: sourceUrl });
+    byPassport[passport].push({ region, name, description, source_url: sourceUrl, footnote_ids: footnoteIds });
     log(`row ${i + 2}: ${passport} -> region='${region}' name='${name}'`);
   }
 
