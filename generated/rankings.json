@@ -916,18 +916,18 @@
   },
   {
     "rank": 184,
-    "passport": "ET",
-    "score": 53.5
-  },
-  {
-    "rank": 185,
     "passport": "SD",
     "score": 53.2
   },
   {
-    "rank": 186,
+    "rank": 185,
     "passport": "CD",
     "score": 52.4
+  },
+  {
+    "rank": 186,
+    "passport": "ET",
+    "score": 52
   },
   {
     "rank": 187,
