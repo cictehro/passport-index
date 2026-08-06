@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T08:56:19.520Z",
+  "generated_at": "2026-08-06T05:31:27.948Z",
   "universe_size": 199,
   "total_expected_pairs": 39402,
   "total_missing_pairs": 762,
@@ -939,7 +939,7 @@
     },
     {
       "code": "CV",
-      "name": "Cabo Verde",
+      "name": "Cape Verde",
       "missing": [
         "AU",
         "PS",
@@ -2733,7 +2733,7 @@
     },
     {
       "code": "CV",
-      "name": "Cabo Verde",
+      "name": "Cape Verde",
       "missing": [
         "DK",
         "FR",
