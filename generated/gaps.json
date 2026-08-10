@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T04:50:13.889Z",
+  "generated_at": "2026-08-10T03:32:29.643Z",
   "universe_size": 199,
   "total_expected_pairs": 39402,
-  "total_missing_pairs": 762,
+  "total_missing_pairs": 763,
   "by_passport": [
     {
       "code": "TW",
@@ -53,6 +53,19 @@
         "AU",
         "GB",
         "HK",
+        "MO",
+        "PS",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "missing": [
+        "CN",
+        "FR",
+        "KH",
         "MO",
         "PS",
         "TW",
@@ -273,18 +286,6 @@
       "missing": [
         "AU",
         "GB",
-        "MO",
-        "PS",
-        "TW",
-        "XK"
-      ]
-    },
-    {
-      "code": "HK",
-      "name": "Hong Kong",
-      "missing": [
-        "CN",
-        "FR",
         "MO",
         "PS",
         "TW",
@@ -2873,6 +2874,13 @@
       ]
     },
     {
+      "code": "KH",
+      "name": "Cambodia",
+      "missing": [
+        "HK"
+      ]
+    },
+    {
       "code": "KR",
       "name": "South Korea",
       "missing": [
@@ -3328,11 +3336,6 @@
     {
       "code": "KG",
       "name": "Kyrgyzstan",
-      "missing": []
-    },
-    {
-      "code": "KH",
-      "name": "Cambodia",
       "missing": []
     },
     {
