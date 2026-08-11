@@ -9495,6 +9495,14 @@
     "reciprocity": "",
     "footnote_ids": "17"
   },
+  "AO:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
+  },
   "AO:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
@@ -9889,11 +9897,11 @@
   },
   "AO:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "262"
   },
   "AO:GD": {
     "notes": "",
@@ -14607,6 +14615,14 @@
     "reciprocity": "No",
     "footnote_ids": "107;108"
   },
+  "AU:GB": {
+    "notes": "- Visa also not required if holder has UK ancestry clearance visa.\n- ETA UK is valid for 2 years. [ 315 ]\n- Adults can use ePassport gates. [ 316 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "320;321;322;323"
+  },
   "AU:GD": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
@@ -18911,6 +18927,14 @@
     "reciprocity": "",
     "footnote_ids": "13;EU1-14"
   },
+  "BB:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 12 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "11;12"
+  },
   "BB:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
@@ -19302,6 +19326,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "78"
+  },
+  "BB:GB": {
+    "notes": "(See also: UK-Overseas territories)",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "240"
   },
   "BB:GD": {
     "notes": "- Holders of Caricom Certificate of Skills can stay indefinitely.\n- Beginning on 1 December 2020, all travellers to Grenada will be required to complete an online application in order to receive a Pure Safe Travel Authorization Certificate to enter Grenada. [ 85 ]",
@@ -19894,6 +19926,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "162"
+  },
+  "BB:NZ": {
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 161 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "166;Australian_Resident_Visa-167"
   },
   "BB:OM": {
     "notes": "",
@@ -28327,6 +28367,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "BI:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "BI:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens",
@@ -28721,11 +28769,11 @@
   },
   "BI:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "258"
   },
   "BI:GD": {
     "notes": "",
@@ -29879,6 +29927,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "BJ:AU": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18"
+  },
   "BJ:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens",
@@ -30273,11 +30329,11 @@
   },
   "BJ:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "259"
   },
   "BJ:GD": {
     "notes": "- 90 days within any 180-day period",
@@ -33391,6 +33447,14 @@
     "reciprocity": "",
     "footnote_ids": "188"
   },
+  "BO:FR": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bolivian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "102"
+  },
   "BO:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bolivian_citizens",
@@ -34959,6 +35023,14 @@
     "reciprocity": "No",
     "footnote_ids": "ReferenceB-112;113"
   },
+  "BR:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "296;297"
+  },
   "BR:GD": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
@@ -36127,6 +36199,14 @@
     "reciprocity": "",
     "footnote_ids": "17;ec.europa.eu-18"
   },
+  "BS:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "14;15;16"
+  },
   "BS:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens",
@@ -36518,6 +36598,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "86"
+  },
+  "BS:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "247"
   },
   "BS:GD": {
     "notes": "",
@@ -37679,6 +37767,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "BT:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 20 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "BT:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens",
@@ -38671,6 +38767,14 @@
     "reciprocity": "",
     "footnote_ids": "175"
   },
+  "BT:NZ": {
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 176 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "179;Australian_Resident_Visa-180"
+  },
   "BT:OM": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens",
@@ -39231,6 +39335,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "BW:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 18 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18"
+  },
   "BW:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
@@ -39624,12 +39736,12 @@
     "footnote_ids": "87"
   },
   "BW:GB": {
-    "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "notes": "- Visa requirement was reinstated at 3pm, Oct 14, 2025 for Botswana nationals visiting the United Kingdom, following a decision by the parliament. [ 247 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "252;253"
   },
   "BW:GD": {
     "notes": "",
@@ -43935,6 +44047,14 @@
     "reciprocity": "Yes",
     "footnote_ids": "29"
   },
+  "CA:AU": {
+    "notes": "- 90 days on each visit in 12-month period.\n- Canadian Passport Holders may enter using Smartgate system.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "28"
+  },
   "CA:AZ": {
     "notes": "- Canadians with a residence permit issued by one of the GCC states may obtain a 30-day tourist visa on arrival in Azerbaijan. They must present their valid visa or residence permit along with their passport. [ 33 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
@@ -44207,6 +44327,14 @@
     "reciprocity": "No",
     "footnote_ids": "119;120"
   },
+  "CA:DK": {
+    "notes": "- 90 days within any 180-day period regardless of previous time spent in other Schengen countries (except the other Nordic countries). [ 118 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "117;118"
+  },
   "CA:DM": {
     "notes": "- Visitors must complete a landing card 3 days before departure. [ 122 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
@@ -44302,6 +44430,14 @@
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "262"
+  },
+  "CA:FR": {
+    "notes": "- 90 days within any 180-day period in the Schengen Area (in the Regions of France).\n- A Canadian passport is not required for visa-free travel to the French overseas territory of Saint Pierre et Miquelon; an identification document (e.g. driver's licence or Secure Certificate of Indian Status) can be used instead. [ 142 ] [ 143 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "141;142;143"
   },
   "CA:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
@@ -45495,6 +45631,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "CD:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "18;19"
+  },
   "CD:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
@@ -45889,11 +46033,11 @@
   },
   "CD:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "257"
   },
   "CD:GD": {
     "notes": "",
@@ -47031,6 +47175,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "CF:AU": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Central_African_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "CF:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Central_African_citizens",
@@ -47425,11 +47577,11 @@
   },
   "CF:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Central_African_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "257"
   },
   "CF:GD": {
     "notes": "",
@@ -48591,6 +48743,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "CG:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "CG:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens",
@@ -48982,6 +49142,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "86"
+  },
+  "CG:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "257"
   },
   "CG:GD": {
     "notes": "",
@@ -52094,6 +52262,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82"
+  },
+  "CI:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ivorian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "250"
   },
   "CI:GD": {
     "notes": "",
@@ -55209,11 +55385,11 @@
   },
   "CM:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "258"
   },
   "CM:GD": {
     "notes": "",
@@ -56774,6 +56950,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "Timatic-6;52;bilateralagreements-18"
+  },
+  "CN:GB": {
+    "notes": "- Visa not required if holding a valid Irish visa endorsed with BIVS. Entry permitted only if first point of entry to the Common Travel Area is in Ireland. [ 154 ]\n- Visas are issued for 2,5 or 10-year validity period for holiday and business purposes.\n- Visa not required for transit up to 48 hours if holding a valid US, Canada, Australia (physical sticker visa required), New Zealand, Ireland (Biometric visas only), and Schengen (D visa or residence permit only) visa or permanent residence permit. Need to depart from or fly to these countries and territories if not remaining airside, either directly or via reasonable routes.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "Timatic-6;158"
   },
   "CN:GD": {
     "notes": "",
@@ -59879,6 +60063,14 @@
     "reciprocity": "",
     "footnote_ids": "158"
   },
+  "CR:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Costa_Rican_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "80"
+  },
   "CR:GA": {
     "notes": "- Electronic visa holders must arrive via Libreville International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Costa_Rican_citizens",
@@ -62615,6 +62807,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "CV:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 18 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cape_Verdean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18"
+  },
   "CV:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cape_Verdean_citizens",
@@ -63009,11 +63209,11 @@
   },
   "CV:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cape_Verdean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "256"
   },
   "CV:GD": {
     "notes": "",
@@ -65774,6 +65974,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "47"
+  },
+  "CZ:AU": {
+    "notes": "- 90 days on each visit in 12-month period if granted.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "46"
   },
   "CZ:AZ": {
     "notes": "",
@@ -69329,11 +69537,11 @@
   },
   "DJ:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Djiboutian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "265"
   },
   "DJ:GD": {
     "notes": "",
@@ -72063,6 +72271,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "DM:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 20 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "DM:AZ": {
     "notes": "- Holding a residence visa issued by the United Arab Emirates may obtain a 30-day tourist visa on arrival in Azerbaijan. They must present their valid visa or residence permit along with their passport [ 23 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens",
@@ -72457,11 +72673,11 @@
   },
   "DM:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "267"
   },
   "DM:GD": {
     "notes": "",
@@ -75199,6 +75415,14 @@
     "reciprocity": "Yes",
     "footnote_ids": "18"
   },
+  "DZ:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "No",
+    "footnote_ids": "16;17"
+  },
   "DZ:AZ": {
     "notes": "- Algerians are eligible to obtain a 30-day tourist Visa on Arrival if holding a residence permit issued by one of GCC state members. They must present their valid visa or residence permit along with their passport. [ 21 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
@@ -75593,11 +75817,11 @@
   },
   "DZ:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
     "last_verified": "",
     "confidence": "unverified",
-    "reciprocity": "",
-    "footnote_ids": ""
+    "reciprocity": "Yes",
+    "footnote_ids": "273"
   },
   "DZ:GD": {
     "notes": "",
@@ -76574,6 +76798,14 @@
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "268;269"
+  },
+  "DZ:US": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "274"
   },
   "DZ:UY": {
     "notes": "",
@@ -79903,6 +80135,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "EG:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa) but must provide biometrics in person.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Egyptian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18"
+  },
   "EG:AZ": {
     "notes": "- Visa on Arrival for holders of a valid UAE residence permit. [ 21 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Egyptian_citizens",
@@ -80297,11 +80537,11 @@
   },
   "EG:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Egyptian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "292"
   },
   "EG:GD": {
     "notes": "",
@@ -81471,6 +81711,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "ER:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "ER:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens",
@@ -81857,11 +82105,11 @@
   },
   "ER:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "247"
   },
   "ER:GD": {
     "notes": "",
@@ -84607,6 +84855,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "ET:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16;17"
+  },
   "ET:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens",
@@ -85001,11 +85257,11 @@
   },
   "ET:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "248"
   },
   "ET:GD": {
     "notes": "",
@@ -87743,6 +87999,14 @@
     "reciprocity": "",
     "footnote_ids": "16"
   },
+  "FJ:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 14 ]\n- Transit visa is not required [ 15 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "13;14;15"
+  },
   "FJ:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens",
@@ -88137,11 +88401,11 @@
   },
   "FJ:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "auto1-97"
   },
   "FJ:GD": {
     "notes": "- Beginning on December 1, 2020, all travelers to Grenada will be required to complete an online application to receive a Pure Safe Travel Authorization Certificate to enter Grenada. [ 89 ]",
@@ -89287,6 +89551,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "FM:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]\n- Transit visa is not required. [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Micronesian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16;17"
+  },
   "FM:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Micronesian_citizens",
@@ -89678,6 +89950,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "82;83"
+  },
+  "FM:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Micronesian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "257;258"
   },
   "FM:GD": {
     "notes": "",
@@ -92415,6 +92695,14 @@
     "reciprocity": "",
     "footnote_ids": "17"
   },
+  "GA:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gabonese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
+  },
   "GA:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gabonese_citizens",
@@ -92809,11 +93097,11 @@
   },
   "GA:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gabonese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "247"
   },
   "GA:GD": {
     "notes": "",
@@ -95542,6 +95830,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "17;auto-18"
+  },
+  "GD:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Grenadian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
   },
   "GD:AZ": {
     "notes": "- Visa not required for a max. stay of 30 days for holders of a valid residence permit issued by a GCC Member State.",
@@ -98679,6 +98975,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "GH:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "GH:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
@@ -99081,11 +99385,11 @@
   },
   "GH:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "244"
   },
   "GH:GD": {
     "notes": "",
@@ -100223,6 +100527,14 @@
     "reciprocity": "",
     "footnote_ids": "16"
   },
+  "GM:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 15 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gambian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "14;15"
+  },
   "GM:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gambian_citizens",
@@ -100625,11 +100937,11 @@
   },
   "GM:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gambian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "213"
   },
   "GM:GD": {
     "notes": "",
@@ -101775,6 +102087,14 @@
     "reciprocity": "",
     "footnote_ids": "17"
   },
+  "GN:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
+  },
   "GN:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinean_citizens",
@@ -102177,11 +102497,11 @@
   },
   "GN:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "257"
   },
   "GN:GD": {
     "notes": "",
@@ -103335,6 +103655,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "GQ:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 20 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Equatorial_Guinean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "GQ:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Equatorial_Guinean_citizens",
@@ -103737,11 +104065,11 @@
   },
   "GQ:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Equatorial_Guinean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "273"
   },
   "GQ:GD": {
     "notes": "",
@@ -106863,6 +107191,14 @@
     "reciprocity": "",
     "footnote_ids": "150"
   },
+  "GT:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guatemalan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "81"
+  },
   "GT:GA": {
     "notes": "- Electronic visa holders must arrive via Libreville International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guatemalan_citizens",
@@ -108031,6 +108367,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "GW:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 20 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinea-Bissauan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "GW:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinea-Bissauan_citizens",
@@ -108430,6 +108774,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "87"
+  },
+  "GW:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guinea-Bissauan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "251"
   },
   "GW:GD": {
     "notes": "",
@@ -111543,6 +111895,14 @@
     "reciprocity": "",
     "footnote_ids": "171"
   },
+  "HK:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "95"
+  },
   "HK:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
@@ -113086,6 +113446,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "152"
+  },
+  "HN:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Honduran_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "80"
   },
   "HN:GA": {
     "notes": "- Electronic visa holders must arrive via Libreville International Airport.",
@@ -123703,6 +124071,14 @@
     "reciprocity": "",
     "footnote_ids": "85"
   },
+  "IN:AU": {
+    "notes": "- May obtain visa through the online portal (Online Visitor e600 visa).\n- Transit visa: required, can apply online.\n- From 1 October 2024, Indian citizens have been able to apply for a Work and Holiday, subclass 462, visa to explore Australia. [ 84 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "82;83;84"
+  },
   "IN:AZ": {
     "notes": "- 30 USD payable upon arrival at International Airports, and visa kiosks will provide an e-Visa. Prior eVisa required for entry via land borders.\n- Passports with Armenian entry stamp are subject to extra security screening subjective to immigration officer.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
@@ -124104,12 +124480,12 @@
     "footnote_ids": "178;179"
   },
   "IN:GB": {
-    "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "notes": "- Transit visa: Required, unless holding a valid visa or permanent residence in Canada, New Zealand, Australia, EU or the USA. [ 399 ]\n- Visa not required if holding a biometric Irish visa endorsed with \"BC\" or \"BC BIVS\".\n- Other exemptions apply for Visa-free Direct Airside Transit. [ 400 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "403;404;405"
   },
   "IN:GD": {
     "notes": "",
@@ -128766,6 +129142,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "167"
+  },
+  "IS:FR": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "88"
   },
   "IS:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
@@ -136255,6 +136639,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "KE:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kenyan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "KE:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kenyan_citizens",
@@ -136657,11 +137049,11 @@
   },
   "KE:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kenyan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "266"
   },
   "KE:GD": {
     "notes": "",
@@ -140935,6 +141327,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "KI:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 18 ]\n- Transit visa is not required. [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kiribati_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18;19"
+  },
   "KI:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kiribati_citizens",
@@ -141334,6 +141734,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "87;88"
+  },
+  "KI:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kiribati_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "257;258"
   },
   "KI:GD": {
     "notes": "",
@@ -142487,6 +142895,14 @@
     "reciprocity": "",
     "footnote_ids": "auto-17"
   },
+  "KM:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Comorian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
+  },
   "KM:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Comorian_citizens",
@@ -142889,11 +143305,11 @@
   },
   "KM:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Comorian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "267"
   },
   "KM:GD": {
     "notes": "",
@@ -143479,6 +143895,14 @@
     "reciprocity": "",
     "footnote_ids": "182"
   },
+  "KM:NZ": {
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 181 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Comorian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "186;Australian_Resident_Visa-187"
+  },
   "KM:OM": {
     "notes": "- Holders of a GCC state resident permit can get a 28 days visa on arrival that costs 5 Omani Riyals.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Comorian_citizens",
@@ -144039,6 +144463,14 @@
     "reciprocity": "Yes",
     "footnote_ids": "16;auto-17"
   },
+  "KN:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 15 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "No",
+    "footnote_ids": "14;15"
+  },
   "KN:AZ": {
     "notes": "- If holding a residence visa issued by the United Arab Emirates may obtain a 30-day tourist visa on arrival in Azerbaijan. must present their valid visa or residence permit along with their passport. [ 19 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens",
@@ -144318,6 +144750,14 @@
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "64"
+  },
+  "KN:DK": {
+    "notes": "- 90 days during 180 days period following the date of first entry in the Schengen Area; [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "63;auto-17"
   },
   "KN:DM": {
     "notes": "✓",
@@ -150223,6 +150663,14 @@
     "reciprocity": "No",
     "footnote_ids": "36"
   },
+  "KZ:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kazakhstani_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "No",
+    "footnote_ids": "34;35"
+  },
   "KZ:AZ": {
     "notes": "- 90 days within any 180-day period.\n- If staying more than 15 days passengers visiting relatives must register with local police. If staying in a hotel, this will be arranged by the hotel.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kazakhstani_citizens",
@@ -154903,6 +155351,14 @@
     "reciprocity": "",
     "footnote_ids": "16"
   },
+  "LC:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 15 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Lucian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "14;15"
+  },
   "LC:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Lucian_citizens",
@@ -155305,11 +155761,11 @@
   },
   "LC:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Lucian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "236"
   },
   "LC:GD": {
     "notes": "",
@@ -158047,6 +158503,14 @@
     "reciprocity": "",
     "footnote_ids": "31"
   },
+  "LK:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "29;30"
+  },
   "LK:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
@@ -159047,6 +159511,14 @@
     "reciprocity": "",
     "footnote_ids": "200"
   },
+  "LK:NZ": {
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining Electronic Travel Authorization prior to departure. [ 204 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "204;Australian_Resident_Visa-205"
+  },
   "LK:OM": {
     "notes": "- Foreigners residing in GCC countries may obtain a visa on arrival in Oman. Entry visas are issued to residents of any GCC country who arrive directly from any GCC country. Restrictions apply to non-degree related professions (e.g., labourers, carpenters).\n- Entry visas are also granted to members of the resident's family as long as they enter together.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
@@ -159423,6 +159895,14 @@
     "reciprocity": "",
     "footnote_ids": "284;285"
   },
+  "LK:US": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "290"
+  },
   "LK:UY": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
@@ -159590,6 +160070,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "17"
+  },
+  "LR:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liberian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
   },
   "LR:AZ": {
     "notes": "",
@@ -159993,11 +160481,11 @@
   },
   "LR:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liberian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "255"
   },
   "LR:GD": {
     "notes": "",
@@ -161151,6 +161639,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "LS:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 18 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lesotho_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;auto-18"
+  },
   "LS:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lesotho_citizens",
@@ -161553,11 +162049,11 @@
   },
   "LS:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lesotho_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "257"
   },
   "LS:GD": {
     "notes": "",
@@ -167463,6 +167959,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "LY:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18;19"
+  },
   "LY:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens",
@@ -167865,11 +168369,11 @@
   },
   "LY:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Libyan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "265"
   },
   "LY:GD": {
     "notes": "",
@@ -169416,12 +169920,12 @@
     "footnote_ids": "88"
   },
   "MA:GB": {
-    "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "notes": "- Conditional 48 hours visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "261"
   },
   "MA:GD": {
     "notes": "",
@@ -175295,6 +175799,14 @@
     "reciprocity": "",
     "footnote_ids": "22"
   },
+  "MG:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malagasy_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "20;21"
+  },
   "MG:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malagasy_citizens",
@@ -175697,11 +176209,11 @@
   },
   "MG:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malagasy_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "271"
   },
   "MG:GD": {
     "notes": "",
@@ -176855,6 +177367,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "MH:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]\n- Transit visa is not required. [ 18 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17;18"
+  },
   "MH:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_citizens",
@@ -177254,6 +177774,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "87;88"
+  },
+  "MH:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "264;265"
   },
   "MH:GD": {
     "notes": "",
@@ -178230,6 +178758,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "257;258"
+  },
+  "MH:US": {
+    "notes": "- Under the Compact of Free Association visa exemption applies to citizens by birth, former citizens of the Trust Territory of the Pacific Islands who were citizens in 1986, naturalized spouses, children and naturalized citizens who are residents for at least 5 years and does not apply to those who obtained passports through investment or passport sale. [ 261 ] [ 262 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Marshall_Islands_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "266;267;268"
   },
   "MH:UY": {
     "notes": "",
@@ -179951,6 +180487,14 @@
     "reciprocity": "",
     "footnote_ids": "16"
   },
+  "ML:AU": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "14;15"
+  },
   "ML:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malian_citizens",
@@ -180353,11 +180897,11 @@
   },
   "ML:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "249"
   },
   "ML:GD": {
     "notes": "",
@@ -182903,6 +183447,14 @@
     "reciprocity": "",
     "footnote_ids": "252;253"
   },
+  "MM:US": {
+    "notes": "- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 258 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "259;ban2025-260"
+  },
   "MM:UY": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens",
@@ -183078,6 +183630,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "20"
+  },
+  "MN:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "18;19"
   },
   "MN:AZ": {
     "notes": "",
@@ -184079,6 +184639,14 @@
     "reciprocity": "",
     "footnote_ids": "177"
   },
+  "MN:NZ": {
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 180 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "181;Australian_Resident_Visa-182"
+  },
   "MN:OM": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens",
@@ -184454,6 +185022,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "261;262"
+  },
+  "MN:US": {
+    "notes": "- Visa is typically issued for multiple entries with a 10-year (120 months) validity.\n- Duration of stay is determined by immigration officers at the port of entry (usually 6 months).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "266;US-State-Reciprocity-267"
   },
   "MN:UY": {
     "notes": "",
@@ -186175,6 +186751,14 @@
     "reciprocity": "",
     "footnote_ids": "17"
   },
+  "MR:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritanian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
+  },
   "MR:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritanian_citizens",
@@ -186577,11 +187161,11 @@
   },
   "MR:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "260"
   },
   "MR:GD": {
     "notes": "",
@@ -189319,6 +189903,14 @@
     "reciprocity": "",
     "footnote_ids": "16;ec.europa.eu-17"
   },
+  "MU:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 15 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "14;15"
+  },
   "MU:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritian_citizens",
@@ -191887,6 +192479,14 @@
     "reciprocity": "",
     "footnote_ids": "174"
   },
+  "MV:NZ": {
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 175 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Maldivian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "178;Australian_Resident_Visa-179"
+  },
   "MV:OM": {
     "notes": "- The immigration authorities of Oman provides a visa exemption to Maldives nationals who hold a valid Schengen visa or visa from the UK, US, Canada, Australia, Japan. [ 183 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Maldivian_citizens",
@@ -192263,6 +192863,14 @@
     "reciprocity": "",
     "footnote_ids": "257;258"
   },
+  "MV:US": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Maldivian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "264"
+  },
   "MV:UY": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Maldivian_citizens",
@@ -192430,6 +193038,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "20"
+  },
+  "MW:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malawian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "18;19"
   },
   "MW:AZ": {
     "notes": "",
@@ -192833,11 +193449,11 @@
   },
   "MW:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malawian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "261"
   },
   "MW:GD": {
     "notes": "",
@@ -193983,6 +194599,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "MX:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).\n- Fee 195 AUD.\n- Transit visa is not required.\n- Exempt for stays of up to 90 days for holders of an APEC Business Travel Card (ABTC) with local pre-clearance. [ 18 ] [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mexican_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17;APEC_MX-18;INM_APEC_MX-19"
+  },
   "MX:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mexican_citizens",
@@ -194382,6 +195006,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "97;98"
+  },
+  "MX:GB": {
+    "notes": "- ETA UK will be valid for 2 years.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mexican_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "294;295"
   },
   "MX:GD": {
     "notes": "",
@@ -197103,6 +197735,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "MZ:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "MZ:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
@@ -197505,11 +198145,11 @@
   },
   "MZ:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "263"
   },
   "MZ:GD": {
     "notes": "",
@@ -198663,6 +199303,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "NA:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Namibian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "NA:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Namibian_citizens",
@@ -199064,12 +199712,12 @@
     "footnote_ids": "89;90"
   },
   "NA:GB": {
-    "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "notes": "- Visa required since 19 July 2023. [ 269 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Namibian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "274;275"
   },
   "NA:GD": {
     "notes": "",
@@ -200223,6 +200871,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "NE:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 18 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18"
+  },
   "NE:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens",
@@ -200625,11 +201281,11 @@
   },
   "NE:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerien_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "266"
   },
   "NE:GD": {
     "notes": "",
@@ -201783,6 +202439,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "NG:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 20 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "NG:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens",
@@ -202185,11 +202849,11 @@
   },
   "NG:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "242"
   },
   "NG:GD": {
     "notes": "",
@@ -203734,6 +204398,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "167"
+  },
+  "NI:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nicaraguan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "84"
   },
   "NI:GA": {
     "notes": "- Electronic visa holders must arrive via Libreville International Airport.",
@@ -205287,6 +205959,14 @@
     "reciprocity": "",
     "footnote_ids": "183"
   },
+  "NL:FR": {
+    "notes": "- Freedom of movement (in Regions of France)\n- ID card valid",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "99"
+  },
   "NL:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
@@ -205888,12 +206568,12 @@
     "footnote_ids": "195"
   },
   "NL:NZ": {
-    "notes": "",
-    "source_url": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+    "notes": "- May enter using eGate. [ 193 ]\n- International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority. [ 194 ]\n- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 195 ] Such travellers are not required to pay the International Visitor Conservation and Tourism Levy. [ 194 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "198;NZ_eGate-199;NZ_IVL-200;Australian_Resident_Visa-201"
   },
   "NL:OM": {
     "notes": "- No need of visa for less than 14 days.",
@@ -208255,6 +208935,14 @@
     "reciprocity": "",
     "footnote_ids": "53;54"
   },
+  "NP:CN": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nepalese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "61"
+  },
   "NP:CO": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nepalese_citizens",
@@ -209423,6 +210111,14 @@
     "reciprocity": "",
     "footnote_ids": "265;266"
   },
+  "NP:US": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nepalese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "272"
+  },
   "NP:UY": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nepalese_citizens",
@@ -209598,6 +210294,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "19"
+  },
+  "NR:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]\n- Transit visa is not required. [ 18 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nauruan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17;18"
   },
   "NR:AZ": {
     "notes": "",
@@ -210000,12 +210704,12 @@
     "footnote_ids": "87;88;89"
   },
   "NR:GB": {
-    "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "notes": "- The UK has imposed a mandatory visit visa from 9 December 2025. [ 263 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nauruan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "264;TBI_News-265"
   },
   "NR:GD": {
     "notes": "",
@@ -211558,6 +212262,14 @@
     "confidence": "unverified",
     "reciprocity": "No",
     "footnote_ids": "105;106"
+  },
+  "NZ:GB": {
+    "notes": "- Visa also not required if holder has UK ancestry clearance visa.\n- Adults can use ePassport gates. [ 302 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "306;307;308"
   },
   "NZ:GD": {
     "notes": "",
@@ -214695,6 +215407,14 @@
     "reciprocity": "",
     "footnote_ids": "156"
   },
+  "PA:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "77"
+  },
   "PA:GA": {
     "notes": "- Electronic visa holders must arrive via Libreville International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Panamanian_citizens",
@@ -216255,6 +216975,14 @@
     "reciprocity": "",
     "footnote_ids": "188"
   },
+  "PE:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Peruvian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "101"
+  },
   "PE:GA": {
     "notes": "- e-Visa holders must arrive at Libreville International Airport.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Peruvian_citizens",
@@ -217423,6 +218151,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "PG:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).\n- Transit visa is not required. [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Papua_New_Guinean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18;19"
+  },
   "PG:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Papua_New_Guinean_citizens",
@@ -217822,6 +218558,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "95;96"
+  },
+  "PG:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Papua_New_Guinean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "276;277"
   },
   "PG:GD": {
     "notes": "",
@@ -226823,6 +227567,14 @@
     "reciprocity": "",
     "footnote_ids": "23"
   },
+  "PW:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).\n- Transit visa is not required. [ 22 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Palauan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "20;21;22"
+  },
   "PW:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Palauan_citizens",
@@ -227222,6 +227974,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "95;96"
+  },
+  "PW:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Palauan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "280;281"
   },
   "PW:GD": {
     "notes": "",
@@ -228758,6 +229518,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "178"
+  },
+  "PY:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Paraguayan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "90"
   },
   "PY:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
@@ -234663,6 +235431,14 @@
     "reciprocity": "Yes",
     "footnote_ids": "87"
   },
+  "RU:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "Yes",
+    "footnote_ids": "85;86"
+  },
   "RU:AZ": {
     "notes": "- 90 days within one calendar year period.\n- Entry denied to those of Armenian descent.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
@@ -235064,12 +235840,12 @@
     "footnote_ids": "173;174"
   },
   "RU:GB": {
-    "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "notes": "- 24-hours visa-free visit:\n  - When in transit to/from Australia, Canada, New Zealand or USA, or\n  - If holder of residence permit issued by Australia, Canada, New Zealand or USA, or\n  - If holder of certain EEA or Switzerland visas, or\n  - If holder of certain Irish visas. [ 359 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "last_verified": "",
     "confidence": "unverified",
-    "reciprocity": "",
-    "footnote_ids": ""
+    "reciprocity": "Yes",
+    "footnote_ids": "362;363"
   },
   "RU:GD": {
     "notes": "",
@@ -239351,6 +240127,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "SB:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 18 ]\n- Transit visa is not required. [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Solomon_Islands_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18;19"
+  },
   "SB:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Solomon_Islands_citizens",
@@ -239750,6 +240534,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "89;90"
+  },
+  "SB:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Solomon_Islands_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "261;262"
   },
   "SB:GD": {
     "notes": "",
@@ -240903,6 +241695,14 @@
     "reciprocity": "",
     "footnote_ids": "16;ec.europa.eu-17"
   },
+  "SC:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 15 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "14;15"
+  },
   "SC:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
@@ -241302,6 +242102,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "76"
+  },
+  "SC:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "218"
   },
   "SC:GD": {
     "notes": "",
@@ -242463,6 +243271,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "SD:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 18 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "17;18"
+  },
   "SD:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
@@ -242865,11 +243681,11 @@
   },
   "SD:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "295"
   },
   "SD:GD": {
     "notes": "",
@@ -243838,6 +244654,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "289;290"
+  },
+  "SD:US": {
+    "notes": "- Effective June 9, 2025, U.S. visas will no longer be issued to citizens of 12 countries, with certain exemptions. [ 292 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "296;ban2025-297"
   },
   "SD:UY": {
     "notes": "",
@@ -250343,6 +251167,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "SL:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sierra_Leonean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "SL:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sierra_Leonean_citizens",
@@ -250745,11 +251577,11 @@
   },
   "SL:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sierra_Leonean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "251"
   },
   "SL:GD": {
     "notes": "",
@@ -253447,6 +254279,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "SN:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Senegalese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "SN:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Senegalese_citizens",
@@ -253849,11 +254689,11 @@
   },
   "SN:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Senegalese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "242"
   },
   "SN:GD": {
     "notes": "",
@@ -254823,6 +255663,14 @@
     "reciprocity": "",
     "footnote_ids": "237;238"
   },
+  "SN:US": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Senegalese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "243"
+  },
   "SN:UY": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Senegalese_citizens",
@@ -254998,6 +255846,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "15"
+  },
+  "SO:AU": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "14"
   },
   "SO:AZ": {
     "notes": "",
@@ -255393,11 +256249,11 @@
   },
   "SO:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "260"
   },
   "SO:GD": {
     "notes": "",
@@ -258119,6 +258975,14 @@
     "reciprocity": "",
     "footnote_ids": "17"
   },
+  "SS:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
+  },
   "SS:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens",
@@ -258521,11 +259385,11 @@
   },
   "SS:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Sudanese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "237"
   },
   "SS:GD": {
     "notes": "",
@@ -259655,6 +260519,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "ST:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Santomean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "18;19"
+  },
   "ST:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Santomean_citizens",
@@ -260054,6 +260926,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "89"
+  },
+  "ST:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Santomean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "258"
   },
   "ST:GD": {
     "notes": "",
@@ -261590,6 +262470,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "147"
+  },
+  "SV:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Salvadoran_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "76"
   },
   "SV:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
@@ -264319,6 +265207,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "SZ:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swazi_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "18;19"
+  },
   "SZ:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swazi_citizens",
@@ -264721,11 +265617,11 @@
   },
   "SZ:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swazi_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "256"
   },
   "SZ:GD": {
     "notes": "",
@@ -265871,6 +266767,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "TD:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "TD:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens",
@@ -266273,11 +267177,11 @@
   },
   "TD:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "252"
   },
   "TD:GD": {
     "notes": "",
@@ -267431,6 +268335,14 @@
     "reciprocity": "",
     "footnote_ids": "18"
   },
+  "TG:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17"
+  },
   "TG:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens",
@@ -267833,11 +268745,11 @@
   },
   "TG:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "255"
   },
   "TG:GD": {
     "notes": "",
@@ -272127,6 +273039,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "TL:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "TL:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
@@ -273119,6 +274039,14 @@
     "reciprocity": "",
     "footnote_ids": "180"
   },
+  "TL:NZ": {
+    "notes": "- United Nations Transitional Administration in East Timor travel documents are unacceptable, and visas will not be endorsed in them. [ 183 ]\n- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 184 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "184;INZ_Operational_Manual_A2.15-185;Australian_Resident_Visa-186"
+  },
   "TL:OM": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
@@ -273487,6 +274415,14 @@
     "reciprocity": "",
     "footnote_ids": "263;264"
   },
+  "TL:US": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "270"
+  },
   "TL:UY": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
@@ -273654,6 +274590,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "57"
+  },
+  "TM:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 56 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkmenistani_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "55;56"
   },
   "TM:AZ": {
     "notes": "- The standard e-Visa is issued within 3 business days. The e-Visa for Azerbaijan is valid for a period of 90 days, allowing a single entry for a stay of up to 30 days in the country. The categories of travel authorized with e-Visa include tourism, business, science, education, work, culture, sports, humanitarian activities, medical treatment, personal trips, and official trips.",
@@ -275215,6 +276159,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "TN:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tunisian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "TN:AZ": {
     "notes": "- Holders of a pre-arranged approval may obtain visa on arrival.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tunisian_citizens",
@@ -275617,11 +276569,11 @@
   },
   "TN:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tunisian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "267"
   },
   "TN:GD": {
     "notes": "",
@@ -277174,6 +278126,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "94;95"
+  },
+  "TO:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "268"
   },
   "TO:GD": {
     "notes": "",
@@ -279879,6 +280839,14 @@
     "reciprocity": "",
     "footnote_ids": "data.consilium.europa.eu-18;consilium.europa.eu-19"
   },
+  "TT:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 17 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "AusSubclass600-16;17"
+  },
   "TT:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
@@ -280281,11 +281249,11 @@
   },
   "TT:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "224"
   },
   "TT:GD": {
     "notes": "- Holders of Caricom Certificate of Skills can stay indefinitely.\n- Beginning on December 1, 2020, all travellers to Grenada will be required to complete an online application in order to receive a Pure Safe Travel Authorization Certificate to enter Grenada. [ 84 ]",
@@ -281438,6 +282406,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "21"
+  },
+  "TV:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 19 ]\n- Transit visa is not required. [ 20 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tuvaluan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "18;19;20"
   },
   "TV:AZ": {
     "notes": "",
@@ -282991,6 +283967,14 @@
     "reciprocity": "",
     "footnote_ids": "24"
   },
+  "TW:AU": {
+    "notes": "- 90 days on each visit in 12-month period.\n- ROC passports without National ID numbers are not accepted unless the holder has permanent residency in another country. The longest is 3 months. For tourism or business purposes only, an Electronic Travel Authority (ETA) must be applied for in advance through the mobile application \"AustralianETA\", with a validity period of one year. Only a Republic of China passport holding a Republic of China national identity card number will be issued, and non registered citizens are not allowed to apply unless they have permanent residency in a third country. [ 20 ]\n- May enter using SmartGate on arrival in Australia. [ 21 ] [ 22 ]\n- Ashmore and Cartier Islands - Special authorisation required. [ 23 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20;border.gov.au-21;22;23"
+  },
   "TW:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
@@ -284527,6 +285511,14 @@
     "reciprocity": "",
     "footnote_ids": "16"
   },
+  "TZ:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 15 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "14;15"
+  },
   "TZ:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens",
@@ -284929,11 +285921,11 @@
   },
   "TZ:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "257"
   },
   "TZ:GD": {
     "notes": "",
@@ -287655,6 +288647,14 @@
     "reciprocity": "",
     "footnote_ids": "17"
   },
+  "UG:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
+  },
   "UG:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens",
@@ -288057,11 +289057,11 @@
   },
   "UG:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "256"
   },
   "UG:GD": {
     "notes": "",
@@ -290759,6 +291759,14 @@
     "reciprocity": "",
     "footnote_ids": "21"
   },
+  "UY:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uruguayan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20"
+  },
   "UY:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uruguayan_citizens",
@@ -291142,6 +292150,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "165"
+  },
+  "UY:FR": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uruguayan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "89"
   },
   "UY:GA": {
     "notes": "- e-Visas are available for one to six months.\n- Electronic visa holders must arrive via Libreville International Airport.\n- International Certificate of Vaccination or Prophylaxis required. [ 91 ]",
@@ -295455,6 +296471,14 @@
     "reciprocity": "",
     "footnote_ids": "22"
   },
+  "VC:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 21 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Vincent_and_the_Grenadines_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "20;21"
+  },
   "VC:AZ": {
     "notes": "- According to Henley Passport Index, Saint Vincent and the Grenadines can get eVisa to Azerbaijan but not in this official listed countries [ 24 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Vincent_and_the_Grenadines_citizens",
@@ -295735,6 +296759,14 @@
     "reciprocity": "",
     "footnote_ids": "72"
   },
+  "VC:DK": {
+    "notes": "- 90 days within any 180 day period in the Schengen Area",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Vincent_and_the_Grenadines_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "71"
+  },
   "VC:DM": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Vincent_and_the_Grenadines_citizens",
@@ -295846,6 +296878,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "86"
+  },
+  "VC:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Vincent_and_the_Grenadines_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "245;246"
   },
   "VC:GD": {
     "notes": "",
@@ -297006,6 +298046,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "29"
+  },
+  "VE:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "27;28"
   },
   "VE:AZ": {
     "notes": "- Visa not required for a max. stay of 30 days for holders of a valid residence permit issued by a GCC Member State. [ 32 ]",
@@ -300127,6 +301175,14 @@
     "reciprocity": "",
     "footnote_ids": "22"
   },
+  "VU:AU": {
+    "notes": "- Online Visitor e600 visa are not eligible. Please contact your nearest Australian Government Office overseas. [ 20 ] Transit visa is not required. [ 21 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vanuatu_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "19;20;21"
+  },
   "VU:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vanuatu_citizens",
@@ -300528,12 +301584,12 @@
     "footnote_ids": "91;92"
   },
   "VU:GB": {
-    "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "notes": "- Visa required since 19 July 2023. [ 264 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vanuatu_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "269;270"
   },
   "VU:GD": {
     "notes": "- Beginning on December 1, 2020, all travellers to Grenada will be required to complete an online application in order to receive a Pure Safe Travel Authorization Certificate to enter Grenada. [ 99 ]",
@@ -301679,6 +302735,14 @@
     "reciprocity": "",
     "footnote_ids": "EU1-21;EU2-22"
   },
+  "WS:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 19 ]\n- Transit visa is not required. [ 20 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "18;19;20"
+  },
   "WS:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
@@ -302078,6 +303142,14 @@
     "confidence": "unverified",
     "reciprocity": "",
     "footnote_ids": "84;85"
+  },
+  "WS:GB": {
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "239;240"
   },
   "WS:GD": {
     "notes": "",
@@ -306343,6 +307415,14 @@
     "reciprocity": "",
     "footnote_ids": "19"
   },
+  "ZA:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa).\n- Transit visa is not required. [ 18 ]\n- Biometric Collection is mandatory upon request for the Online Visitor e600 Visa.\n- Visas can be issued within a matter of seconds depending on the length of queue once all the appropriate information is provided including Biometrics.\n- Departing Passengers may use SmartGate for a faster entry into the passenger area, this is not applicable to arriving passengers for entry into Australia.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "16;17;18"
+  },
   "ZA:AZ": {
     "notes": "- Holding a residence visa issued by the United Arab Emirates may obtain a 30-day tourist visa on arrival in Azerbaijan. They must present their valid visa or residence permit along with their passport [ 22 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens",
@@ -306744,12 +307824,12 @@
     "footnote_ids": "95"
   },
   "ZA:GB": {
-    "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "notes": "- Right of Abode holders with a Certificate of Entitlement in their Commonwealth passport may enter the United Kingdom and remain indefinitely.\n- Temporary Visa holders can only enter for 3 months if entering from the Republic of Ireland (Eire).\n- The Crown dependencies include the Bailiwicks of Jersey and Guernsey as well as the Isle of Man. The same Visa Policy applies mainly to the British Overseas Territory of Gibraltar, therefore a United Kingdom Visa can be used.\n- Transit Visa Required unless in possession of an exemption document; Australian, New Zealand and all other Visas with confirmation slips/ electronically granted Visas with a paper print-out as confirmation are not permitted as an exemption document unless endorsed by the airline. Note: Schengen Visa type \"C\" is not an approved exemption document. Entry must be refused or denied boarding on vessel. Direct Airside or Transit Visa required depending on type of transit.\n- Entering the United Kingdom (including Northern Ireland) by land, sea or air from the Republic of Ireland is not permitted unless in possession of a valid U.K. Visa or Immigration Document. UK Land or Transit Visa cannot be used to transit the UK from Ireland or from Ireland to the UK, a Standard Visa is required.",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "279"
   },
   "ZA:GD": {
     "notes": "",
@@ -307911,6 +308991,14 @@
     "reciprocity": "",
     "footnote_ids": "17"
   },
+  "ZM:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 16 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zambian_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "15;16"
+  },
   "ZM:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zambian_citizens",
@@ -308313,11 +309401,11 @@
   },
   "ZM:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zambian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "237"
   },
   "ZM:GD": {
     "notes": "",
@@ -309463,6 +310551,14 @@
     "reciprocity": "",
     "footnote_ids": "20"
   },
+  "ZW:AU": {
+    "notes": "- May apply online (Online Visitor e600 visa). [ 19 ]",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zimbabwean_citizens",
+    "last_verified": "",
+    "confidence": "unverified",
+    "reciprocity": "",
+    "footnote_ids": "18;19"
+  },
   "ZW:AZ": {
     "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zimbabwean_citizens",
@@ -309865,11 +310961,11 @@
   },
   "ZW:GB": {
     "notes": "",
-    "source_url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+    "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zimbabwean_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": ""
+    "footnote_ids": "255"
   },
   "ZW:GD": {
     "notes": "",
