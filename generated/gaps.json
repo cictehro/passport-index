@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T05:27:21.845Z",
+  "generated_at": "2026-08-11T05:47:12.687Z",
   "universe_size": 199,
   "total_expected_pairs": 39402,
-  "total_missing_pairs": 721,
+  "total_missing_pairs": 717,
   "by_passport": [
     {
       "code": "TW",
@@ -89,18 +89,6 @@
         "MO",
         "PS",
         "SM",
-        "TW",
-        "XK"
-      ]
-    },
-    {
-      "code": "HK",
-      "name": "Hong Kong",
-      "missing": [
-        "CN",
-        "KH",
-        "MO",
-        "PS",
         "TW",
         "XK"
       ]
@@ -285,6 +273,17 @@
       ]
     },
     {
+      "code": "HK",
+      "name": "Hong Kong",
+      "missing": [
+        "KH",
+        "MO",
+        "PS",
+        "TW",
+        "XK"
+      ]
+    },
+    {
       "code": "IL",
       "name": "Israel",
       "missing": [
@@ -369,17 +368,6 @@
         "TW",
         "UA",
         "US",
-        "XK"
-      ]
-    },
-    {
-      "code": "MO",
-      "name": "Macao",
-      "missing": [
-        "CN",
-        "HK",
-        "PS",
-        "TW",
         "XK"
       ]
     },
@@ -1825,6 +1813,14 @@
       ]
     },
     {
+      "code": "MO",
+      "name": "Macao",
+      "missing": [
+        "PS",
+        "XK"
+      ]
+    },
+    {
       "code": "MT",
       "name": "Malta",
       "missing": [
@@ -2405,7 +2401,6 @@
         "MK",
         "ML",
         "MN",
-        "MO",
         "MR",
         "MU",
         "MV",
@@ -2615,7 +2610,6 @@
         "CI",
         "CN",
         "KP",
-        "MO",
         "TL",
         "TR",
         "TW",
@@ -2661,15 +2655,6 @@
         "CI",
         "CM",
         "IR"
-      ]
-    },
-    {
-      "code": "CN",
-      "name": "China",
-      "missing": [
-        "HK",
-        "MO",
-        "TW"
       ]
     },
     {
@@ -2755,6 +2740,13 @@
       "name": "Côte d'Ivoire",
       "missing": [
         "AO"
+      ]
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "missing": [
+        "TW"
       ]
     },
     {

@@ -2,22 +2,22 @@
   {
     "rank": 1,
     "passport": "SG",
-    "score": 160.7
+    "score": 161.2
   },
   {
     "rank": 2,
+    "passport": "HK",
+    "score": 158.8
+  },
+  {
+    "rank": 3,
     "passport": "AE",
     "score": 158.6
   },
   {
-    "rank": 3,
+    "rank": 4,
     "passport": "MY",
     "score": 158.5
-  },
-  {
-    "rank": 4,
-    "passport": "HK",
-    "score": 157.8
   },
   {
     "rank": 5,
@@ -321,28 +321,28 @@
   },
   {
     "rank": 65,
+    "passport": "MO",
+    "score": 128.3
+  },
+  {
+    "rank": 66,
     "passport": "PY",
     "score": 128
   },
   {
-    "rank": 66,
+    "rank": 67,
     "passport": "RS",
     "score": 126.8
   },
   {
-    "rank": 67,
+    "rank": 68,
     "passport": "GD",
     "score": 125.9
   },
   {
-    "rank": 68,
+    "rank": 69,
     "passport": "MU",
     "score": 125.8
-  },
-  {
-    "rank": 69,
-    "passport": "MO",
-    "score": 125.6
   },
   {
     "rank": 70,
