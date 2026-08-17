@@ -21928,20 +21928,20 @@
     "footnote_ids": "Timatic-3"
   },
   "BD:VE": {
-    "notes": "- Introduction of Electronic Visa System for Tourist and Business Travelers. [ 102 ] [ 103 ]",
+    "notes": "- Introduction of Electronic Visa System for Tourist and Business Travelers. [ 102 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "Timatic-3;101;102;103"
+    "footnote_ids": "Timatic-3;101;102"
   },
   "BD:VN": {
-    "notes": "- e-Visa is valid for 90 days and multiple entry.\n- Traveling directly to Phu Quoc Island are allowed to stay on the island for up-to 30 days without a visa. [ 105 ] [ 106 ]\n- No visa required for Diplomatic and Official Passport holders up to 90 days.",
+    "notes": "- e-Visa is valid for 90 days and multiple entry.\n- Traveling directly to Phu Quoc Island are allowed to stay on the island for up-to 30 days without a visa. [ 104 ] [ 105 ]\n- No visa required for Diplomatic and Official Passport holders up to 90 days.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "Timatic-3;104;105;106"
+    "footnote_ids": "Timatic-3;103;104;105"
   },
   "BD:VU": {
     "notes": "",
@@ -21989,7 +21989,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "Timatic-3;107"
+    "footnote_ids": "Timatic-3;106"
   },
   "BD:ZW": {
     "notes": "",
@@ -21997,7 +21997,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "Timatic-3;108"
+    "footnote_ids": "Timatic-3;107"
   },
   "BE:AD": {
     "notes": "- ID card valid.",
@@ -94261,7 +94261,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "58;:0-59;:2-60;:3-61"
+    "footnote_ids": "58;ve-59;ep-60;cn-61"
   },
   "GB:AU": {
     "notes": "- If granted, eVisitor allows British citizens to stay in Australia for 90 days per visit. Multiple entry allowed during the eVisitor visa 12 months period.\n- Issued free of charge and valid for 1 year.\n- According to HPI (Henley Passport Index) methodology pre-departure government approval, like eVisitor manual processing is not considered as visa free. [ 55 ]",
@@ -94309,7 +94309,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "78;:0-59;:2-60;:3-61"
+    "footnote_ids": "78;ve-59;ep-60;cn-61"
   },
   "GB:BF": {
     "notes": "",
@@ -94493,7 +94493,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "127;auto1g-128"
+    "footnote_ids": "127;128"
   },
   "GB:CR": {
     "notes": "- As of 2025, British passport holders can visit Costa Rica without a visa for up to 180 days under a tourist visa waiver. The exact period is at the discretion of the immigration officer on arrival. If they plan to work, or stay for a longer period, the visitor must consult the Costa Rican Embassy in the UK.",
@@ -94533,7 +94533,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "144;:0-59;:2-60;:3-61"
+    "footnote_ids": "144;ve-59;ep-60;cn-61"
   },
   "GB:DE": {
     "notes": "- 90 days within any 180-day period in the Schengen Area. [ 57 ] [ 58 ] [ 59 ]",
@@ -94541,7 +94541,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "auto1-177;:0-59;:2-60;:3-61"
+    "footnote_ids": "gb-177;ve-59;ep-60;cn-61"
   },
   "GB:DJ": {
     "notes": "",
@@ -94557,7 +94557,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "145;:0-59;:2-60;:3-61"
+    "footnote_ids": "145;ve-59;ep-60;cn-61"
   },
   "GB:DM": {
     "notes": "",
@@ -94573,7 +94573,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "auto4-149;150;151;152"
+    "footnote_ids": "149;150;151;152"
   },
   "GB:DZ": {
     "notes": "- Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.\n- Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days. [ 41 ] [ 42 ]",
@@ -94597,7 +94597,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "164;:0-59;:2-60;:3-61"
+    "footnote_ids": "164;ve-59;ep-60;cn-61"
   },
   "GB:EG": {
     "notes": "",
@@ -94621,7 +94621,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "354;:0-59;:2-60;:3-61"
+    "footnote_ids": "354;ve-59;ep-60;cn-61"
   },
   "GB:ET": {
     "notes": "- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 166 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 167 ]",
@@ -94637,7 +94637,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "171;:0-59;:2-60;:3-61"
+    "footnote_ids": "171;ve-59;ep-60;cn-61"
   },
   "GB:FJ": {
     "notes": "",
@@ -94661,7 +94661,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "172;:0-59;:2-60;:3-61"
+    "footnote_ids": "172;ve-59;ep-60;cn-61"
   },
   "GB:GA": {
     "notes": "- e-Visa holders must arrive via Libreville International Airport.",
@@ -94725,7 +94725,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "181;:0-59;:2-60;:3-61"
+    "footnote_ids": "181;ve-59;ep-60;cn-61"
   },
   "GB:GT": {
     "notes": "",
@@ -94789,7 +94789,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "192;:0-59;:2-60;:3-61"
+    "footnote_ids": "192;ve-59;ep-60;cn-61"
   },
   "GB:ID": {
     "notes": "- The (Visa on Arrival) costs 500,000 Indonesian rupiah (£25), payable in cash or by card. It is valid for single entry only. You must meet passport validity requirements and have a return or onward ticket. [ 196 ] Visas prior to arrival are available online. [ 195 ]",
@@ -94845,7 +94845,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "193;:0-59;:2-60;:3-61"
+    "footnote_ids": "193;ve-59;ep-60;cn-61"
   },
   "GB:IT": {
     "notes": "- 90 days within any 180-day period in the Schengen Area. [ 57 ] [ 58 ] [ 59 ]",
@@ -94853,7 +94853,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "210;:0-59;:2-60;:3-61"
+    "footnote_ids": "210;ve-59;ep-60;cn-61"
   },
   "GB:JM": {
     "notes": "",
@@ -94989,7 +94989,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "245;:0-59;:2-60;:3-61"
+    "footnote_ids": "245;ve-59;ep-60;cn-61"
   },
   "GB:LK": {
     "notes": "- Sri Lanka introduced an ETA valid for 30 days. [ 355 ]",
@@ -95021,7 +95021,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "246;:0-59;:2-60;:3-61"
+    "footnote_ids": "246;ve-59;ep-60;cn-61"
   },
   "GB:LU": {
     "notes": "- 90 days within any 180-day period in the Schengen Area. [ 57 ] [ 58 ] [ 59 ]",
@@ -95029,7 +95029,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "247;:0-59;:2-60;:3-61"
+    "footnote_ids": "247;ve-59;ep-60;cn-61"
   },
   "GB:LV": {
     "notes": "- 90 days within any 180-day period in the Schengen Area. [ 57 ] [ 58 ] [ 59 ]",
@@ -95037,7 +95037,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "233;:0-59;:2-60;:3-61"
+    "footnote_ids": "233;ve-59;ep-60;cn-61"
   },
   "GB:LY": {
     "notes": "- Due to security concerns, the UK Government advises its citizens to avoid travelling to Libya. [ 239 ]\n- Independent travel is not permitted, and visitors must organize their visit through a tour guide. A tourist police escort is required at all times. [ 240 ]\n- An eVisa will not be granted without a sponsor or tour agency. [ 241 ]\n- A security letter issued by the Libyan Immigration Authorities may also be required. [ 242 ]\n- Holders of passports containing an Israeli stamp or visa will be refused entry in Libya.",
@@ -95149,7 +95149,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "256;:0-59;:2-60;:3-61"
+    "footnote_ids": "256;ve-59;ep-60;cn-61"
   },
   "GB:MU": {
     "notes": "",
@@ -95229,7 +95229,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "ReferenceD-282"
+    "footnote_ids": "ni-282"
   },
   "GB:NL": {
     "notes": "- 90 days within any 180-day period in the Schengen Area. [ 57 ] [ 58 ] [ 59 ]",
@@ -95237,7 +95237,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "ReferenceD-282;:0-59;:2-60;:3-61"
+    "footnote_ids": "ni-282;ve-59;ep-60;cn-61"
   },
   "GB:NO": {
     "notes": "- 90 days within any 180-day period in the Schengen Area. [ 57 ] [ 58 ] [ 59 ]",
@@ -95245,7 +95245,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "293;:0-59;:2-60;:3-61"
+    "footnote_ids": "293;ve-59;ep-60;cn-61"
   },
   "GB:NP": {
     "notes": "",
@@ -95309,7 +95309,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "312;auto2-313;314;315"
+    "footnote_ids": "312;ap-313;314;315"
   },
   "GB:PK": {
     "notes": "",
@@ -95325,7 +95325,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "316;:0-59;:2-60;:3-61"
+    "footnote_ids": "316;ve-59;ep-60;cn-61"
   },
   "GB:PT": {
     "notes": "- 90 days within any 180-day period in the Schengen Area. [ 57 ] [ 58 ] [ 59 ]",
@@ -95333,7 +95333,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "317;:0-59;:2-60;:3-61"
+    "footnote_ids": "317;ve-59;ep-60;cn-61"
   },
   "GB:PW": {
     "notes": "",
@@ -95365,7 +95365,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "319;:5-320"
+    "footnote_ids": "319;fa-320"
   },
   "GB:RS": {
     "notes": "",
@@ -95429,7 +95429,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "365;:0-59;:2-60;:3-61"
+    "footnote_ids": "365;ve-59;ep-60;cn-61"
   },
   "GB:SG": {
     "notes": "",
@@ -95445,7 +95445,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "344;:0-59;:2-60;:3-61"
+    "footnote_ids": "344;ve-59;ep-60;cn-61"
   },
   "GB:SK": {
     "notes": "- 90 days within any 180-day period in the Schengen Area. [ 57 ] [ 58 ] [ 59 ]",
@@ -95453,7 +95453,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "343;:0-59;:2-60;:3-61"
+    "footnote_ids": "343;ve-59;ep-60;cn-61"
   },
   "GB:SL": {
     "notes": "",
@@ -95557,7 +95557,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "376;auto5-377"
+    "footnote_ids": "376;377"
   },
   "GB:TJ": {
     "notes": "",
@@ -95701,7 +95701,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "407;auto3-408"
+    "footnote_ids": "407;vt-408"
   },
   "GB:VN": {
     "notes": "- A single entry e-Visa valid for 90 days is also available.",
@@ -95749,7 +95749,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "416;ReferenceC-417"
+    "footnote_ids": "416;zt-417"
   },
   "GB:ZW": {
     "notes": "- British citizens are eligible for a universal (KAZA) visa allowing access to Zambia. [ 415 ]",
@@ -95757,7 +95757,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "418;419;ReferenceC-417"
+    "footnote_ids": "418;419;zt-417"
   },
   "GD:AD": {
     "notes": "",

@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-08-17
+
+| Metric | Value |
+|--------|-------|
+| Passports | 199 |
+| Routes | 39,009 (no change) |
+| Top ranked | SG (score: 161.2) |
+| Last ranked | SY (score: 37.9) |
+
+---
+
 ## 2026-08-15
 
 | Metric | Value |
