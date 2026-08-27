@@ -33,6 +33,9 @@ jobs:
           DATA_REPO_PAT: ${{ secrets.DATA_REPO_PAT }}
         run: |
           git clone https://x-access-token:${DATA_REPO_PAT}@github.com/savvydarknight/r-ui.git ../r-ui
+          mkdir -p ../r-ui/public/images/passport-covers
+          cp -r generated/images/passport-covers/. ../r-ui/public/images/passport-covers/
+          cp generated/passport-cover-manifest.json ../r-ui/data/passport-cover-manifest.json
           cp data/countries.json ../r-ui/data/countries.json
           cp data/territories.json ../r-ui/data/territories.json
           cp data/passport_matrix.json ../r-ui/data/passport_matrix.json
