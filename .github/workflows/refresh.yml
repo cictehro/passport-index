@@ -30,7 +30,7 @@ jobs:
           git config user.name "savvydarknight"
           git add -A
           git diff --cached --quiet || git commit -m "Refresh data from r-data $(date -u +%Y-%m-%d)"
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main
           git push
       - name: Sync data to r-ui
         env:
