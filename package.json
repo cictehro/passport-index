@@ -12,10 +12,11 @@
     "gaps": "tsx scripts/gaps.ts",
     "territories": "tsx scripts/territories.ts",
     "references": "tsx scripts/references.ts",
+    "investment-migration": "tsx scripts/investment-migration.ts",
     "optimize-images": "tsx scripts/optimize-images.ts",
     "edit": "tsx scripts/edit.ts",
     "test": "tsx --test tests/validate.test.ts tests/build.test.ts",
-    "generate": "npm run import && npm run validate && npm run build && npm run stats && npm run check && npm run changelog && npm run gaps && npm run territories && npm run references && npm run optimize-images"
+    "generate": "npm run import && npm run validate && npm run build && npm run stats && npm run check && npm run changelog && npm run gaps && npm run territories && npm run references && npm run investment-migration && npm run optimize-images"
   },
   "devDependencies": {
     "sharp": "^0.35.4",
