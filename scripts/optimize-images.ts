@@ -11,6 +11,12 @@ const TARGETS = [
 
 const OUT_DIR = "./generated/images/passport-covers";
 const MANIFEST_PATH = "./generated/passport-cover-manifest.json";
+const USER_AGENT = "passport-index-crawler/1.0 (https://github.com/savvydarknight/r-passe; contact: 153359624+savvydarknight@users.noreply.github.com)";
+const REQUEST_DELAY_MS = 300;
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
 function bestSourceUrl(entry: Record<string, string>): string | null {
   for (const key of SOURCE_ORDER) {
@@ -19,8 +25,12 @@ function bestSourceUrl(entry: Record<string, string>): string | null {
   return null;
 }
 
-async function fetchBuffer(url: string): Promise<Buffer> {
-  const res = await fetch(url, { headers: { "User-Agent": "passport-index-crawler/1.0" } });
+async function fetchBuffer(url: string, retried = false): Promise<Buffer> {
+  const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+  if (res.status === 429 && !retried) {
+    await sleep(5000);
+    return fetchBuffer(url, true);
+  }
   if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
   return Buffer.from(await res.arrayBuffer());
 }
@@ -62,6 +72,7 @@ await group("optimize-images: fetch + resize + encode", async () => {
       log(`${code}: FAILED (${e})`);
       failed++;
     }
+    await sleep(REQUEST_DELAY_MS);
   }
 });
 

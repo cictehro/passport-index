@@ -10,6 +10,9 @@ on:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    concurrency:
+      group: refresh-data
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -27,6 +30,7 @@ jobs:
           git config user.name "savvydarknight"
           git add -A
           git diff --cached --quiet || git commit -m "Refresh data from r-data $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
       - name: Sync data to r-ui
         env:
