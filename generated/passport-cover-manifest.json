@@ -1,0 +1,42 @@
+{
+  "AD": {
+    "icon": "images/passport-covers/AD-40.webp",
+    "hero": "images/passport-covers/AD-192.webp"
+  },
+  "AE": {
+    "icon": "images/passport-covers/AE-40.webp",
+    "hero": "images/passport-covers/AE-192.webp"
+  },
+  "AM": {
+    "icon": "images/passport-covers/AM-40.webp",
+    "hero": "images/passport-covers/AM-192.webp"
+  },
+  "AR": {
+    "icon": "images/passport-covers/AR-40.webp",
+    "hero": "images/passport-covers/AR-192.webp"
+  },
+  "AU": {
+    "icon": "images/passport-covers/AU-40.webp",
+    "hero": "images/passport-covers/AU-192.webp"
+  },
+  "BG": {
+    "icon": "images/passport-covers/BG-40.webp",
+    "hero": "images/passport-covers/BG-192.webp"
+  },
+  "FM": {
+    "icon": "images/passport-covers/FM-40.webp",
+    "hero": "images/passport-covers/FM-192.webp"
+  },
+  "ML": {
+    "icon": "images/passport-covers/ML-40.webp",
+    "hero": "images/passport-covers/ML-192.webp"
+  },
+  "MM": {
+    "icon": "images/passport-covers/MM-40.webp",
+    "hero": "images/passport-covers/MM-192.webp"
+  },
+  "TG": {
+    "icon": "images/passport-covers/TG-40.webp",
+    "hero": "images/passport-covers/TG-192.webp"
+  }
+}
