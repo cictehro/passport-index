@@ -1,0 +1,432 @@
+{
+  "KN": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Sustainable Island State Contribution",
+      "min_investment": "250000",
+      "currency": "USD",
+      "investment_route": "donation (SISC) or real estate (400000 USD, 7yr hold)",
+      "processing_time": "4-6 months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "mandatory interview; biometric enrolment since Apr 2026",
+      "family_inclusion": "spouse, children, parents, grandparents, siblings",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active",
+      "source_url": "https://www.ciu.gov.kn/"
+    }
+  ],
+  "AG": [
+    {
+      "program_type": "citizenship",
+      "program_name": "National Development Fund",
+      "min_investment": "230000",
+      "currency": "USD",
+      "investment_route": "donation (NDF) or real estate (300000 USD) or business (1500000 USD)",
+      "processing_time": "3-4 months",
+      "physical_presence_requirement": "5 days within 5 years",
+      "due_diligence": "standard due diligence, interview for high-risk cases",
+      "family_inclusion": "spouse, children, parents, siblings, grandparents",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active",
+      "source_url": "https://cip.gov.ag/"
+    }
+  ],
+  "DM": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Economic Diversification Fund",
+      "min_investment": "200000",
+      "currency": "USD",
+      "investment_route": "donation (EDF) or real estate (200000 USD, 5yr hold)",
+      "processing_time": "3-4 months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents, grandparents, siblings",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active",
+      "source_url": "https://cbiu.gov.dm/"
+    }
+  ],
+  "GD": [
+    {
+      "program_type": "citizenship",
+      "program_name": "National Transformation Fund",
+      "min_investment": "235000",
+      "currency": "USD",
+      "investment_route": "donation (NTF) or real estate (270000 USD, 5yr hold)",
+      "processing_time": "4-6 months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents, grandparents, siblings",
+      "path_to_citizenship": "n/a (citizenship granted directly); qualifies for US E-2 treaty visa",
+      "status": "active",
+      "source_url": "https://cbagrenada.gov.gd/"
+    }
+  ],
+  "LC": [
+    {
+      "program_type": "citizenship",
+      "program_name": "National Economic Fund",
+      "min_investment": "240000",
+      "currency": "USD",
+      "investment_route": "donation (NEF) or real estate (300000 USD) or enterprise (3500000 USD) or government bond (300000 USD)",
+      "processing_time": "3-4 months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents, grandparents, siblings",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active",
+      "source_url": "https://www.cip.gov.lc/"
+    }
+  ],
+  "TR": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Citizenship by Investment",
+      "min_investment": "400000",
+      "currency": "USD",
+      "investment_route": "real estate (3yr hold) or bank deposit (500000 USD)",
+      "processing_time": "3-6 months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children under 18",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active",
+      "source_url": "https://www.goturkiye.gov.tr/"
+    }
+  ],
+  "VU": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Development Support Program",
+      "min_investment": "130000",
+      "currency": "USD",
+      "investment_route": "donation to state fund",
+      "processing_time": "1-2 months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active, under periodic EU visa-suspension scrutiny",
+      "source_url": "https://www.dsp.gov.vu/"
+    }
+  ],
+  "MT": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Naturalisation for Exceptional Services by Direct Investment (MEIN)",
+      "min_investment": "690000",
+      "currency": "EUR",
+      "investment_route": "contribution + real estate + NGO donation",
+      "processing_time": "12-36 months residence before eligibility",
+      "physical_presence_requirement": "1 or 3 years residence required before application",
+      "due_diligence": "four-tier due diligence, among the strictest globally",
+      "family_inclusion": "spouse, children up to 29, parents over 55",
+      "path_to_citizenship": "citizenship after 1 or 3 years residence",
+      "status": "suspended (ended 2025 following CJEU ruling)",
+      "source_url": "https://community.gov.mt/"
+    },
+    {
+      "program_type": "residency",
+      "program_name": "Malta Permanent Residence Programme (MPRP)",
+      "min_investment": "98000",
+      "currency": "EUR",
+      "investment_route": "government contribution plus property purchase (375000 EUR) or rent (14000 EUR/year)",
+      "processing_time": "4-6 months",
+      "physical_presence_requirement": "none to maintain residency; property held 5 years",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents, grandparents (up to 5 generations)",
+      "path_to_citizenship": "no direct path; separate naturalisation route by ordinary residence",
+      "status": "active",
+      "source_url": "https://residencymalta.gov.mt/"
+    }
+  ],
+  "EG": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Citizenship by Investment",
+      "min_investment": "250000",
+      "currency": "USD",
+      "investment_route": "bank deposit or treasury bond (250000 USD) or real estate (300000 USD)",
+      "processing_time": "several months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active",
+      "source_url": "https://www.mfa.gov.eg/"
+    }
+  ],
+  "JO": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Jordan Investor Citizenship Program",
+      "min_investment": "1000000",
+      "currency": "JOD",
+      "investment_route": "bank deposit or enterprise investment",
+      "processing_time": "several months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active",
+      "source_url": "https://moin.gov.jo/"
+    }
+  ],
+  "NR": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Economic and Community Development Fund",
+      "min_investment": "105000",
+      "currency": "USD",
+      "investment_route": "donation to state fund",
+      "processing_time": "1-2 months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active, launched 2024",
+      "source_url": "https://naurugov.nr/"
+    }
+  ],
+  "ST": [
+    {
+      "program_type": "citizenship",
+      "program_name": "Citizenship by Investment",
+      "min_investment": "90000",
+      "currency": "USD",
+      "investment_route": "donation to state fund",
+      "processing_time": "several months",
+      "physical_presence_requirement": "none",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "n/a (citizenship granted directly)",
+      "status": "active, launched 2024",
+      "source_url": "https://www.gov.st/"
+    }
+  ],
+  "PT": [
+    {
+      "program_type": "residency",
+      "program_name": "Golden Visa (ARI)",
+      "min_investment": "250000",
+      "currency": "EUR",
+      "investment_route": "cultural donation (250000 EUR) or fund units (500000 EUR)",
+      "processing_time": "12-36 months",
+      "physical_presence_requirement": "7 days year 1, 14 days per subsequent 2-year period",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents",
+      "path_to_citizenship": "citizenship after 10 years residence (7 years for EU/CPLP nationals)",
+      "status": "active",
+      "source_url": "https://aima.gov.pt/"
+    }
+  ],
+  "GR": [
+    {
+      "program_type": "residency",
+      "program_name": "Golden Visa",
+      "min_investment": "250000",
+      "currency": "EUR",
+      "investment_route": "real estate, 250000-800000 EUR depending on region",
+      "processing_time": "2-4 months",
+      "physical_presence_requirement": "none to maintain residency",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents",
+      "path_to_citizenship": "citizenship after 7 years residence plus language/integration test",
+      "status": "active",
+      "source_url": "https://migration.gov.gr/"
+    }
+  ],
+  "ES": [
+    {
+      "program_type": "residency",
+      "program_name": "Golden Visa (real estate route)",
+      "min_investment": "500000",
+      "currency": "EUR",
+      "investment_route": "real estate",
+      "processing_time": "n/a",
+      "physical_presence_requirement": "n/a",
+      "due_diligence": "n/a",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "n/a",
+      "status": "ended (real estate route abolished April 2025)",
+      "source_url": "https://www.exteriores.gob.es/"
+    }
+  ],
+  "IT": [
+    {
+      "program_type": "residency",
+      "program_name": "Investor Visa for Italy",
+      "min_investment": "250000",
+      "currency": "EUR",
+      "investment_route": "innovative startup (250000 EUR) or company (500000 EUR) or government bonds (2000000 EUR) or philanthropic donation (1000000 EUR)",
+      "processing_time": "2-3 months",
+      "physical_presence_requirement": "none to maintain residency",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents",
+      "path_to_citizenship": "citizenship after 10 years residence",
+      "status": "active",
+      "source_url": "https://investorvisa.mise.gov.it/"
+    }
+  ],
+  "CY": [
+    {
+      "program_type": "residency",
+      "program_name": "Permanent Residence Permit",
+      "min_investment": "300000",
+      "currency": "EUR",
+      "investment_route": "real estate",
+      "processing_time": "2-3 months",
+      "physical_presence_requirement": "visit once every 2 years",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "citizenship route suspended since 2020",
+      "status": "active",
+      "source_url": "https://moi.gov.cy/"
+    }
+  ],
+  "HU": [
+    {
+      "program_type": "residency",
+      "program_name": "Guest Investor Program",
+      "min_investment": "250000",
+      "currency": "EUR",
+      "investment_route": "real estate fund (250000 EUR) or direct property (500000 EUR) or donation to higher education (1000000 EUR)",
+      "processing_time": "3-4 months",
+      "physical_presence_requirement": "none to maintain residency",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "no direct path; separate naturalisation route by ordinary residence",
+      "status": "active, relaunched 2024",
+      "source_url": "https://nvsz.gov.hu/"
+    }
+  ],
+  "LV": [
+    {
+      "program_type": "residency",
+      "program_name": "Residence Permit by Investment",
+      "min_investment": "250000",
+      "currency": "EUR",
+      "investment_route": "real estate plus one-time state fee (~5 percent)",
+      "processing_time": "2-3 months",
+      "physical_presence_requirement": "none to maintain residency",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "no direct path; separate naturalisation route by ordinary residence",
+      "status": "active",
+      "source_url": "https://www.pmlp.gov.lv/"
+    }
+  ],
+  "AE": [
+    {
+      "program_type": "residency",
+      "program_name": "Golden Visa",
+      "min_investment": "545000",
+      "currency": "AED",
+      "investment_route": "real estate (2000000 AED)",
+      "processing_time": "1-2 months",
+      "physical_presence_requirement": "none to maintain residency",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children, parents, domestic staff",
+      "path_to_citizenship": "no path to citizenship (exceptional cases only, not investment-based)",
+      "status": "active",
+      "source_url": "https://icp.gov.ae/"
+    }
+  ],
+  "US": [
+    {
+      "program_type": "residency",
+      "program_name": "EB-5 Immigrant Investor Program",
+      "min_investment": "800000",
+      "currency": "USD",
+      "investment_route": "targeted employment area (800000 USD) or standard (1050000 USD); must create 10 jobs",
+      "processing_time": "18-24 months plus processing backlog",
+      "physical_presence_requirement": "none to maintain conditional residency",
+      "due_diligence": "extensive source-of-funds due diligence",
+      "family_inclusion": "spouse, children under 21",
+      "path_to_citizenship": "citizenship after 5 years permanent residence",
+      "status": "active",
+      "source_url": "https://www.uscis.gov/eb-5"
+    }
+  ],
+  "PA": [
+    {
+      "program_type": "residency",
+      "program_name": "Qualified Investor Visa",
+      "min_investment": "300000",
+      "currency": "USD",
+      "investment_route": "real estate, securities, or bank deposit",
+      "processing_time": "3-4 months",
+      "physical_presence_requirement": "none to maintain residency",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "citizenship after 5 years residence",
+      "status": "active",
+      "source_url": "https://www.migracion.gob.pa/"
+    }
+  ],
+  "SG": [
+    {
+      "program_type": "residency",
+      "program_name": "Global Investor Programme (GIP)",
+      "min_investment": "10000000",
+      "currency": "SGD",
+      "investment_route": "business expansion or fund investment, selective/invitation-based",
+      "processing_time": "6-12 months",
+      "physical_presence_requirement": "case by case",
+      "due_diligence": "extensive due diligence, high rejection rate",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "citizenship route by ordinary residence, selective",
+      "status": "active",
+      "source_url": "https://www.edb.gov.sg/"
+    }
+  ],
+  "BR": [
+    {
+      "program_type": "residency",
+      "program_name": "Investor Visa",
+      "min_investment": "500000",
+      "currency": "BRL",
+      "investment_route": "business investment (500000 BRL) or passive real estate (1000000 BRL)",
+      "processing_time": "2-4 months",
+      "physical_presence_requirement": "none to maintain residency",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "citizenship after 4 years residence",
+      "status": "active",
+      "source_url": "https://www.gov.br/mj/"
+    }
+  ],
+  "NZ": [
+    {
+      "program_type": "residency",
+      "program_name": "Active Investor Plus Visa",
+      "min_investment": "5000000",
+      "currency": "NZD",
+      "investment_route": "growth investment category; higher threshold for balanced category",
+      "processing_time": "4-6 months",
+      "physical_presence_requirement": "minimum days vary by investment category",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "permanent residence and citizenship via ordinary residence route",
+      "status": "active, relaunched 2025",
+      "source_url": "https://www.immigration.govt.nz/"
+    }
+  ],
+  "PY": [
+    {
+      "program_type": "residency",
+      "program_name": "Investor Pass Visa",
+      "min_investment": "150000",
+      "currency": "USD",
+      "investment_route": "tourism project investment",
+      "processing_time": "1-3 months",
+      "physical_presence_requirement": "none to maintain residency",
+      "due_diligence": "standard due diligence",
+      "family_inclusion": "spouse, children",
+      "path_to_citizenship": "citizenship after 3 years residence",
+      "status": "active, launched 2026",
+      "source_url": "https://www.migraciones.gov.py/"
+    }
+  ]
+}
