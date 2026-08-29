@@ -5,22 +5,23 @@
       "program_name": "Sustainable Island State Contribution (SISC)",
       "min_investment": "250000",
       "currency": "USD",
-      "investment_route": "Donation to SISC fund; Real estate (400000 USD, 7yr hold); Approved public benefit project",
-      "investment_breakdown": "SISC covers the main applicant or a family of up to 4 members at USD 250,000; each additional dependant under 18 adds USD 25,000; each additional dependant 18 or over adds USD 50,000; contributions fund five priorities: local food production, green energy transition, economic diversification, sustainable industry, and social protection for vulnerable groups; real estate route is a separate track (400000 USD, 7yr hold) administered under the Developer's/Private Real Estate Investment options",
-      "additional_fees": "due diligence fee of USD 10,000 for the main applicant plus USD 7,500 for each dependant aged 16 or over, in addition to the core SISC contribution or real estate purchase price",
+      "investment_route": "Donation to the SISC fund (250000 USD for main applicant or family of up to 4); Developer's real estate investment (325000 USD fractional ownership, or 600000 USD for full ownership, in an approved development, 7yr resale restriction); Approved public benefit project",
+      "investment_breakdown": "SISC: main applicant or family of up to 4 members at USD 250,000; each additional dependant under 18 adds USD 25,000; each additional dependant 18 or over adds USD 50,000; funds five priorities: local food production, green energy transition, economic diversification, sustainable industry, and social protection. Real estate: minimum USD 325,000 per main applicant for fractional ownership in an approved development, or from USD 600,000 for full ownership; resaleable after 7 years",
+      "additional_fees": "SISC route: due diligence fee of USD 10,000 for the main applicant plus USD 7,500 per dependant aged 16 or over. Real estate route: same due diligence fees, plus post-approval application fees of USD 25,000 (main applicant), USD 15,000 (spouse), USD 10,000 (dependant under 18), USD 15,000 (dependant 18+), plus compulsory insurance fund contributions and conveyance fees",
       "processing_time": "120-180 days to an approval-in-principle decision",
-      "physical_presence_requirement": "none required at any stage",
-      "due_diligence": "interview is mandatory for the main applicant, conducted virtually or in person by an independent firm commissioned by the CIU or by CIU officials; dependants aged 16 or over may also be required to attend an interview if deemed necessary; biometric enrolment introduced 2026",
-      "family_inclusion": "Spouse; Children (incl. adopted, up to 30 if in full-time education); Parents/grandparents 55+; Unmarried siblings of applicant or spouse",
+      "physical_presence_requirement": "none required to obtain or maintain citizenship",
+      "due_diligence": "interview is mandatory for the main applicant, conducted virtually or in person by an independent firm commissioned by the CIU or by CIU officials; dependants aged 16 or over may also be required to attend an interview if deemed necessary; applications from citizens of Afghanistan, Belarus, Iran, Iraq, North Korea, and Russia are not accepted; biometric enrolment introduced 2026",
+      "family_inclusion": "Spouse; children under 18; children aged 18-30 in full-time secondary or tertiary education and fully supported by the main applicant; children 18+ who are physically or mentally challenged; parents of the main applicant or spouse aged 55+ living with and fully supported by the main applicant",
       "naturalization_timeline": "citizenship is granted immediately on approval — no residency period, physical presence, or naturalization wait is required",
-      "renewal_requirements": "citizenship is permanent once granted; passport itself is renewed every 10 years like any other passport",
-      "eligibility_criteria": "18+ for main applicant; No upper age limit; Clean criminal record with no visa refusals from UK/US/Canada/Schengen disclosed; Verifiable lawful source of funds; Medical exam confirming no communicable disease",
+      "renewal_requirements": "citizenship is granted for life; no residency requirement to maintain it; the passport itself is renewed periodically like any other passport",
+      "eligibility_criteria": "Main applicant must be 18+; must make or agree to make the legally prescribed investment; must pass due diligence checks and financial criteria; not eligible if previously denied citizenship of any country, denied a visa to a country St Kitts and Nevis citizens can enter visa-free (and not since obtained that visa), has a criminal record, is under criminal investigation, was declared bankrupt within the preceding 10 years, or is involved in activity likely to cause disrepute to St Kitts and Nevis",
       "key_benefits": "Visa-free or visa-on-arrival access to 150+ destinations including the UK, Schengen Area, Hong Kong, and Singapore; No personal income, capital gains, wealth, or inheritance tax; Oldest continuously running CBI program in the world, established 1984",
       "taxation_notes": "no tax on worldwide income, capital gains, gifts, or inheritance for citizens who are not otherwise tax-resident elsewhere",
-      "application_steps": "engage a government-authorised marketing agent; complete application and due diligence forms; undergo background check and interview; make the investment once approved in principle; take the oath and receive the citizenship certificate and passport",
+      "application_steps": "Select an Authorised Agent (applications cannot be submitted directly to the CIU); complete all forms and supply required documents through the Authorised Agent; attend an interview if required; the CIU processes the application and conducts due diligence, advising within 120-180 days whether it is approved-in-principle, denied, or delayed for cause; make the SISC contribution or complete the real estate purchase; receive the certificate of naturalisation and apply for a St Kitts and Nevis passport",
       "status": "active",
-      "source_url": "https://ciu.gov.kn/sustainable-island-state-contribution/; https://ciu.gov.kn/application-process/; https://ciu.gov.kn/eligibility-criteria/",
-      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
+      "source_url": "https://ciu.gov.kn/sustainable-island-state-contribution/; https://ciu.gov.kn/eligibility-criteria/; https://ciu.gov.kn/real-estate-investment/; https://ciu.gov.kn/application-process/",
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality",
+      "field_sources": "min_investment=https://ciu.gov.kn/sustainable-island-state-contribution/; investment_route=https://ciu.gov.kn/sustainable-island-state-contribution/|https://ciu.gov.kn/real-estate-investment/; investment_breakdown=https://ciu.gov.kn/sustainable-island-state-contribution/|https://ciu.gov.kn/real-estate-investment/; additional_fees=https://ciu.gov.kn/sustainable-island-state-contribution/|https://ciu.gov.kn/real-estate-investment/; processing_time=https://ciu.gov.kn/sustainable-island-state-contribution/; physical_presence_requirement=https://ciu.gov.kn/real-estate-investment/; due_diligence=https://ciu.gov.kn/sustainable-island-state-contribution/|https://ciu.gov.kn/eligibility-criteria/; family_inclusion=https://ciu.gov.kn/eligibility-criteria/; eligibility_criteria=https://ciu.gov.kn/eligibility-criteria/; renewal_requirements=https://ciu.gov.kn/real-estate-investment/; application_steps=https://ciu.gov.kn/sustainable-island-state-contribution/"
     }
   ],
   "AG": [
@@ -44,7 +45,8 @@
       "application_steps": "select a licensed agent; submit application and required documents; undergo due diligence review; pay the NDF contribution or complete the real estate purchase; attend interview if requested; take the oath of allegiance within 5 years to finalize",
       "status": "active",
       "source_url": "https://cip.gov.ag/; https://www.globalcitizensolutions.com/caribbean-citizenship-by-investment-comparison/",
-      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality",
+      "field_sources": ""
     }
   ],
   "DM": [
@@ -68,7 +70,8 @@
       "application_steps": "engage a licensed agent; submit forms, passport copies, and financial documents; due diligence review by the CBIU; make the donation or complete the real estate purchase; receive the certificate of registration and passport",
       "status": "active",
       "source_url": "https://www.cbiu.gov.dm/; https://www.globalcitizensolutions.com/caribbean-citizenship-by-investment-comparison/",
-      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality",
+      "field_sources": ""
     }
   ],
   "GD": [
@@ -92,7 +95,8 @@
       "application_steps": "engage a licensed agent; submit application and documents; due diligence review by the CBI Unit; make the qualifying investment; oath of allegiance and passport issuance",
       "status": "active",
       "source_url": "https://imagrenada.gd/; https://ancova-associates.com/insights/caribbean-citizenship-by-investment-2026",
-      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality",
+      "field_sources": ""
     }
   ],
   "LC": [
@@ -116,7 +120,8 @@
       "application_steps": "engage a licensed agent; submit application; due diligence review; select and complete the chosen investment route; receive certificate of registration and passport",
       "status": "active",
       "source_url": "https://www.cip.gov.lc/; https://ancova-associates.com/insights/caribbean-citizenship-by-investment-2026",
-      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality",
+      "field_sources": ""
     }
   ],
   "TR": [
@@ -140,7 +145,8 @@
       "application_steps": "select a qualifying investment (commonly real estate); obtain an official appraisal report confirming value; complete purchase/deposit and register with authorities; apply for a conformity certificate; submit citizenship application and biometrics",
       "status": "active",
       "source_url": "https://www.goturkiye.gov.tr/",
-      "dual_citizenship": "Fully permitted — Turkey allows dual and multiple citizenship"
+      "dual_citizenship": "Fully permitted — Turkey allows dual and multiple citizenship",
+      "field_sources": ""
     }
   ],
   "VU": [
@@ -164,7 +170,8 @@
       "application_steps": "engage a licensed agent; submit documents and application forms; due diligence review by the Vanuatu Citizenship Office; pay the contribution; receive the certificate and passport",
       "status": "active, under periodic EU visa-suspension scrutiny",
       "source_url": "https://vancitizenship.gov.vu/",
-      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality",
+      "field_sources": ""
     }
   ],
   "EG": [
@@ -188,7 +195,8 @@
       "application_steps": "submit application with supporting documents through official channels; complete the chosen investment; undergo Ministry of Interior security clearance; receive citizenship decree",
       "status": "active",
       "source_url": "https://www.mfa.gov.eg/",
-      "dual_citizenship": "Permitted for most applicants, though certain senior public-office and security-sensitive roles are restricted to those holding only Egyptian citizenship"
+      "dual_citizenship": "Permitted for most applicants, though certain senior public-office and security-sensitive roles are restricted to those holding only Egyptian citizenship",
+      "field_sources": ""
     }
   ],
   "JO": [
@@ -212,7 +220,8 @@
       "application_steps": "apply through the Jordan Investment Commission; select the deposit or enterprise route; complete financial and security due diligence; obtain Cabinet approval and Royal Decree; receive citizenship",
       "status": "active",
       "source_url": "https://www.moin.gov.jo/; https://www.globalinvestments.net/citizenship/jordan-citizenship; https://legalclarity.org/does-jordan-allow-for-dual-citizenship/",
-      "dual_citizenship": "Generally permitted in practice under the 1954 Nationality Law as amended in 1987, and dual nationals are not automatically stripped of Jordanian citizenship; citizens are formally required to notify the government of any foreign nationality held, and acquisition of the nationality of a non-Arab state can in some circumstances require Cabinet consent — investors should seek case-specific legal advice"
+      "dual_citizenship": "Generally permitted in practice under the 1954 Nationality Law as amended in 1987, and dual nationals are not automatically stripped of Jordanian citizenship; citizens are formally required to notify the government of any foreign nationality held, and acquisition of the nationality of a non-Arab state can in some circumstances require Cabinet consent — investors should seek case-specific legal advice",
+      "field_sources": ""
     }
   ],
   "NR": [
@@ -236,7 +245,8 @@
       "application_steps": "engage a licensed agent; submit documents; due diligence review by the Nauru Program Office; make the Treasury Fund contribution; receive certificate and passport",
       "status": "active, launched 2024",
       "source_url": "https://www.ecrcp.gov.nr/",
-      "dual_citizenship": "Permitted — no requirement to renounce any prior nationality"
+      "dual_citizenship": "Permitted — no requirement to renounce any prior nationality",
+      "field_sources": ""
     }
   ],
   "ST": [
@@ -260,7 +270,8 @@
       "application_steps": "engage a licensed agent; submit documents remotely; due diligence review by the CIU; make the donation; receive certificate, passport, and national ID",
       "status": "active, launched 2025",
       "source_url": "https://stpcip.com/",
-      "dual_citizenship": "Permitted — no requirement to renounce any prior nationality"
+      "dual_citizenship": "Permitted — no requirement to renounce any prior nationality",
+      "field_sources": ""
     }
   ],
   "PT": [
@@ -284,7 +295,8 @@
       "application_steps": "choose investment route; obtain a Portuguese NIF and bank account; submit the AIMA application online; attend biometrics appointment; receive the residence permit and renew every 2 years",
       "status": "active",
       "source_url": "https://aima.gov.pt/; https://www.thegoldenportugal.com/update-on-portugals-nationality-law/; https://getgoldenvisa.com/citizenship-law-change-update-portugal-2025",
-      "dual_citizenship": "Fully permitted — Portugal imposes no restriction on holding multiple nationalities and does not require renunciation of any prior citizenship"
+      "dual_citizenship": "Fully permitted — Portugal imposes no restriction on holding multiple nationalities and does not require renunciation of any prior citizenship",
+      "field_sources": ""
     }
   ],
   "GR": [
@@ -308,7 +320,8 @@
       "application_steps": "select a qualifying property; obtain a Greek tax number (AFM); sign the purchase contract before a notary; register the property; submit the residence permit application with proof of ownership",
       "status": "active",
       "source_url": "https://migration.gov.gr/",
-      "dual_citizenship": "Fully permitted — Greece allows dual and multiple citizenship"
+      "dual_citizenship": "Fully permitted — Greece allows dual and multiple citizenship",
+      "field_sources": ""
     }
   ],
   "IT": [
@@ -332,7 +345,8 @@
       "application_steps": "apply for nulla osta clearance online via the Investor Visa Committee portal; obtain the investor visa at an Italian consulate; enter Italy and complete the investment within 3 months; apply for the residence permit",
       "status": "active",
       "source_url": "https://investorvisa.mise.gov.it/",
-      "dual_citizenship": "Fully permitted — Italy has allowed dual citizenship without requiring renunciation since its 1992 nationality law reform"
+      "dual_citizenship": "Fully permitted — Italy has allowed dual citizenship without requiring renunciation since its 1992 nationality law reform",
+      "field_sources": ""
     }
   ],
   "MT": [
@@ -356,7 +370,8 @@
       "application_steps": "engage a licensed agent; submit application to Residency Malta Agency; pay the government contribution and secure the property; complete due diligence; residence card issued",
       "status": "active",
       "source_url": "https://residencymalta.gov.mt/",
-      "dual_citizenship": "Not yet verified"
+      "dual_citizenship": "Not yet verified",
+      "field_sources": ""
     }
   ],
   "CY": [
@@ -380,7 +395,8 @@
       "application_steps": "purchase a qualifying new-build property; submit the residence permit application with proof of income and property ownership; attend interview if required; permit issued",
       "status": "active",
       "source_url": "https://moi.gov.cy/",
-      "dual_citizenship": "Fully permitted — Cyprus allows dual and multiple citizenship (note: this specific Permanent Residence Permit does not itself grant citizenship)"
+      "dual_citizenship": "Fully permitted — Cyprus allows dual and multiple citizenship (note: this specific Permanent Residence Permit does not itself grant citizenship)",
+      "field_sources": ""
     }
   ],
   "HU": [
@@ -404,7 +420,8 @@
       "application_steps": "choose the investment route; submit application to the National Directorate-General for Aliens Policing; complete due diligence; residence permit issued",
       "status": "active, relaunched 2024",
       "source_url": "https://nvsz.gov.hu/",
-      "dual_citizenship": "Fully permitted — Hungary allows dual and multiple citizenship (note: this residence program does not itself grant citizenship)"
+      "dual_citizenship": "Fully permitted — Hungary allows dual and multiple citizenship (note: this residence program does not itself grant citizenship)",
+      "field_sources": ""
     }
   ],
   "LV": [
@@ -428,7 +445,8 @@
       "application_steps": "select a qualifying property; pay the purchase price and state fee; submit application to the Office of Citizenship and Migration Affairs; residence permit issued",
       "status": "active",
       "source_url": "https://www.pmlp.gov.lv/",
-      "dual_citizenship": "Restricted — Latvia only permits dual citizenship with a specific list of countries (mainly EU/EEA/NATO/EFTA states and a small number of others); dual citizenship with most other countries requires special exemption (note: this residence program does not itself grant citizenship)"
+      "dual_citizenship": "Restricted — Latvia only permits dual citizenship with a specific list of countries (mainly EU/EEA/NATO/EFTA states and a small number of others); dual citizenship with most other countries requires special exemption (note: this residence program does not itself grant citizenship)",
+      "field_sources": ""
     }
   ],
   "US": [
@@ -452,7 +470,8 @@
       "application_steps": "select a Regional Center project or direct investment; file Form I-526E petition with USCIS; obtain conditional green card via consular processing or adjustment of status; file Form I-829 after 2 years to remove conditions",
       "status": "active",
       "source_url": "https://www.uscis.gov/eb-5",
-      "dual_citizenship": "Permitted in practice — the US naturalization oath contains renunciatory language but the US does not actively enforce it or require proof that another nationality was relinquished, so most naturalized US citizens retain their original citizenship if their home country also allows it"
+      "dual_citizenship": "Permitted in practice — the US naturalization oath contains renunciatory language but the US does not actively enforce it or require proof that another nationality was relinquished, so most naturalized US citizens retain their original citizenship if their home country also allows it",
+      "field_sources": ""
     }
   ],
   "PA": [
@@ -476,7 +495,8 @@
       "application_steps": "select the investment route; submit application to the National Immigration Service with proof of investment; complete due diligence; permanent residence card issued",
       "status": "active",
       "source_url": "https://www.migracion.gob.pa/",
-      "dual_citizenship": "Fully permitted — Panama allows dual and multiple citizenship"
+      "dual_citizenship": "Fully permitted — Panama allows dual and multiple citizenship",
+      "field_sources": ""
     }
   ],
   "SG": [
@@ -500,7 +520,8 @@
       "application_steps": "submit a business or investment proposal to the Economic Development Board; undergo evaluation and interview; receive approval in principle; complete the investment; permanent residence granted",
       "status": "active",
       "source_url": "https://www.edb.gov.sg/",
-      "dual_citizenship": "Not permitted — Singapore requires renunciation of all other citizenships upon naturalization (note: this program grants permanent residence, not citizenship, but Singapore's broader citizenship law is relevant for investors planning that far ahead)"
+      "dual_citizenship": "Not permitted — Singapore requires renunciation of all other citizenships upon naturalization (note: this program grants permanent residence, not citizenship, but Singapore's broader citizenship law is relevant for investors planning that far ahead)",
+      "field_sources": ""
     }
   ],
   "BR": [
@@ -524,7 +545,8 @@
       "application_steps": "register the investment plan with the relevant Brazilian agency; apply for the visa at a Brazilian consulate or convert status in-country; residence permit issued",
       "status": "active",
       "source_url": "https://www.gov.br/mj/",
-      "dual_citizenship": "Fully permitted — Brazil allows dual and multiple citizenship"
+      "dual_citizenship": "Fully permitted — Brazil allows dual and multiple citizenship",
+      "field_sources": ""
     }
   ],
   "NZ": [
@@ -548,7 +570,8 @@
       "application_steps": "submit an Expression of Interest; obtain approval in principle; make the qualifying investment within 12 months; visa granted; meet minimum stay requirement over the investment period",
       "status": "active, relaunched 2025",
       "source_url": "https://www.immigration.govt.nz/",
-      "dual_citizenship": "Fully permitted — New Zealand allows dual and multiple citizenship"
+      "dual_citizenship": "Fully permitted — New Zealand allows dual and multiple citizenship",
+      "field_sources": ""
     }
   ],
   "PY": [
@@ -572,7 +595,8 @@
       "application_steps": "select a qualifying tourism project; submit application to the Ministry of Industry and Commerce; complete due diligence; permanent residence granted",
       "status": "active, launched 2026",
       "source_url": "https://www.migraciones.gov.py/",
-      "dual_citizenship": "Fully permitted — Paraguay allows dual and multiple citizenship"
+      "dual_citizenship": "Fully permitted — Paraguay allows dual and multiple citizenship",
+      "field_sources": ""
     }
   ],
   "MC": [
@@ -596,7 +620,8 @@
       "application_steps": "open a qualifying account with a Monaco bank and deposit the required funds; secure accommodation; submit residence application with proof of funds and accommodation; attend interview; residence card issued",
       "status": "active",
       "source_url": "https://en.gouv.mc/",
-      "dual_citizenship": "Not applicable to this residence permit; Monegasque naturalization, when eventually pursued, generally requires renunciation of prior nationality"
+      "dual_citizenship": "Not applicable to this residence permit; Monegasque naturalization, when eventually pursued, generally requires renunciation of prior nationality",
+      "field_sources": ""
     }
   ],
   "AD": [
@@ -620,7 +645,8 @@
       "application_steps": "select the qualifying investment; open the mandatory AFA deposit account; submit residence application with proof of income and health insurance; attend interview; permit issued",
       "status": "active",
       "source_url": "https://www.immigracio.ad/",
-      "dual_citizenship": "Not applicable to this residence permit; Andorran naturalization, when eventually pursued after 20 years, generally requires renunciation of prior nationality since Andorra does not recognize dual citizenship for the naturalized"
+      "dual_citizenship": "Not applicable to this residence permit; Andorran naturalization, when eventually pursued after 20 years, generally requires renunciation of prior nationality since Andorra does not recognize dual citizenship for the naturalized",
+      "field_sources": ""
     }
   ],
   "MY": [
@@ -644,7 +670,8 @@
       "application_steps": "select a tier; open the fixed deposit account; complete the mandatory property purchase; submit application with financial and medical documents to MOTAC; visa issued",
       "status": "active, relaunched 2024",
       "source_url": "https://www.motac.gov.my/",
-      "dual_citizenship": "Not applicable — MM2H is a residency pass only and does not lead to citizenship; Malaysia does not generally recognize dual citizenship for its own nationals"
+      "dual_citizenship": "Not applicable — MM2H is a residency pass only and does not lead to citizenship; Malaysia does not generally recognize dual citizenship for its own nationals",
+      "field_sources": ""
     }
   ],
   "TH": [
@@ -668,7 +695,8 @@
       "application_steps": "confirm eligibility under one of the four LTR categories; submit application and documents to the BOI; upon endorsement, apply for the visa at a Thai embassy or in-country; collect the visa in person at the BOI's One Bangkok center",
       "status": "active",
       "source_url": "https://ltr.boi.go.th/",
-      "dual_citizenship": "Not applicable — the LTR visa does not lead to citizenship"
+      "dual_citizenship": "Not applicable — the LTR visa does not lead to citizenship",
+      "field_sources": ""
     }
   ],
   "ID": [
@@ -692,7 +720,8 @@
       "application_steps": "select the passive or business investment route; prepare the signed investment commitment letter and supporting documents; submit the application online through Indonesia's immigration system; receive the e-visa and re-entry permit on arrival",
       "status": "active",
       "source_url": "https://www.imigrasi.go.id/",
-      "dual_citizenship": "Not applicable — the Golden Visa does not lead to citizenship; Indonesia does not generally recognize dual citizenship for adults"
+      "dual_citizenship": "Not applicable — the Golden Visa does not lead to citizenship; Indonesia does not generally recognize dual citizenship for adults",
+      "field_sources": ""
     }
   ],
   "MU": [
@@ -716,7 +745,8 @@
       "application_steps": "full application steps have not yet been published; interested applicants should confirm current procedure directly with the Economic Development Board of Mauritius",
       "status": "active, launched 2026 (full program details still being published)",
       "source_url": "https://www.edbmauritius.org/",
-      "dual_citizenship": "Not yet published as the program rolls out through 2026"
+      "dual_citizenship": "Not yet published as the program rolls out through 2026",
+      "field_sources": ""
     }
   ],
   "AE": [
@@ -740,7 +770,8 @@
       "application_steps": "secure one of the three qualifying public-investment routes; obtain the supporting letter or licence documentation; apply via the relevant emirate's ICP or GDRFA smart portal; complete biometrics and a medical test; Emirates ID and visa issued",
       "status": "active",
       "source_url": "https://icp.gov.ae/en/services/uae-golden-visa/",
-      "dual_citizenship": "Not applicable — this visa does not lead to UAE citizenship"
+      "dual_citizenship": "Not applicable — this visa does not lead to UAE citizenship",
+      "field_sources": ""
     },
     {
       "program_type": "residency",
@@ -762,7 +793,8 @@
       "application_steps": "purchase qualifying unencumbered property valued at AED 2,000,000+; obtain the ownership confirmation letter from the Land Registration Department; apply via the relevant emirate's ICP or GDRFA smart portal; complete biometrics and a medical test; Emirates ID and visa issued",
       "status": "active",
       "source_url": "https://icp.gov.ae/en/services/uae-golden-visa/",
-      "dual_citizenship": "Not applicable — this visa does not lead to UAE citizenship"
+      "dual_citizenship": "Not applicable — this visa does not lead to UAE citizenship",
+      "field_sources": ""
     }
   ]
 }
