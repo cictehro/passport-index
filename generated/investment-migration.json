@@ -19,7 +19,8 @@
       "taxation_notes": "no tax on worldwide income, capital gains, gifts, or inheritance for citizens who are not otherwise tax-resident elsewhere",
       "application_steps": "engage a government-authorised marketing agent; complete application and due diligence forms; undergo background check and interview; make the investment once approved in principle; take the oath and receive the citizenship certificate and passport",
       "status": "active",
-      "source_url": "https://ciu.gov.kn/"
+      "source_url": "https://ciu.gov.kn/; https://ancova-associates.com/insights/caribbean-citizenship-by-investment-2026",
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
     }
   ],
   "AG": [
@@ -38,11 +39,12 @@
       "naturalization_timeline": "citizenship is granted immediately on approval; the 5-day stay requirement is the only presence obligation and can be fulfilled any time within 5 years",
       "renewal_requirements": "citizenship is permanent; no renewal beyond standard passport reissuance",
       "eligibility_criteria": "18+; Clean criminal record; Verifiable source of funds; Good health",
-      "key_benefits": "Visa-free access to 150+ destinations including the UK, Schengen Area, and Hong Kong; One of the lower-cost options for a family of four; 5-day stay requirement is uniquely light compared to peer programs",
+      "key_benefits": "Visa-free access to 150+ destinations including the UK, Schengen Area, and Hong Kong; One of the lower-cost options for a family of four; 5-day stay requirement is uniquely light compared to peer programs; note: a US Presidential Proclamation (10998, effective 1 January 2026) partially restricts US visas for Antiguan nationals — holders of valid US visas issued before that date are unaffected, but prospective travelers should check current US entry requirements",
       "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
       "application_steps": "select a licensed agent; submit application and required documents; undergo due diligence review; pay the NDF contribution or complete the real estate purchase; attend interview if requested; take the oath of allegiance within 5 years to finalize",
       "status": "active",
-      "source_url": "https://cip.gov.ag/"
+      "source_url": "https://cip.gov.ag/; https://www.globalcitizensolutions.com/caribbean-citizenship-by-investment-comparison/",
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
     }
   ],
   "DM": [
@@ -61,11 +63,12 @@
       "naturalization_timeline": "citizenship is granted immediately on approval — there is no residency period to serve",
       "renewal_requirements": "citizenship is permanent; passport renewed every 10 years",
       "eligibility_criteria": "18+; Clean criminal record; Verifiable source of funds; Medical exam",
-      "key_benefits": "The lowest headline cost among Caribbean CBI programs; Visa-free access to 140+ destinations including the UK, Schengen Area, Hong Kong, and Singapore",
+      "key_benefits": "The lowest headline cost among Caribbean CBI programs; Visa-free access to 140+ destinations including the UK, Schengen Area, Hong Kong, and Singapore; note: a US Presidential Proclamation (10998, effective 1 January 2026) partially restricts US visas for Dominican nationals — holders of valid US visas issued before that date are unaffected, but prospective travelers should check current US entry requirements",
       "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
       "application_steps": "engage a licensed agent; submit forms, passport copies, and financial documents; due diligence review by the CBIU; make the donation or complete the real estate purchase; receive the certificate of registration and passport",
       "status": "active",
-      "source_url": "https://www.cbiu.gov.dm/"
+      "source_url": "https://www.cbiu.gov.dm/; https://www.globalcitizensolutions.com/caribbean-citizenship-by-investment-comparison/",
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
     }
   ],
   "GD": [
@@ -88,7 +91,8 @@
       "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
       "application_steps": "engage a licensed agent; submit application and documents; due diligence review by the CBI Unit; make the qualifying investment; oath of allegiance and passport issuance",
       "status": "active",
-      "source_url": "https://imagrenada.gd/"
+      "source_url": "https://imagrenada.gd/; https://ancova-associates.com/insights/caribbean-citizenship-by-investment-2026",
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
     }
   ],
   "LC": [
@@ -111,7 +115,8 @@
       "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
       "application_steps": "engage a licensed agent; submit application; due diligence review; select and complete the chosen investment route; receive certificate of registration and passport",
       "status": "active",
-      "source_url": "https://www.cip.gov.lc/"
+      "source_url": "https://www.cip.gov.lc/; https://ancova-associates.com/insights/caribbean-citizenship-by-investment-2026",
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
     }
   ],
   "TR": [
@@ -134,7 +139,8 @@
       "taxation_notes": "worldwide income taxed only if tax-resident in Turkey (183+ days per year); non-resident citizens owe no Turkish tax on foreign-sourced income",
       "application_steps": "select a qualifying investment (commonly real estate); obtain an official appraisal report confirming value; complete purchase/deposit and register with authorities; apply for a conformity certificate; submit citizenship application and biometrics",
       "status": "active",
-      "source_url": "https://www.goturkiye.gov.tr/"
+      "source_url": "https://www.goturkiye.gov.tr/",
+      "dual_citizenship": "Fully permitted — Turkey allows dual and multiple citizenship"
     }
   ],
   "VU": [
@@ -157,7 +163,8 @@
       "taxation_notes": "no personal income tax, capital gains tax, or inheritance tax of any kind",
       "application_steps": "engage a licensed agent; submit documents and application forms; due diligence review by the Vanuatu Citizenship Office; pay the contribution; receive the certificate and passport",
       "status": "active, under periodic EU visa-suspension scrutiny",
-      "source_url": "https://vancitizenship.gov.vu/"
+      "source_url": "https://vancitizenship.gov.vu/",
+      "dual_citizenship": "Fully permitted — no requirement to renounce any prior nationality"
     }
   ],
   "EG": [
@@ -180,7 +187,8 @@
       "taxation_notes": "worldwide income taxed only if tax-resident in Egypt; non-resident citizens are taxed on Egyptian-source income only",
       "application_steps": "submit application with supporting documents through official channels; complete the chosen investment; undergo Ministry of Interior security clearance; receive citizenship decree",
       "status": "active",
-      "source_url": "https://www.mfa.gov.eg/"
+      "source_url": "https://www.mfa.gov.eg/",
+      "dual_citizenship": "Permitted for most applicants, though certain senior public-office and security-sensitive roles are restricted to those holding only Egyptian citizenship"
     }
   ],
   "JO": [
@@ -189,12 +197,12 @@
       "program_name": "Jordan Investor Citizenship Program",
       "min_investment": "1000000",
       "currency": "JOD",
-      "investment_route": "Non-interest-bearing bank deposit (1000000 JOD, ~1.4M USD, held 3 years); Investment in an approved commercial/industrial project creating local jobs; Government bonds",
-      "investment_breakdown": "the bank deposit route returns full principal after the 3-year hold with no interest paid",
+      "investment_route": "Active investment in an approved commercial or industrial project in Amman, averaging JOD 700,000 in assets, employing at least 20 Jordanian nationals, and demonstrating 90% monthly compliance over 3 years; or the same structure outside Amman at a reduced JOD 350,000 threshold with at least 10 Jordanian employees; a retroactive route exists for investors who have already maintained JOD 350,000-700,000 in Jordan and created qualifying jobs over a sustained period",
+      "investment_breakdown": "the program was restructured in July 2025: the previous passive routes (a JOD 1,000,000 interest-free bank deposit or government bond, held 3-6 years) were phased out and replaced with active investment and job-creation requirements; existing legacy deposit or bond holders from before the restructuring should seek individual legal advice on their transition options",
       "additional_fees": "administrative processing fees apply in addition to the core investment; Cabinet approval carries no separate formal fee beyond standard filing costs",
       "processing_time": "several months, subject to Cabinet-level and royal approval",
       "physical_presence_requirement": "none required",
-      "due_diligence": "standard financial due diligence plus a formal Cabinet review and Royal Decree requirement — the most politically layered approval process of any CBI program",
+      "due_diligence": "standard financial due diligence plus a formal Cabinet review and Royal Decree requirement; job-creation and Social Security Corporation registration of employees must be verified as part of the active-investment routes",
       "family_inclusion": "spouse and dependent children",
       "naturalization_timeline": "citizenship is granted directly once Cabinet and royal approval are obtained — no residency period",
       "renewal_requirements": "citizenship is permanent, though naturalised citizens are barred from holding senior public office for 10 years",
@@ -203,7 +211,8 @@
       "taxation_notes": "worldwide income taxed only if tax-resident in Jordan",
       "application_steps": "apply through the Jordan Investment Commission; select the deposit or enterprise route; complete financial and security due diligence; obtain Cabinet approval and Royal Decree; receive citizenship",
       "status": "active",
-      "source_url": "https://www.moin.gov.jo/"
+      "source_url": "https://www.moin.gov.jo/; https://www.globalinvestments.net/citizenship/jordan-citizenship; https://legalclarity.org/does-jordan-allow-for-dual-citizenship/",
+      "dual_citizenship": "Generally permitted in practice under the 1954 Nationality Law as amended in 1987, and dual nationals are not automatically stripped of Jordanian citizenship; citizens are formally required to notify the government of any foreign nationality held, and acquisition of the nationality of a non-Arab state can in some circumstances require Cabinet consent — investors should seek case-specific legal advice"
     }
   ],
   "NR": [
@@ -226,7 +235,8 @@
       "taxation_notes": "no personal income tax, capital gains tax, or inheritance tax",
       "application_steps": "engage a licensed agent; submit documents; due diligence review by the Nauru Program Office; make the Treasury Fund contribution; receive certificate and passport",
       "status": "active, launched 2024",
-      "source_url": "https://www.ecrcp.gov.nr/"
+      "source_url": "https://www.ecrcp.gov.nr/",
+      "dual_citizenship": "Permitted — no requirement to renounce any prior nationality"
     }
   ],
   "ST": [
@@ -249,7 +259,8 @@
       "taxation_notes": "no personal income tax, capital gains tax, or inheritance tax",
       "application_steps": "engage a licensed agent; submit documents remotely; due diligence review by the CIU; make the donation; receive certificate, passport, and national ID",
       "status": "active, launched 2025",
-      "source_url": "https://stpcip.com/"
+      "source_url": "https://stpcip.com/",
+      "dual_citizenship": "Permitted — no requirement to renounce any prior nationality"
     }
   ],
   "PT": [
@@ -265,14 +276,15 @@
       "physical_presence_requirement": "7 days in Portugal in year 1, then 14 days in each subsequent 2-year period — one of the lowest physical presence requirements of any EU golden visa",
       "due_diligence": "standard due diligence through AIMA (Portugal's immigration agency, formerly SEF)",
       "family_inclusion": "Spouse or partner; Dependent children; Dependent parents of either spouse",
-      "naturalization_timeline": "eligible to apply for citizenship after 5 years of holding the residence permit (among the shortest naturalization timelines of any EU golden visa), subject to a A2-level Portuguese language test",
+      "naturalization_timeline": "Portugal's Nationality Law was amended by Decree 48/XVII, signed 3 May 2026 and in force from 19 May 2026: the general naturalization period was extended from 5 years to 10 years of legal residence for most applicants, and to 7 years for nationals of EU and CPLP (Portuguese-speaking) countries; the residence clock now runs from the date the first residence card is issued rather than the application date; a new A2-level Portuguese language test, a civic/historical knowledge test, and a formal declaration of commitment to democratic principles are also required; citizenship applications formally submitted before 19 May 2026 continue to be assessed under the previous 5-year rule",
       "renewal_requirements": "residence permit renewed every 2 years, contingent on maintaining the qualifying investment and minimum presence",
       "eligibility_criteria": "18+; Clean criminal record; Valid private health insurance; Verifiable source of funds",
       "key_benefits": "Access to the Schengen Area for visa-free travel; One of the lowest physical presence requirements among EU programs; Non-habitual resident tax regime available separately for qualifying new tax residents",
       "taxation_notes": "non-habitual resident (NHR) regime, where still available to new applicants, offers reduced tax rates on qualifying foreign-source income for a fixed number of years",
       "application_steps": "choose investment route; obtain a Portuguese NIF and bank account; submit the AIMA application online; attend biometrics appointment; receive the residence permit and renew every 2 years",
       "status": "active",
-      "source_url": "https://aima.gov.pt/"
+      "source_url": "https://aima.gov.pt/; https://www.thegoldenportugal.com/update-on-portugals-nationality-law/; https://getgoldenvisa.com/citizenship-law-change-update-portugal-2025",
+      "dual_citizenship": "Fully permitted — Portugal imposes no restriction on holding multiple nationalities and does not require renunciation of any prior citizenship"
     }
   ],
   "GR": [
@@ -295,7 +307,8 @@
       "taxation_notes": "non-resident investors are generally taxed only on Greek-source income (including rental income from the qualifying property)",
       "application_steps": "select a qualifying property; obtain a Greek tax number (AFM); sign the purchase contract before a notary; register the property; submit the residence permit application with proof of ownership",
       "status": "active",
-      "source_url": "https://migration.gov.gr/"
+      "source_url": "https://migration.gov.gr/",
+      "dual_citizenship": "Fully permitted — Greece allows dual and multiple citizenship"
     }
   ],
   "IT": [
@@ -318,7 +331,8 @@
       "taxation_notes": "eligible new residents may opt into a flat annual substitute tax on foreign-sourced income instead of ordinary progressive rates, for a period of up to 15 years",
       "application_steps": "apply for nulla osta clearance online via the Investor Visa Committee portal; obtain the investor visa at an Italian consulate; enter Italy and complete the investment within 3 months; apply for the residence permit",
       "status": "active",
-      "source_url": "https://investorvisa.mise.gov.it/"
+      "source_url": "https://investorvisa.mise.gov.it/",
+      "dual_citizenship": "Fully permitted — Italy has allowed dual citizenship without requiring renunciation since its 1992 nationality law reform"
     }
   ],
   "MT": [
@@ -341,7 +355,8 @@
       "taxation_notes": "Malta's non-domicile tax regime taxes qualifying residents only on Malta-source income and remitted foreign income, not worldwide income",
       "application_steps": "engage a licensed agent; submit application to Residency Malta Agency; pay the government contribution and secure the property; complete due diligence; residence card issued",
       "status": "active",
-      "source_url": "https://residencymalta.gov.mt/"
+      "source_url": "https://residencymalta.gov.mt/",
+      "dual_citizenship": "Not yet verified"
     }
   ],
   "CY": [
@@ -364,7 +379,8 @@
       "taxation_notes": "Cyprus's non-domicile regime exempts qualifying residents from tax on foreign dividends and interest for 17 years",
       "application_steps": "purchase a qualifying new-build property; submit the residence permit application with proof of income and property ownership; attend interview if required; permit issued",
       "status": "active",
-      "source_url": "https://moi.gov.cy/"
+      "source_url": "https://moi.gov.cy/",
+      "dual_citizenship": "Fully permitted — Cyprus allows dual and multiple citizenship (note: this specific Permanent Residence Permit does not itself grant citizenship)"
     }
   ],
   "HU": [
@@ -387,7 +403,8 @@
       "taxation_notes": "worldwide income taxed only if tax-resident in Hungary",
       "application_steps": "choose the investment route; submit application to the National Directorate-General for Aliens Policing; complete due diligence; residence permit issued",
       "status": "active, relaunched 2024",
-      "source_url": "https://nvsz.gov.hu/"
+      "source_url": "https://nvsz.gov.hu/",
+      "dual_citizenship": "Fully permitted — Hungary allows dual and multiple citizenship (note: this residence program does not itself grant citizenship)"
     }
   ],
   "LV": [
@@ -410,7 +427,8 @@
       "taxation_notes": "worldwide income taxed only if tax-resident in Latvia",
       "application_steps": "select a qualifying property; pay the purchase price and state fee; submit application to the Office of Citizenship and Migration Affairs; residence permit issued",
       "status": "active",
-      "source_url": "https://www.pmlp.gov.lv/"
+      "source_url": "https://www.pmlp.gov.lv/",
+      "dual_citizenship": "Restricted — Latvia only permits dual citizenship with a specific list of countries (mainly EU/EEA/NATO/EFTA states and a small number of others); dual citizenship with most other countries requires special exemption (note: this residence program does not itself grant citizenship)"
     }
   ],
   "US": [
@@ -433,7 +451,8 @@
       "taxation_notes": "US tax residents (including green card holders) are taxed on worldwide income once the green card is issued",
       "application_steps": "select a Regional Center project or direct investment; file Form I-526E petition with USCIS; obtain conditional green card via consular processing or adjustment of status; file Form I-829 after 2 years to remove conditions",
       "status": "active",
-      "source_url": "https://www.uscis.gov/eb-5"
+      "source_url": "https://www.uscis.gov/eb-5",
+      "dual_citizenship": "Permitted in practice — the US naturalization oath contains renunciatory language but the US does not actively enforce it or require proof that another nationality was relinquished, so most naturalized US citizens retain their original citizenship if their home country also allows it"
     }
   ],
   "PA": [
@@ -456,7 +475,8 @@
       "taxation_notes": "territorial tax system — only Panama-sourced income is taxed; foreign-sourced income, including from investments held abroad, is not taxed",
       "application_steps": "select the investment route; submit application to the National Immigration Service with proof of investment; complete due diligence; permanent residence card issued",
       "status": "active",
-      "source_url": "https://www.migracion.gob.pa/"
+      "source_url": "https://www.migracion.gob.pa/",
+      "dual_citizenship": "Fully permitted — Panama allows dual and multiple citizenship"
     }
   ],
   "SG": [
@@ -479,7 +499,8 @@
       "taxation_notes": "Singapore taxes residents only on Singapore-sourced income and on foreign income remitted into Singapore; foreign income kept offshore is generally not taxed",
       "application_steps": "submit a business or investment proposal to the Economic Development Board; undergo evaluation and interview; receive approval in principle; complete the investment; permanent residence granted",
       "status": "active",
-      "source_url": "https://www.edb.gov.sg/"
+      "source_url": "https://www.edb.gov.sg/",
+      "dual_citizenship": "Not permitted — Singapore requires renunciation of all other citizenships upon naturalization (note: this program grants permanent residence, not citizenship, but Singapore's broader citizenship law is relevant for investors planning that far ahead)"
     }
   ],
   "BR": [
@@ -502,7 +523,8 @@
       "taxation_notes": "worldwide income taxed only if tax-resident in Brazil (183+ days per year)",
       "application_steps": "register the investment plan with the relevant Brazilian agency; apply for the visa at a Brazilian consulate or convert status in-country; residence permit issued",
       "status": "active",
-      "source_url": "https://www.gov.br/mj/"
+      "source_url": "https://www.gov.br/mj/",
+      "dual_citizenship": "Fully permitted — Brazil allows dual and multiple citizenship"
     }
   ],
   "NZ": [
@@ -525,7 +547,8 @@
       "taxation_notes": "worldwide income taxed if tax-resident in New Zealand; New Zealand does not levy a general capital gains tax on most personal investments",
       "application_steps": "submit an Expression of Interest; obtain approval in principle; make the qualifying investment within 12 months; visa granted; meet minimum stay requirement over the investment period",
       "status": "active, relaunched 2025",
-      "source_url": "https://www.immigration.govt.nz/"
+      "source_url": "https://www.immigration.govt.nz/",
+      "dual_citizenship": "Fully permitted — New Zealand allows dual and multiple citizenship"
     }
   ],
   "PY": [
@@ -548,7 +571,8 @@
       "taxation_notes": "territorial tax system — only Paraguay-sourced income is taxed",
       "application_steps": "select a qualifying tourism project; submit application to the Ministry of Industry and Commerce; complete due diligence; permanent residence granted",
       "status": "active, launched 2026",
-      "source_url": "https://www.migraciones.gov.py/"
+      "source_url": "https://www.migraciones.gov.py/",
+      "dual_citizenship": "Fully permitted — Paraguay allows dual and multiple citizenship"
     }
   ],
   "MC": [
@@ -571,7 +595,8 @@
       "taxation_notes": "no personal income tax for non-French residents; no capital gains tax on personal investments",
       "application_steps": "open a qualifying account with a Monaco bank and deposit the required funds; secure accommodation; submit residence application with proof of funds and accommodation; attend interview; residence card issued",
       "status": "active",
-      "source_url": "https://en.gouv.mc/"
+      "source_url": "https://en.gouv.mc/",
+      "dual_citizenship": "Not applicable to this residence permit; Monegasque naturalization, when eventually pursued, generally requires renunciation of prior nationality"
     }
   ],
   "AD": [
@@ -594,7 +619,8 @@
       "taxation_notes": "personal income tax capped at approximately 10%; no wealth tax and no inheritance tax",
       "application_steps": "select the qualifying investment; open the mandatory AFA deposit account; submit residence application with proof of income and health insurance; attend interview; permit issued",
       "status": "active",
-      "source_url": "https://www.immigracio.ad/"
+      "source_url": "https://www.immigracio.ad/",
+      "dual_citizenship": "Not applicable to this residence permit; Andorran naturalization, when eventually pursued after 20 years, generally requires renunciation of prior nationality since Andorra does not recognize dual citizenship for the naturalized"
     }
   ],
   "MY": [
@@ -617,7 +643,8 @@
       "taxation_notes": "foreign-sourced income and remitted funds under MM2H are not taxed; interest on the fixed deposit itself is also tax-exempt",
       "application_steps": "select a tier; open the fixed deposit account; complete the mandatory property purchase; submit application with financial and medical documents to MOTAC; visa issued",
       "status": "active, relaunched 2024",
-      "source_url": "https://www.motac.gov.my/"
+      "source_url": "https://www.motac.gov.my/",
+      "dual_citizenship": "Not applicable — MM2H is a residency pass only and does not lead to citizenship; Malaysia does not generally recognize dual citizenship for its own nationals"
     }
   ],
   "TH": [
@@ -640,7 +667,8 @@
       "taxation_notes": "LTR visa holders under the Wealthy Global Citizen and other qualifying categories may access preferential personal income tax treatment on foreign-sourced income under Thai Revenue Department rules",
       "application_steps": "confirm eligibility under one of the four LTR categories; submit application and documents to the BOI; upon endorsement, apply for the visa at a Thai embassy or in-country; collect the visa in person at the BOI's One Bangkok center",
       "status": "active",
-      "source_url": "https://ltr.boi.go.th/"
+      "source_url": "https://ltr.boi.go.th/",
+      "dual_citizenship": "Not applicable — the LTR visa does not lead to citizenship"
     }
   ],
   "ID": [
@@ -663,7 +691,8 @@
       "taxation_notes": "Indonesia taxes residents on worldwide income if tax-resident (183+ days per year); foreign income of non-tax-resident visa holders is generally not taxed",
       "application_steps": "select the passive or business investment route; prepare the signed investment commitment letter and supporting documents; submit the application online through Indonesia's immigration system; receive the e-visa and re-entry permit on arrival",
       "status": "active",
-      "source_url": "https://www.imigrasi.go.id/"
+      "source_url": "https://www.imigrasi.go.id/",
+      "dual_citizenship": "Not applicable — the Golden Visa does not lead to citizenship; Indonesia does not generally recognize dual citizenship for adults"
     }
   ],
   "MU": [
@@ -686,7 +715,8 @@
       "taxation_notes": "Mauritius has no capital gains tax and no inheritance tax; its double-tax-treaty network is extensive, particularly with India and African markets",
       "application_steps": "full application steps have not yet been published; interested applicants should confirm current procedure directly with the Economic Development Board of Mauritius",
       "status": "active, launched 2026 (full program details still being published)",
-      "source_url": "https://www.edbmauritius.org/"
+      "source_url": "https://www.edbmauritius.org/",
+      "dual_citizenship": "Not yet published as the program rolls out through 2026"
     }
   ],
   "AE": [
@@ -709,7 +739,8 @@
       "taxation_notes": "no personal income tax; no capital gains tax on personally held investment property",
       "application_steps": "secure one of the three qualifying public-investment routes; obtain the supporting letter or licence documentation; apply via the relevant emirate's ICP or GDRFA smart portal; complete biometrics and a medical test; Emirates ID and visa issued",
       "status": "active",
-      "source_url": "https://icp.gov.ae/en/services/uae-golden-visa/"
+      "source_url": "https://icp.gov.ae/en/services/uae-golden-visa/",
+      "dual_citizenship": "Not applicable — this visa does not lead to UAE citizenship"
     },
     {
       "program_type": "residency",
@@ -730,7 +761,8 @@
       "taxation_notes": "no personal income tax; no capital gains tax on personally held investment property",
       "application_steps": "purchase qualifying unencumbered property valued at AED 2,000,000+; obtain the ownership confirmation letter from the Land Registration Department; apply via the relevant emirate's ICP or GDRFA smart portal; complete biometrics and a medical test; Emirates ID and visa issued",
       "status": "active",
-      "source_url": "https://icp.gov.ae/en/services/uae-golden-visa/"
+      "source_url": "https://icp.gov.ae/en/services/uae-golden-visa/",
+      "dual_citizenship": "Not applicable — this visa does not lead to UAE citizenship"
     }
   ]
 }
