@@ -14,20 +14,7 @@ function resolveCode(name: string): string | undefined {
   return NAME_MAP[name] ?? NAME_MAP_CI[name.trim().toLowerCase()];
 }
 
-type Program = {
-  program_type: string;
-  program_name: string;
-  min_investment: string;
-  currency: string;
-  investment_route: string;
-  processing_time: string;
-  physical_presence_requirement: string;
-  due_diligence: string;
-  family_inclusion: string;
-  path_to_citizenship: string;
-  status: string;
-  source_url: string;
-};
+type Program = Record<string, string>;
 
 const byCountry: Record<string, Program[]> = {};
 
@@ -45,20 +32,7 @@ group("investment-migration: parse and group", () => {
   const dataRows = rows.slice(1);
   log(`parsed ${dataRows.length} rows, header=${JSON.stringify(header)}`);
 
-  const idx = (name: string) => header.indexOf(name);
-  const iName = idx("country_name");
-  const iType = idx("program_type");
-  const iProgram = idx("program_name");
-  const iMin = idx("min_investment");
-  const iCurrency = idx("currency");
-  const iRoute = idx("investment_route");
-  const iProcessing = idx("processing_time");
-  const iPresence = idx("physical_presence_requirement");
-  const iDueDiligence = idx("due_diligence");
-  const iFamily = idx("family_inclusion");
-  const iPath = idx("path_to_citizenship");
-  const iStatus = idx("status");
-  const iSource = idx("source_url");
+  const iName = header.indexOf("country_name");
 
   let skippedUnmapped = 0;
   for (const [i, r] of dataRows.entries()) {
@@ -70,21 +44,14 @@ group("investment-migration: parse and group", () => {
       continue;
     }
 
+    const program: Program = {};
+    for (const [colIdx, col] of header.entries()) {
+      if (col === "country_name") continue;
+      program[col] = r[colIdx] ?? "";
+    }
+
     byCountry[code] ??= [];
-    byCountry[code].push({
-      program_type: r[iType] ?? "",
-      program_name: r[iProgram] ?? "",
-      min_investment: r[iMin] ?? "",
-      currency: r[iCurrency] ?? "",
-      investment_route: r[iRoute] ?? "",
-      processing_time: r[iProcessing] ?? "",
-      physical_presence_requirement: r[iPresence] ?? "",
-      due_diligence: r[iDueDiligence] ?? "",
-      family_inclusion: r[iFamily] ?? "",
-      path_to_citizenship: r[iPath] ?? "",
-      status: r[iStatus] ?? "",
-      source_url: r[iSource] ?? "",
-    });
+    byCountry[code].push(program);
   }
 
   log(`grouped into ${Object.keys(byCountry).length} countries, ${skippedUnmapped} rows skipped (unmapped)`);
