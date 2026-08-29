@@ -12,7 +12,11 @@
       "family_inclusion": "spouse, children, parents, grandparents, siblings",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active",
-      "source_url": "https://www.ciu.gov.kn/"
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds, medical exam",
+      "key_benefits": "visa-free/on-arrival to 150+ destinations incl. UK, Schengen, Hong Kong, Singapore; no personal income, wealth, or inheritance tax; oldest CBI program (est. 1984)",
+      "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
+      "application_steps": "choose licensed agent; submit documents and undergo due diligence; make investment on approval; receive certificate and passport",
+      "source_url": "https://ciu.gov.kn/"
     }
   ],
   "AG": [
@@ -28,6 +32,10 @@
       "family_inclusion": "spouse, children, parents, siblings, grandparents",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "visa-free to 150+ destinations incl. UK, Schengen, Hong Kong; one of the cheapest options for a family of 4",
+      "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
+      "application_steps": "choose licensed agent; submit documents; pay NDF or complete real estate purchase; interview if required; oath of allegiance within 5 years",
       "source_url": "https://cip.gov.ag/"
     }
   ],
@@ -44,7 +52,11 @@
       "family_inclusion": "spouse, children, parents, grandparents, siblings",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active",
-      "source_url": "https://cbiu.gov.dm/"
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds, medical exam",
+      "key_benefits": "lowest-cost CBI program; visa-free to 140+ destinations incl. UK, Schengen, Hong Kong, Singapore",
+      "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
+      "application_steps": "choose licensed agent; submit forms and documents; due diligence review; make donation or real estate investment; receive certificate and passport",
+      "source_url": "https://www.cbiu.gov.dm/"
     }
   ],
   "GD": [
@@ -60,7 +72,11 @@
       "family_inclusion": "spouse, children, parents, grandparents, siblings",
       "path_to_citizenship": "n/a (citizenship granted directly); qualifies for US E-2 treaty visa",
       "status": "active",
-      "source_url": "https://cbagrenada.gov.gd/"
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "only Caribbean CBI with US E-2 treaty visa eligibility after 3 years' domicile; visa-free to 140+ destinations incl. China, UK, Schengen",
+      "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
+      "application_steps": "choose licensed agent; submit application and documents; due diligence by CBI Unit; make investment; receive certificate and passport",
+      "source_url": "https://imagrenada.gd/"
     }
   ],
   "LC": [
@@ -76,6 +92,10 @@
       "family_inclusion": "spouse, children, parents, grandparents, siblings",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "widest range of investment routes among Caribbean CBI programs incl. interest-free government bond; visa-free to 140+ destinations",
+      "taxation_notes": "no tax on worldwide income, capital gains, or inheritance",
+      "application_steps": "choose licensed agent; submit application; due diligence by CIP Unit; select investment route and pay; receive certificate and passport",
       "source_url": "https://www.cip.gov.lc/"
     }
   ],
@@ -92,6 +112,10 @@
       "family_inclusion": "spouse, children under 18",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, appraised investment value maintained for hold period",
+      "key_benefits": "fastest large-economy CBI option; E-2 treaty eligibility for US investors; visa-free/on-arrival to 110+ destinations",
+      "taxation_notes": "worldwide income taxed if tax-resident in Turkey (183+ days); otherwise no obligation on foreign income",
+      "application_steps": "select qualifying real estate or open bank deposit; obtain conformity certificate; apply for citizenship; biometric appointment",
       "source_url": "https://www.goturkiye.gov.tr/"
     }
   ],
@@ -108,7 +132,11 @@
       "family_inclusion": "spouse, children, parents",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active, under periodic EU visa-suspension scrutiny",
-      "source_url": "https://www.dsp.gov.vu/"
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "fastest CBI program globally (30-60 days); no income, capital gains, or inheritance tax; visa-free to 90+ destinations",
+      "taxation_notes": "no personal income tax, capital gains tax, or inheritance tax",
+      "application_steps": "choose licensed agent; submit documents; due diligence by Vanuatu Citizenship Office; pay contribution; receive certificate and passport",
+      "source_url": "https://vancitizenship.gov.vu/"
     }
   ],
   "MT": [
@@ -124,6 +152,10 @@
       "family_inclusion": "spouse, children up to 29, parents over 55",
       "path_to_citizenship": "citizenship after 1 or 3 years residence",
       "status": "suspended (ended 2025 following CJEU ruling)",
+      "eligibility_criteria": "18+, clean criminal record, extensive source-of-wealth verification, in-person residence",
+      "key_benefits": "EU citizenship (when active) gave visa-free/settlement rights across all EU/EEA states; program is currently not accepting new applications",
+      "taxation_notes": "EU tax residency rules would apply if resident; non-dom regime available separately",
+      "application_steps": "program suspended; no new applications currently accepted pending Maltese government response to CJEU ruling",
       "source_url": "https://community.gov.mt/"
     },
     {
@@ -138,6 +170,10 @@
       "family_inclusion": "spouse, children, parents, grandparents (up to 5 generations)",
       "path_to_citizenship": "no direct path; separate naturalisation route by ordinary residence",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds, health insurance",
+      "key_benefits": "EU-adjacent residency and Schengen travel; no minimum stay requirement; property held only 5 years",
+      "taxation_notes": "non-doms taxed only on Malta-source income and remitted foreign income",
+      "application_steps": "choose licensed agent; submit application to Residency Malta Agency; pay contribution and secure property; due diligence; residence card issued",
       "source_url": "https://residencymalta.gov.mt/"
     }
   ],
@@ -154,6 +190,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "only North African CBI program; access to Egyptian passport for regional travel and business",
+      "taxation_notes": "worldwide income taxed if tax-resident in Egypt; foreign-sourced income of non-residents generally untaxed",
+      "application_steps": "submit application through Ministry of Interior channels; complete investment; security clearance; citizenship decree",
       "source_url": "https://www.mfa.gov.eg/"
     }
   ],
@@ -170,23 +210,31 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active",
-      "source_url": "https://moin.gov.jo/"
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds; naturalised citizens barred from public office for 10 years",
+      "key_benefits": "access to Jordan's stable Levant/Gulf business environment; free-trade agreements with EU, US Qualifying Industrial Zones",
+      "taxation_notes": "worldwide income taxed if tax-resident in Jordan",
+      "application_steps": "apply via Jordan Investment Commission; choose deposit or enterprise route; Cabinet and royal approval required",
+      "source_url": "https://www.moin.gov.jo/"
     }
   ],
   "NR": [
     {
       "program_type": "citizenship",
-      "program_name": "Economic and Community Development Fund",
+      "program_name": "Economic and Climate Resilience Citizenship Program",
       "min_investment": "105000",
       "currency": "USD",
-      "investment_route": "donation to state fund",
-      "processing_time": "1-2 months",
+      "investment_route": "donation to Treasury Fund",
+      "processing_time": "3-4 months",
       "physical_presence_requirement": "none",
       "due_diligence": "standard due diligence",
-      "family_inclusion": "spouse, children",
+      "family_inclusion": "spouse, children, parents, grandparents, siblings",
       "path_to_citizenship": "n/a (citizenship granted directly)",
       "status": "active, launched 2024",
-      "source_url": "https://naurugov.nr/"
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "funds climate resilience and relocation infrastructure; visa-free access incl. Hong Kong, Singapore, UAE",
+      "taxation_notes": "no personal income tax, capital gains tax, or inheritance tax",
+      "application_steps": "choose licensed agent; submit documents; due diligence by Nauru Program Office; make Treasury Fund contribution; receive certificate and passport",
+      "source_url": "https://www.ecrcp.gov.nr/"
     }
   ],
   "ST": [
@@ -195,14 +243,18 @@
       "program_name": "Citizenship by Investment",
       "min_investment": "90000",
       "currency": "USD",
-      "investment_route": "donation to state fund",
-      "processing_time": "several months",
+      "investment_route": "donation to National Transformation Fund",
+      "processing_time": "5-8 months",
       "physical_presence_requirement": "none",
       "due_diligence": "standard due diligence",
-      "family_inclusion": "spouse, children",
+      "family_inclusion": "spouse, children, parents, grandparents",
       "path_to_citizenship": "n/a (citizenship granted directly)",
-      "status": "active, launched 2024",
-      "source_url": "https://www.gov.st/"
+      "status": "active, launched 2025",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds; open to all nationalities except North Korea",
+      "key_benefits": "cheapest CBI program globally; fully remote application, no interview or residence requirement",
+      "taxation_notes": "no personal income tax, capital gains tax, or inheritance tax",
+      "application_steps": "choose licensed agent; submit documents; due diligence by CIU; make donation; receive certificate, passport, and national ID",
+      "source_url": "https://stpcip.com/"
     }
   ],
   "PT": [
@@ -218,6 +270,10 @@
       "family_inclusion": "spouse, children, parents",
       "path_to_citizenship": "citizenship after 10 years residence (7 years for EU/CPLP nationals)",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, valid health insurance, verifiable source of funds",
+      "key_benefits": "access to Schengen Area; low physical presence requirement; established path to EU citizenship",
+      "taxation_notes": "non-habitual resident tax regime available for qualifying new residents",
+      "application_steps": "choose investment route; obtain NIF and bank account; submit AIMA application; biometrics appointment; residence permit renewal every 2 years",
       "source_url": "https://aima.gov.pt/"
     }
   ],
@@ -234,6 +290,10 @@
       "family_inclusion": "spouse, children, parents",
       "path_to_citizenship": "citizenship after 7 years residence plus language/integration test",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "access to Schengen Area; no minimum stay to maintain residency permit; real estate can be rented for income",
+      "taxation_notes": "non-resident investors generally taxed only on Greek-source income",
+      "application_steps": "select qualifying property; obtain Greek tax number; submit residence permit application; property registration; biometrics",
       "source_url": "https://migration.gov.gr/"
     }
   ],
@@ -250,6 +310,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "n/a",
       "status": "ended (real estate route abolished April 2025)",
+      "eligibility_criteria": "n/a",
+      "key_benefits": "program discontinued; other investor and non-lucrative visa categories remain available separately",
+      "taxation_notes": "n/a",
+      "application_steps": "real estate route no longer accepts new applications as of April 2025",
       "source_url": "https://www.exteriores.gob.es/"
     }
   ],
@@ -266,6 +330,10 @@
       "family_inclusion": "spouse, children, parents",
       "path_to_citizenship": "citizenship after 10 years residence",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "access to Schengen Area; flat tax regime available for new residents on foreign income",
+      "taxation_notes": "optional flat annual tax on foreign-sourced income for qualifying new residents (regime forfettario)",
+      "application_steps": "apply for nulla osta clearance online; obtain investor visa at consulate; complete investment within 3 months of entry; apply for residence permit",
       "source_url": "https://investorvisa.mise.gov.it/"
     }
   ],
@@ -282,6 +350,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "citizenship route suspended since 2020",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, proof of stable annual income from abroad",
+      "key_benefits": "fast processing; minimal physical presence; EU-adjacent lifestyle",
+      "taxation_notes": "non-dom regime exempts foreign dividends and interest from tax for qualifying residents",
+      "application_steps": "purchase qualifying new-build property; submit application with proof of income; interview; permit issued",
       "source_url": "https://moi.gov.cy/"
     }
   ],
@@ -298,6 +370,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "no direct path; separate naturalisation route by ordinary residence",
       "status": "active, relaunched 2024",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "10-year renewable residence permit; access to Schengen Area; relatively low entry threshold for EU residency",
+      "taxation_notes": "worldwide income taxed if tax-resident in Hungary",
+      "application_steps": "choose investment route; submit application to National Directorate-General for Aliens Policing; due diligence; residence permit issued",
       "source_url": "https://nvsz.gov.hu/"
     }
   ],
@@ -314,6 +390,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "no direct path; separate naturalisation route by ordinary residence",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "access to Schengen Area; relatively low property investment threshold among EU programs",
+      "taxation_notes": "worldwide income taxed if tax-resident in Latvia",
+      "application_steps": "select qualifying property; pay state fee; submit application to Office of Citizenship and Migration Affairs; residence permit issued",
       "source_url": "https://www.pmlp.gov.lv/"
     }
   ],
@@ -330,6 +410,10 @@
       "family_inclusion": "spouse, children, parents, domestic staff",
       "path_to_citizenship": "no path to citizenship (exceptional cases only, not investment-based)",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "10-year renewable residency, longest-duration golden visa; no personal income tax; sponsor own dependents and staff",
+      "taxation_notes": "no personal income tax; no capital gains tax on personal investment property",
+      "application_steps": "select qualifying property; apply via ICP or GDRFA portal; biometrics and medical test; Emirates ID issued",
       "source_url": "https://icp.gov.ae/"
     }
   ],
@@ -346,6 +430,10 @@
       "family_inclusion": "spouse, children under 21",
       "path_to_citizenship": "citizenship after 5 years permanent residence",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable lawful source of funds, must create/preserve 10 full-time US jobs",
+      "key_benefits": "direct path to US green card and eventual citizenship; no sponsor or job offer required, unlike other US visas",
+      "taxation_notes": "US tax residents taxed on worldwide income once green card is issued",
+      "application_steps": "file Form I-526E petition; conditional green card on approval; file Form I-829 after 2 years to remove conditions",
       "source_url": "https://www.uscis.gov/eb-5"
     }
   ],
@@ -362,6 +450,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "citizenship after 5 years residence",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "fast processing; territorial tax system exempts foreign-source income; permanent residency granted directly (not renewable temporary status)",
+      "taxation_notes": "territorial tax system: foreign-sourced income not taxed",
+      "application_steps": "select investment route; submit application to National Immigration Service; due diligence; permanent residence card issued",
       "source_url": "https://www.migracion.gob.pa/"
     }
   ],
@@ -378,6 +470,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "citizenship route by ordinary residence, selective",
       "status": "active",
+      "eligibility_criteria": "proven entrepreneurial or business track record, substantial verifiable net worth, business plan review",
+      "key_benefits": "access to Singapore's business and financial hub status; permanent residency granted directly if approved",
+      "taxation_notes": "worldwide income not taxed; only Singapore-source and remitted income taxed for residents",
+      "application_steps": "submit business/fund proposal to EDB; interview and evaluation; approval in principle; complete investment; PR granted",
       "source_url": "https://www.edb.gov.sg/"
     }
   ],
@@ -394,6 +490,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "citizenship after 4 years residence",
       "status": "active",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds, registered investment plan",
+      "key_benefits": "lowest-cost investor residency among major economies; access to Mercosur trade bloc region",
+      "taxation_notes": "worldwide income taxed if tax-resident in Brazil (183+ days)",
+      "application_steps": "register investment plan with relevant agency; apply for visa at Brazilian consulate or in-country; residence permit issued",
       "source_url": "https://www.gov.br/mj/"
     }
   ],
@@ -410,6 +510,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "permanent residence and citizenship via ordinary residence route",
       "status": "active, relaunched 2025",
+      "eligibility_criteria": "proven business/investment experience, verifiable source of funds, English language ability",
+      "key_benefits": "relaunched 2025 with lower thresholds and shorter minimum stay than prior program; strong rule of law and quality of life",
+      "taxation_notes": "worldwide income taxed if tax-resident in New Zealand; no capital gains tax on most personal investments",
+      "application_steps": "submit Expression of Interest; obtain approval in principle; make qualifying investment within 12 months; visa granted",
       "source_url": "https://www.immigration.govt.nz/"
     }
   ],
@@ -426,6 +530,10 @@
       "family_inclusion": "spouse, children",
       "path_to_citizenship": "citizenship after 3 years residence",
       "status": "active, launched 2026",
+      "eligibility_criteria": "18+, clean criminal record, verifiable source of funds",
+      "key_benefits": "low entry threshold; one of the fastest South American residency-by-investment options; territorial tax system",
+      "taxation_notes": "territorial tax system: foreign-sourced income not taxed",
+      "application_steps": "select qualifying tourism project; submit application to Ministry of Industry and Commerce; permanent residence granted",
       "source_url": "https://www.migraciones.gov.py/"
     }
   ]
