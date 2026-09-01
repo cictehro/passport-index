@@ -681,22 +681,22 @@
       "min_investment": "1000000",
       "currency": "USD",
       "investment_route": "Minimum 1000000 USD in global assets, including at least 500000 USD invested in Thai government bonds, foreign direct investment; Thai real estate; Alternative categories exist for remote workers and pensioners with lower financial thresholds",
-      "investment_breakdown": "the Wealthy Global Citizen category has no age requirement, unlike the Wealthy Pensioner category which requires applicants to be 50 or older with qualifying passive income",
-      "additional_fees": "government fee of 50000 THB (approximately 1400 USD) covers the full 10-year visa, not charged annually",
-      "processing_time": "typically 4-8 weeks after a complete application is submitted to the Board of Investment (BOI)",
+      "investment_breakdown": "the Wealthy Global Citizen category has no age requirement, unlike the Wealthy Pensioner category (50+, income-based); the BOI removed the previous USD 80,000 annual passive-income requirement for Wealthy Global Citizens in February 2025 (BOI Announcement No. Por 3/2568) — the category is now qualified on assets alone, though many third-party guides still incorrectly cite the old income threshold",
+      "additional_fees": "visa issuance fee of THB 50,000 per person, charged to the main applicant and each dependant separately, payable at issuance in Bangkok or at a Thai embassy/consulate abroad; no fee is charged by the BOI for the initial endorsement/application review itself",
+      "processing_time": "official BOI processing time is 20 business days from a complete application; in practice, applicants should allow 6-8 weeks; once approved, the applicant has 60 days to book a visa issuance appointment",
       "physical_presence_requirement": "no minimum annual stay required to maintain the visa, though annual reporting to immigration is mandatory",
       "due_diligence": "standard due diligence through Thailand's Board of Investment in cooperation with the Immigration Bureau",
       "family_inclusion": "spouse and dependent children can be included on the same application",
       "naturalization_timeline": "the LTR visa does not lead to permanent residence or citizenship; it is a long-stay visa route only",
-      "renewal_requirements": "issued as a 10-year visa structured as two 5-year stamps; the second 5 years requires re-confirming eligibility, it is not automatic",
+      "renewal_requirements": "issued as a 10-year visa structured as two 5-year stamps; the second 5 years requires re-confirming eligibility, it is not automatic; annual reporting to immigration only (reduced from the standard 90-day reporting other Thai visa categories require); the requirement for Thai employers to hire 4 Thai staff per foreign employee is waived for LTR holders seeking a work permit",
       "eligibility_criteria": "Minimum health insurance coverage of 50000 USD; Or a minimum balance of 100000 USD in a savings account as alternative financial security",
       "key_benefits": "One of the longest-duration Asia-Pacific residency visas without requiring permanent relocation; Includes streamlined digital work permit access and tax benefits for eligible categories; Annual reporting only, not the 90-day reporting required of other Thai visas",
       "taxation_notes": "LTR visa holders under the Wealthy Global Citizen and other qualifying categories may access preferential personal income tax treatment on foreign-sourced income under Thai Revenue Department rules",
       "application_steps": "confirm eligibility under one of the four LTR categories; submit application and documents to the BOI; upon endorsement, apply for the visa at a Thai embassy or in-country; collect the visa in person at the BOI's One Bangkok center",
       "status": "active",
-      "source_url": "https://ltr.boi.go.th/",
+      "source_url": "https://ltr.boi.go.th/; https://aimbangkok.com/thailand-ltr-visa-wealthy-global-citizen/; https://emerhub.com/thailand/stay/long-term-resident/wealthy-global-citizen/",
       "dual_citizenship": "Not applicable — the LTR visa does not lead to citizenship",
-      "field_sources": ""
+      "field_sources": "investment_breakdown=https://emerhub.com/thailand/stay/long-term-resident/wealthy-global-citizen/; additional_fees=https://aimbangkok.com/thailand-ltr-visa-wealthy-global-citizen/; processing_time=https://aimbangkok.com/thailand-ltr-visa-wealthy-global-citizen/; renewal_requirements=https://ltr.boi.go.th/|https://aimbangkok.com/thailand-ltr-visa-wealthy-global-citizen/"
     }
   ],
   "ID": [
