@@ -6277,7 +6277,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "285"
+    "footnote_ids": "286"
   },
   "AL:AF": {
     "notes": "- e-Visa: Visitors must arrive at Kabul International (KBL).",
@@ -6517,7 +6517,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "261;biometric-17"
+    "footnote_ids": "262;biometric-17"
   },
   "AL:CI": {
     "notes": "",
@@ -6685,7 +6685,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "252;biometric-17"
+    "footnote_ids": "253;biometric-17"
   },
   "AL:ET": {
     "notes": "- e-Visa holders must arrive via Addis Ababa Bole International Airport.",
@@ -6717,7 +6717,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "177"
+    "footnote_ids": "178"
   },
   "AL:FR": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -6736,12 +6736,12 @@
     "footnote_ids": "94;95"
   },
   "AL:GB": {
-    "notes": "- Albanian citizens who hold a valid entry visa for Australia, Canada, New Zealand or the United States, and a valid airline ticket for travel via the United Kingdom, as part of a journey to or from one of those countries and/or are permanent residents of the European Union, Australia, Canada and New Zealand do not require a Direct Airside Transit visa. [ 281 ]",
+    "notes": "- Albanian citizens who hold a valid entry visa for Australia, Canada, New Zealand or the United States, and a valid airline ticket for travel via the United Kingdom, as part of a journey to or from one of those countries and/or are permanent residents of the European Union, Australia, Canada and New Zealand do not require a Direct Airside Transit visa. [ 282 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "286;287;288"
+    "footnote_ids": "287;288;289"
   },
   "AL:GD": {
     "notes": "",
@@ -6872,12 +6872,12 @@
     "footnote_ids": "117;118"
   },
   "AL:IE": {
-    "notes": "- Visa is issued free of charge. [ 122 ] [ 123 ]\n- Visa waiver for UK 'C' visa holders. Entry permitted only if first point of entry to the Common Travel Area is in the UK. [ 124 ]\n- Guards not present at the Ireland-Northern Ireland. [ 125 ]",
+    "notes": "- Visa is issued free of charge. [ 123 ] [ 124 ]\n- Visa waiver for UK 'C' visa holders. Entry permitted only if first point of entry to the Common Travel Area is in the UK. [ 125 ]\n- Guards not present at the Ireland-Northern Ireland. [ 126 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "124;125;126;127;128"
+    "footnote_ids": "124;125;126;127;128;129"
   },
   "AL:IL": {
     "notes": "- Foreign nationals entering Israel through Ben Gurion Airport are issued an entry permit upon arrival, which serves as proof of legal stay and must be retained until departure. Admission is determined solely by Israeli border and immigration authorities at the airport.\n- Travelers who are denied entry and issued a return order must contact an Israeli diplomatic mission for information about future travel eligibility.\n- Since 1 August 2024, visa-exempt travelers are required to complete the ETA-IL electronic travel authorization prior to travel and may enter Israel only after receiving approval or holding a valid visa.",
@@ -6885,7 +6885,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "129;130"
+    "footnote_ids": "130;131"
   },
   "AL:IN": {
     "notes": "- e-Visa holders must arrive via 32 designated airports [ Note 1 ] or 5 designated seaports. [ Note 2 ] [ 111 ]\n- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 112 ]\n- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 113 ]",
@@ -6925,7 +6925,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "131;biometric-17"
+    "footnote_ids": "132;biometric-17"
   },
   "AL:JM": {
     "notes": "",
@@ -6933,7 +6933,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "132"
+    "footnote_ids": "133"
   },
   "AL:JO": {
     "notes": "- Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",
@@ -6941,7 +6941,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "134;135"
+    "footnote_ids": "135;136"
   },
   "AL:JP": {
     "notes": "",
@@ -6949,7 +6949,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "133"
+    "footnote_ids": "134"
   },
   "AL:KE": {
     "notes": "- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\n- eTA fee is 32.50 USD.\n- Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\n- Yellow fever vaccination certificate is required if coming from endemic countries.",
@@ -6957,7 +6957,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "138;139"
+    "footnote_ids": "139;140"
   },
   "AL:KG": {
     "notes": "- 30 days within any 60-day period.",
@@ -6965,7 +6965,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "146"
+    "footnote_ids": "147"
   },
   "AL:KH": {
     "notes": "",
@@ -6981,7 +6981,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "140"
+    "footnote_ids": "141"
   },
   "AL:KM": {
     "notes": "",
@@ -6997,7 +6997,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "225;226"
+    "footnote_ids": "226;227"
   },
   "AL:KP": {
     "notes": "",
@@ -7005,15 +7005,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "141"
+    "footnote_ids": "142"
   },
   "AL:KR": {
-    "notes": "- The validity period of a K-ETA is 3 years from the date of approval. [ 141 ]",
+    "notes": "- The validity period of a K-ETA is 3 years from the date of approval. [ 142 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "142;143;144"
+    "footnote_ids": "143;144;145"
   },
   "AL:KW": {
     "notes": "",
@@ -7021,7 +7021,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "145"
+    "footnote_ids": "146"
   },
   "AL:KZ": {
     "notes": "- 90 days within any 365 day period.",
@@ -7029,15 +7029,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "136;137"
+    "footnote_ids": "137;138"
   },
   "AL:LA": {
-    "notes": "- 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 145 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 145 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 145 ]",
+    "notes": "- 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 146 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 146 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 146 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "147;Visa-only_border_crossings-148;Checkpoints-149;eVisa_Friendship_Bridges-150;Friendship_Bridges-151;VOA_border_crossings._Laos-152"
+    "footnote_ids": "148;Visa-only_border_crossings-149;Checkpoints-150;eVisa_Friendship_Bridges-151;Friendship_Bridges-152;VOA_border_crossings._Laos-153"
   },
   "AL:LB": {
     "notes": "",
@@ -7045,7 +7045,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "154"
+    "footnote_ids": "155"
   },
   "AL:LC": {
     "notes": "",
@@ -7053,7 +7053,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "227"
+    "footnote_ids": "228"
   },
   "AL:LI": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7061,7 +7061,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "160;biometric-17"
+    "footnote_ids": "161;biometric-17"
   },
   "AL:LK": {
     "notes": "",
@@ -7069,7 +7069,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "253;254"
+    "footnote_ids": "254;255"
   },
   "AL:LR": {
     "notes": "",
@@ -7077,7 +7077,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "156;157"
+    "footnote_ids": "157;158"
   },
   "AL:LS": {
     "notes": "",
@@ -7085,7 +7085,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "155"
+    "footnote_ids": "156"
   },
   "AL:LT": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7093,7 +7093,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "161;biometric-17"
+    "footnote_ids": "162;biometric-17"
   },
   "AL:LU": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7101,7 +7101,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "162;biometric-17"
+    "footnote_ids": "163;biometric-17"
   },
   "AL:LV": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7109,7 +7109,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "153;biometric-17"
+    "footnote_ids": "154;biometric-17"
   },
   "AL:LY": {
     "notes": "",
@@ -7117,7 +7117,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "158;159"
+    "footnote_ids": "159;160"
   },
   "AL:MA": {
     "notes": "",
@@ -7125,7 +7125,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "183;184"
+    "footnote_ids": "184;185"
   },
   "AL:MC": {
     "notes": "",
@@ -7133,7 +7133,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "179"
+    "footnote_ids": "180"
   },
   "AL:MD": {
     "notes": "- 90 days within any 180 day period.",
@@ -7141,7 +7141,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "178"
+    "footnote_ids": "179"
   },
   "AL:ME": {
     "notes": "- ID card valid for 30 days.",
@@ -7149,7 +7149,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "182"
+    "footnote_ids": "183"
   },
   "AL:MG": {
     "notes": "- For stays of 61 to 90 days, the visa fee is 59 USD.",
@@ -7157,7 +7157,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "163;164"
+    "footnote_ids": "164;165"
   },
   "AL:MH": {
     "notes": "",
@@ -7165,7 +7165,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "172"
+    "footnote_ids": "173"
   },
   "AL:MK": {
     "notes": "- ID card valid.\n- 90 days within any 180 day period.",
@@ -7173,7 +7173,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "202"
+    "footnote_ids": "203"
   },
   "AL:ML": {
     "notes": "",
@@ -7181,7 +7181,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "170"
+    "footnote_ids": "171"
   },
   "AL:MM": {
     "notes": "- e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\n- e-Visa is available for tourism only.",
@@ -7189,7 +7189,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "187;188"
+    "footnote_ids": "188;189"
   },
   "AL:MN": {
     "notes": "",
@@ -7197,7 +7197,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "180;181"
+    "footnote_ids": "181;182"
   },
   "AL:MO": {
     "notes": "",
@@ -7213,7 +7213,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "173;174"
+    "footnote_ids": "174;175"
   },
   "AL:MT": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7221,7 +7221,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "171;biometric-17"
+    "footnote_ids": "172;biometric-17"
   },
   "AL:MU": {
     "notes": "",
@@ -7229,7 +7229,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "175"
+    "footnote_ids": "176"
   },
   "AL:MV": {
     "notes": "",
@@ -7237,7 +7237,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "169"
+    "footnote_ids": "170"
   },
   "AL:MW": {
     "notes": "",
@@ -7245,7 +7245,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "165;166"
+    "footnote_ids": "166;167"
   },
   "AL:MX": {
     "notes": "- Exemption applies only to holders of valid multiple-entry visas or residence permits; admission remains discretionary.",
@@ -7253,15 +7253,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "176"
+    "footnote_ids": "177"
   },
   "AL:MY": {
-    "notes": "- The electronic Malaysia Digital Arrival Card must be submitted within three days before the date of arrival in Malaysia. [ 161 ]",
+    "notes": "- The electronic Malaysia Digital Arrival Card must be submitted within three days before the date of arrival in Malaysia. [ 162 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "167;168"
+    "footnote_ids": "168;169"
   },
   "AL:MZ": {
     "notes": "",
@@ -7269,7 +7269,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "185;186"
+    "footnote_ids": "186;187"
   },
   "AL:NA": {
     "notes": "- Available at Hosea Kutako International Airport and other points of entry.",
@@ -7277,7 +7277,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "189;190"
+    "footnote_ids": "190;191"
   },
   "AL:NE": {
     "notes": "",
@@ -7285,7 +7285,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "199"
+    "footnote_ids": "200"
   },
   "AL:NG": {
     "notes": "",
@@ -7293,7 +7293,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "200;201"
+    "footnote_ids": "201;202"
   },
   "AL:NI": {
     "notes": "- Nationals of Albania with a visa issued by Canada, the USA or a Schengen Member State can obtain a visa upon arrival for a maximum of 30 days.",
@@ -7301,7 +7301,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "197;198"
+    "footnote_ids": "198;199"
   },
   "AL:NL": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7309,7 +7309,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "194;biometric-17"
+    "footnote_ids": "195;biometric-17"
   },
   "AL:NO": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7317,7 +7317,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "auto1-203;biometric-17"
+    "footnote_ids": "auto1-204;biometric-17"
   },
   "AL:NP": {
     "notes": "",
@@ -7325,7 +7325,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "192;193"
+    "footnote_ids": "193;194"
   },
   "AL:NR": {
     "notes": "",
@@ -7333,15 +7333,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "191"
+    "footnote_ids": "192"
   },
   "AL:NZ": {
-    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 189 ]",
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 190 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "195;Australian_Resident_Visa-196"
+    "footnote_ids": "196;Australian_Resident_Visa-197"
   },
   "AL:OM": {
     "notes": "- As of January 2026, Albanians belong to the first group of visa exemptions in Oman.",
@@ -7349,7 +7349,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "204;205"
+    "footnote_ids": "205;206"
   },
   "AL:PA": {
     "notes": "- Passengers holding a multiple entry visa issued by Australia, Canada, Japan, South Korea, Singapore, the US, the UK or an EU member state are exempt from the visa.",
@@ -7357,7 +7357,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "209"
+    "footnote_ids": "210"
   },
   "AL:PE": {
     "notes": "",
@@ -7365,7 +7365,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "214"
+    "footnote_ids": "215"
   },
   "AL:PG": {
     "notes": "- Visitors may apply for a visa online under the \"Tourist - Own Itinerary\" category.",
@@ -7373,15 +7373,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "210;211"
+    "footnote_ids": "211;212"
   },
   "AL:PH": {
-    "notes": "- Tourist visas must be obtained in advance through a Philippine diplomatic mission; limited online pre-application systems do not constitute visa-free or eVisa entry.\n- Residents of the United Arab Emirates may obtain an e-Visa through the official Philippine eVisa website. A valid Emirati residence visa must be shown upon an eVisa application. [ 209 ] [ 210 ]",
+    "notes": "- Tourist visas must be obtained in advance through a Philippine diplomatic mission; limited online pre-application systems do not constitute visa-free or eVisa entry.\n- Residents of the United Arab Emirates may obtain an e-Visa through the official Philippine eVisa website. A valid Emirati residence visa must be shown upon an eVisa application. [ 210 ] [ 211 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "215;216;217"
+    "footnote_ids": "216;217;218"
   },
   "AL:PK": {
     "notes": "- Issued in 7–10 business days.",
@@ -7389,7 +7389,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "206;207"
+    "footnote_ids": "207;208"
   },
   "AL:PL": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7397,7 +7397,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "218;biometric-17"
+    "footnote_ids": "219;biometric-17"
   },
   "AL:PT": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7405,7 +7405,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "219;biometric-17"
+    "footnote_ids": "220;biometric-17"
   },
   "AL:PW": {
     "notes": "",
@@ -7413,15 +7413,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "208"
+    "footnote_ids": "209"
   },
   "AL:PY": {
-    "notes": "- Visitors must complete an online application form, but still need to visit an embassy to receive a sticker visa. [ 206 ]",
+    "notes": "- Visitors must complete an online application form, but still need to visit an embassy to receive a sticker visa. [ 207 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "212;213"
+    "footnote_ids": "213;214"
   },
   "AL:QA": {
     "notes": "- Travelers can apply for a visa on the Hayya website.",
@@ -7429,7 +7429,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "220;221"
+    "footnote_ids": "221;222"
   },
   "AL:RO": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7437,15 +7437,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "222;biometric-17"
+    "footnote_ids": "223;biometric-17"
   },
   "AL:RS": {
-    "notes": "- ID card valid.\n- 90 days within any 6-month period. [ 230 ]",
+    "notes": "- ID card valid.\n- 90 days within any 6-month period. [ 231 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "236;237"
+    "footnote_ids": "237;238"
   },
   "AL:RU": {
     "notes": "",
@@ -7453,7 +7453,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "223"
+    "footnote_ids": "224"
   },
   "AL:RW": {
     "notes": "",
@@ -7461,7 +7461,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "224"
+    "footnote_ids": "225"
   },
   "AL:SA": {
     "notes": "",
@@ -7469,7 +7469,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "233;234"
+    "footnote_ids": "234;235"
   },
   "AL:SB": {
     "notes": "",
@@ -7477,7 +7477,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "245"
+    "footnote_ids": "246"
   },
   "AL:SC": {
     "notes": "- Application can be submitted up to 30 days before travel.\n- Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Payment of the fee (EUR 10) by credit or debit card.\n- Valid for one journey only and it expires once exit the country.",
@@ -7485,7 +7485,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "238;239"
+    "footnote_ids": "239;240"
   },
   "AL:SD": {
     "notes": "",
@@ -7493,7 +7493,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "255"
+    "footnote_ids": "256"
   },
   "AL:SE": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7501,7 +7501,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "260;biometric-17"
+    "footnote_ids": "261;biometric-17"
   },
   "AL:SG": {
     "notes": "",
@@ -7509,7 +7509,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "242"
+    "footnote_ids": "243"
   },
   "AL:SI": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7517,7 +7517,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "244;biometric-17"
+    "footnote_ids": "245;biometric-17"
   },
   "AL:SK": {
     "notes": "- 90 days within any 180 day period in the Schengen Area. [ a ]",
@@ -7525,7 +7525,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "243;biometric-17"
+    "footnote_ids": "244;biometric-17"
   },
   "AL:SL": {
     "notes": "",
@@ -7533,7 +7533,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "240;241"
+    "footnote_ids": "241;242"
   },
   "AL:SM": {
     "notes": "",
@@ -7541,7 +7541,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "230"
+    "footnote_ids": "231"
   },
   "AL:SN": {
     "notes": "",
@@ -7549,7 +7549,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "235"
+    "footnote_ids": "236"
   },
   "AL:SO": {
     "notes": "",
@@ -7557,15 +7557,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "246;247"
+    "footnote_ids": "247;248"
   },
   "AL:SR": {
-    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 251 ]\n- Multiple entry e-Visa is also available. [ 252 ]",
+    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 252 ]\n- Multiple entry e-Visa is also available. [ 253 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "256;257;258;259"
+    "footnote_ids": "257;258;259;260"
   },
   "AL:SS": {
     "notes": "- Obtainable online.\n- Printed visa authorization must be presented at the time of travel.",
@@ -7573,7 +7573,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "250;251"
+    "footnote_ids": "251;252"
   },
   "AL:ST": {
     "notes": "",
@@ -7581,7 +7581,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "231;232"
+    "footnote_ids": "232;233"
   },
   "AL:SV": {
     "notes": "",
@@ -7597,7 +7597,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "262;263"
+    "footnote_ids": "263;264"
   },
   "AL:SZ": {
     "notes": "",
@@ -7621,7 +7621,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "271;272"
+    "footnote_ids": "272;273"
   },
   "AL:TH": {
     "notes": "",
@@ -7629,15 +7629,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "269"
+    "footnote_ids": "270"
   },
   "AL:TJ": {
-    "notes": "- Citizens aged 55 and above can travel for 14 days without a visa. [ 259 ]",
+    "notes": "- Citizens aged 55 and above can travel for 14 days without a visa. [ 260 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "264;265;266"
+    "footnote_ids": "265;266;267"
   },
   "AL:TL": {
     "notes": "",
@@ -7645,15 +7645,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "270"
+    "footnote_ids": "271"
   },
   "AL:TM": {
-    "notes": "- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 272 ] [ 273 ]",
+    "notes": "- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 273 ] [ 274 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "277;278;279;280"
+    "footnote_ids": "278;279;280;281"
   },
   "AL:TN": {
     "notes": "",
@@ -7661,7 +7661,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "275"
+    "footnote_ids": "276"
   },
   "AL:TO": {
     "notes": "",
@@ -7669,7 +7669,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "273"
+    "footnote_ids": "274"
   },
   "AL:TR": {
     "notes": "",
@@ -7677,7 +7677,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "276"
+    "footnote_ids": "277"
   },
   "AL:TT": {
     "notes": "",
@@ -7685,7 +7685,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "274"
+    "footnote_ids": "275"
   },
   "AL:TV": {
     "notes": "",
@@ -7693,7 +7693,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "281"
+    "footnote_ids": "282"
   },
   "AL:TW": {
     "notes": "",
@@ -7709,7 +7709,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "267;268"
+    "footnote_ids": "268;269"
   },
   "AL:UA": {
     "notes": "- 90 days within any 180 day period.",
@@ -7717,7 +7717,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "284"
+    "footnote_ids": "285"
   },
   "AL:UG": {
     "notes": "",
@@ -7725,15 +7725,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "282;283"
+    "footnote_ids": "283;284"
   },
   "AL:US": {
-    "notes": "- May not apply for an immigrant visa. [ 283 ] [ 284 ]",
+    "notes": "- May not apply for an immigrant visa. [ 284 ] [ 285 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "289;290;291"
+    "footnote_ids": "290;291;292"
   },
   "AL:UY": {
     "notes": "",
@@ -7741,15 +7741,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "292"
+    "footnote_ids": "293"
   },
   "AL:UZ": {
-    "notes": "- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 288 ]",
+    "notes": "- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 289 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "293;294;295"
+    "footnote_ids": "294;295;296"
   },
   "AL:VA": {
     "notes": "",
@@ -7757,7 +7757,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "298"
+    "footnote_ids": "299"
   },
   "AL:VC": {
     "notes": "",
@@ -7765,15 +7765,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "228"
+    "footnote_ids": "229"
   },
   "AL:VE": {
-    "notes": "- Introduction of Electronic Visa System for Tourist and Business Travelers. [ 294 ] [ 295 ]",
+    "notes": "- Introduction of Electronic Visa System for Tourist and Business Travelers. [ 295 ] [ 296 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "299;300;301;302"
+    "footnote_ids": "300;301;302;303"
   },
   "AL:VG": {
     "notes": "",
@@ -7784,12 +7784,12 @@
     "footnote_ids": ""
   },
   "AL:VN": {
-    "notes": "- e-Visa is valid for 90 days and multiple entry.\n- Phú Quốc visa exemption for up to 30 days. [ 298 ]",
+    "notes": "- e-Visa is valid for 90 days and multiple entry.\n- Phú Quốc visa exemption for up to 30 days. [ 299 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "303;304;305"
+    "footnote_ids": "304;305;306"
   },
   "AL:VU": {
     "notes": "",
@@ -7797,7 +7797,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "296;297"
+    "footnote_ids": "297;298"
   },
   "AL:WS": {
     "notes": "",
@@ -7805,15 +7805,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "229"
+    "footnote_ids": "230"
   },
   "AL:YE": {
-    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 300 ]",
+    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 301 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "306;307"
+    "footnote_ids": "307;308"
   },
   "AL:ZA": {
     "notes": "",
@@ -7821,7 +7821,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "248;249"
+    "footnote_ids": "249;250"
   },
   "AL:ZM": {
     "notes": "",
@@ -7829,7 +7829,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "308"
+    "footnote_ids": "309"
   },
   "AL:ZW": {
     "notes": "",
@@ -7837,7 +7837,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "309;310"
+    "footnote_ids": "310;311"
   },
   "AM:AD": {
     "notes": "",
@@ -57845,7 +57845,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "279"
+    "footnote_ids": "280"
   },
   "CO:AF": {
     "notes": "- e-Visa: Visitors must arrive at Kabul International (KBL).",
@@ -58093,7 +58093,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "256"
+    "footnote_ids": "257"
   },
   "CO:CI": {
     "notes": "- e-Visa holders must arrive via Port Bouet Airport.",
@@ -58253,7 +58253,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "247"
+    "footnote_ids": "248"
   },
   "CO:ET": {
     "notes": "- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 96 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 97 ]",
@@ -58285,7 +58285,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "180"
+    "footnote_ids": "181"
   },
   "CO:FR": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58309,7 +58309,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "280"
+    "footnote_ids": "281"
   },
   "CO:GD": {
     "notes": "",
@@ -58448,12 +58448,12 @@
     "footnote_ids": "131"
   },
   "CO:IL": {
-    "notes": "- Visa requirement effective on 2 may 2025.",
+    "notes": "",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "132"
+    "footnote_ids": "132;133"
   },
   "CO:IN": {
     "notes": "- e-Visa holders must arrive via 32 designated airports [ Note 1 ] or 5 designated seaports. [ Note 2 ] [ 121 ]\n- An Indian e-Tourist Visa may only be obtained twice within 1 calendar year. [ 122 ]\n- Foreigners of Pakistani origin or who hold a Pakistani Passport are not eligible for an e-Visa. Foreigners who are not Pakistani nationals, but whose parents or grandparents (either paternal or maternal) were born in, or were permanent residents in Pakistan, are also not eligible for an e-Visa. [ 123 ]",
@@ -58493,7 +58493,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "133"
+    "footnote_ids": "134"
   },
   "CO:JM": {
     "notes": "",
@@ -58501,7 +58501,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "134"
+    "footnote_ids": "135"
   },
   "CO:JO": {
     "notes": "- Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",
@@ -58509,15 +58509,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "137;138"
+    "footnote_ids": "138;139"
   },
   "CO:JP": {
-    "notes": "- Visa requirement effective on 1 February 2004.\n- Holders of a residence permit in Australia, Brazil, Cambodia, Canada, India, Saudi Arabia, Singapore, South Africa, Taiwan, United Arab Emirates, United Kingdom, United States. can apply for a single entry e-visa individually. The duration of stay for these jurisdictions is up to 90 days (unless otherwise noted). e-Visa holder must arrive in Japan by air. [ 134 ]",
+    "notes": "- Visa requirement effective on 1 February 2004.\n- Holders of a residence permit in Australia, Brazil, Cambodia, Canada, India, Saudi Arabia, Singapore, South Africa, Taiwan, United Arab Emirates, United Kingdom, United States. can apply for a single entry e-visa individually. The duration of stay for these jurisdictions is up to 90 days (unless otherwise noted). e-Visa holder must arrive in Japan by air. [ 135 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "135;136"
+    "footnote_ids": "136;137"
   },
   "CO:KE": {
     "notes": "- Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance.\n- eTA fee is 32.50 USD.\n- Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable).\n- Yellow fever vaccination certificate is required if coming from endemic countries.",
@@ -58525,7 +58525,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "140;141"
+    "footnote_ids": "141;142"
   },
   "CO:KG": {
     "notes": "- e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).",
@@ -58533,7 +58533,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "148;149"
+    "footnote_ids": "149;150"
   },
   "CO:KH": {
     "notes": "",
@@ -58549,7 +58549,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "142"
+    "footnote_ids": "143"
   },
   "CO:KM": {
     "notes": "",
@@ -58565,7 +58565,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "223;224"
+    "footnote_ids": "224;225"
   },
   "CO:KP": {
     "notes": "",
@@ -58573,15 +58573,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "143"
+    "footnote_ids": "144"
   },
   "CO:KR": {
-    "notes": "- The validity period of a K-ETA is 3 years from the date of approval. [ 144 ]",
+    "notes": "- The validity period of a K-ETA is 3 years from the date of approval. [ 145 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "144;145;146"
+    "footnote_ids": "145;146;147"
   },
   "CO:KW": {
     "notes": "- e-Visa available via official portal. A printed confirmation is required and can be verified using the Kuwait Visa app.",
@@ -58589,7 +58589,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "147"
+    "footnote_ids": "148"
   },
   "CO:KZ": {
     "notes": "",
@@ -58597,15 +58597,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "139"
+    "footnote_ids": "140"
   },
   "CO:LA": {
-    "notes": "- 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 149 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 149 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 149 ]",
+    "notes": "- 18 [ Note 3 ] of the 33 border crossings are only open to regular visa holders. [ 150 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 4 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 150 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 5 ] and 7 border crossings. [ Note 6 ] [ 150 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "150;Visa-only_border_crossings-151;Checkpoints-152;eVisa_Friendship_Bridges-153;Friendship_Bridges-154;VOA_border_crossings._Laos-155"
+    "footnote_ids": "151;Visa-only_border_crossings-152;Checkpoints-153;eVisa_Friendship_Bridges-154;Friendship_Bridges-155;VOA_border_crossings._Laos-156"
   },
   "CO:LB": {
     "notes": "",
@@ -58613,7 +58613,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "157"
+    "footnote_ids": "158"
   },
   "CO:LC": {
     "notes": "",
@@ -58621,7 +58621,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "225"
+    "footnote_ids": "226"
   },
   "CO:LI": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58629,7 +58629,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "163"
+    "footnote_ids": "164"
   },
   "CO:LK": {
     "notes": "",
@@ -58637,7 +58637,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "248;249"
+    "footnote_ids": "249;250"
   },
   "CO:LR": {
     "notes": "",
@@ -58645,7 +58645,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "159;160"
+    "footnote_ids": "160;161"
   },
   "CO:LS": {
     "notes": "",
@@ -58653,7 +58653,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "158"
+    "footnote_ids": "159"
   },
   "CO:LT": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58661,7 +58661,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "164"
+    "footnote_ids": "165"
   },
   "CO:LU": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58669,7 +58669,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "165"
+    "footnote_ids": "166"
   },
   "CO:LV": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58677,7 +58677,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "156"
+    "footnote_ids": "157"
   },
   "CO:LY": {
     "notes": "",
@@ -58685,7 +58685,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "161;162"
+    "footnote_ids": "162;163"
   },
   "CO:MA": {
     "notes": "",
@@ -58693,7 +58693,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "185"
+    "footnote_ids": "186"
   },
   "CO:MC": {
     "notes": "",
@@ -58701,7 +58701,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "182"
+    "footnote_ids": "183"
   },
   "CO:MD": {
     "notes": "- 90 days within any 180 day period.",
@@ -58709,7 +58709,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "181"
+    "footnote_ids": "182"
   },
   "CO:ME": {
     "notes": "",
@@ -58717,7 +58717,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "184"
+    "footnote_ids": "185"
   },
   "CO:MG": {
     "notes": "- For stays of 61 to 90 days, the visa fee is 59 USD.",
@@ -58725,7 +58725,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "166;167"
+    "footnote_ids": "167;168"
   },
   "CO:MH": {
     "notes": "",
@@ -58733,7 +58733,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "175"
+    "footnote_ids": "176"
   },
   "CO:MK": {
     "notes": "",
@@ -58741,7 +58741,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "203"
+    "footnote_ids": "204"
   },
   "CO:ML": {
     "notes": "",
@@ -58749,7 +58749,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "173"
+    "footnote_ids": "174"
   },
   "CO:MM": {
     "notes": "- e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\n- e-Visa is available for tourism only.",
@@ -58757,7 +58757,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "188;189"
+    "footnote_ids": "189;190"
   },
   "CO:MN": {
     "notes": "",
@@ -58765,7 +58765,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "183"
+    "footnote_ids": "184"
   },
   "CO:MR": {
     "notes": "- Available at Nouakchott–Oumtounsy International Airport.",
@@ -58773,7 +58773,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "176;177"
+    "footnote_ids": "177;178"
   },
   "CO:MT": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58781,7 +58781,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "174"
+    "footnote_ids": "175"
   },
   "CO:MU": {
     "notes": "",
@@ -58789,7 +58789,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "178"
+    "footnote_ids": "179"
   },
   "CO:MV": {
     "notes": "",
@@ -58797,7 +58797,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "172"
+    "footnote_ids": "173"
   },
   "CO:MW": {
     "notes": "",
@@ -58805,7 +58805,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "168;169"
+    "footnote_ids": "169;170"
   },
   "CO:MX": {
     "notes": "",
@@ -58813,7 +58813,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "179"
+    "footnote_ids": "180"
   },
   "CO:MY": {
     "notes": "- Extension not allowed.",
@@ -58821,7 +58821,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "170;171"
+    "footnote_ids": "171;172"
   },
   "CO:MZ": {
     "notes": "",
@@ -58829,7 +58829,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "186;187"
+    "footnote_ids": "187;188"
   },
   "CO:NA": {
     "notes": "",
@@ -58837,7 +58837,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "190;191"
+    "footnote_ids": "191;192"
   },
   "CO:NE": {
     "notes": "",
@@ -58845,7 +58845,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "200"
+    "footnote_ids": "201"
   },
   "CO:NG": {
     "notes": "",
@@ -58853,7 +58853,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "201;202"
+    "footnote_ids": "202;203"
   },
   "CO:NI": {
     "notes": "- Visa exemption for nationals born in the Raizal territories of the Archipelago of San Andrés, Providencia and Santa Catalina, for stays of up to 90 days.\n- Visa exemption for passengers whose place of birth is listed as El Salvador.",
@@ -58861,7 +58861,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "199"
+    "footnote_ids": "200"
   },
   "CO:NL": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58869,7 +58869,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "195"
+    "footnote_ids": "196"
   },
   "CO:NO": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58877,7 +58877,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "204"
+    "footnote_ids": "205"
   },
   "CO:NP": {
     "notes": "",
@@ -58885,7 +58885,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "193;194"
+    "footnote_ids": "194;195"
   },
   "CO:NR": {
     "notes": "",
@@ -58893,15 +58893,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "192"
+    "footnote_ids": "193"
   },
   "CO:NZ": {
-    "notes": "- May transit without visa if transit is through Auckland Airport and for no longer than 24 hours, subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 191 ]\n- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 192 ]",
+    "notes": "- May transit without visa if transit is through Auckland Airport and for no longer than 24 hours, subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 192 ]\n- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 193 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "196;New_Zealand_Transit_Visa-197;Australian_Resident_Visa-198"
+    "footnote_ids": "197;New_Zealand_Transit_Visa-198;Australian_Resident_Visa-199"
   },
   "CO:OM": {
     "notes": "",
@@ -58909,7 +58909,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "205;206"
+    "footnote_ids": "206;207"
   },
   "CO:PA": {
     "notes": "",
@@ -58917,7 +58917,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "210"
+    "footnote_ids": "211"
   },
   "CO:PE": {
     "notes": "- Entry is allowed with a valid Colombian identity card.\n- Colombians can live and work legally in Peru under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a citizen at birth or a naturalized citizen for over 5 years, and passing a background check.",
@@ -58925,7 +58925,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "214"
+    "footnote_ids": "215"
   },
   "CO:PG": {
     "notes": "- Visitors may apply for a visa online under the \"Tourist - Own Itinerary\" category.",
@@ -58933,7 +58933,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "211;212"
+    "footnote_ids": "212;213"
   },
   "CO:PH": {
     "notes": "",
@@ -58941,7 +58941,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "215"
+    "footnote_ids": "216"
   },
   "CO:PK": {
     "notes": "",
@@ -58949,7 +58949,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "207;208"
+    "footnote_ids": "208;209"
   },
   "CO:PL": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58957,7 +58957,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "216"
+    "footnote_ids": "217"
   },
   "CO:PT": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58965,7 +58965,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "217"
+    "footnote_ids": "218"
   },
   "CO:PW": {
     "notes": "",
@@ -58973,7 +58973,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "209"
+    "footnote_ids": "210"
   },
   "CO:PY": {
     "notes": "- Entry is allowed with a valid Colombian identity card.\n- Colombians can live and work legally in Paraguay under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a citizen at birth or a naturalized citizen for over 5 years, and passing a background check.",
@@ -58981,7 +58981,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "213"
+    "footnote_ids": "214"
   },
   "CO:QA": {
     "notes": "",
@@ -58989,7 +58989,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "218"
+    "footnote_ids": "219"
   },
   "CO:RO": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -58997,7 +58997,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "219"
+    "footnote_ids": "220"
   },
   "CO:RS": {
     "notes": "- 30 days within any 1-year period.",
@@ -59005,7 +59005,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "233"
+    "footnote_ids": "234"
   },
   "CO:RU": {
     "notes": "- 90 days within any 180 day period.",
@@ -59013,7 +59013,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "220"
+    "footnote_ids": "221"
   },
   "CO:RW": {
     "notes": "",
@@ -59021,7 +59021,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "221;222"
+    "footnote_ids": "222;223"
   },
   "CO:SA": {
     "notes": "- Visa on arrival available for holders of a valid visa issued by the United States, the United Kingdom, or a Schengen Member State, for stays of up to 90 days within a 12-month period, provided the visa has been used at least once and bears an entry stamp of the issuing country.",
@@ -59029,7 +59029,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "231"
+    "footnote_ids": "232"
   },
   "CO:SB": {
     "notes": "",
@@ -59037,7 +59037,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "241"
+    "footnote_ids": "242"
   },
   "CO:SC": {
     "notes": "- Application can be submitted up to 30 days before travel.\n- Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Payment of the fee (EUR 10) by credit or debit card.\n- Valid for one journey only and it expires once exit the country.",
@@ -59045,7 +59045,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "234;235"
+    "footnote_ids": "235;236"
   },
   "CO:SD": {
     "notes": "",
@@ -59053,7 +59053,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "250"
+    "footnote_ids": "251"
   },
   "CO:SE": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -59061,7 +59061,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "255"
+    "footnote_ids": "256"
   },
   "CO:SG": {
     "notes": "- Arrival Card is required.",
@@ -59069,7 +59069,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "238"
+    "footnote_ids": "239"
   },
   "CO:SI": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -59077,7 +59077,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "240"
+    "footnote_ids": "241"
   },
   "CO:SK": {
     "notes": "- 90 days within any 180 day period in the Schengen Area.",
@@ -59085,7 +59085,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "239"
+    "footnote_ids": "240"
   },
   "CO:SL": {
     "notes": "",
@@ -59093,7 +59093,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "236;237"
+    "footnote_ids": "237;238"
   },
   "CO:SM": {
     "notes": "",
@@ -59101,7 +59101,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "228"
+    "footnote_ids": "229"
   },
   "CO:SN": {
     "notes": "",
@@ -59109,7 +59109,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "232"
+    "footnote_ids": "233"
   },
   "CO:SO": {
     "notes": "",
@@ -59117,15 +59117,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "242;243"
+    "footnote_ids": "243;244"
   },
   "CO:SR": {
-    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 247 ]\n- Multiple entry e-Visa is also available. [ 248 ]",
+    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 248 ]\n- Multiple entry e-Visa is also available. [ 249 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "251;252;253;254"
+    "footnote_ids": "252;253;254;255"
   },
   "CO:SS": {
     "notes": "- Obtainable online.\n- Printed visa authorization must be presented at the time of travel.",
@@ -59133,7 +59133,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "245;246"
+    "footnote_ids": "246;247"
   },
   "CO:ST": {
     "notes": "",
@@ -59141,7 +59141,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "229;230"
+    "footnote_ids": "230;231"
   },
   "CO:SV": {
     "notes": "",
@@ -59157,7 +59157,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "257;258"
+    "footnote_ids": "258;259"
   },
   "CO:SZ": {
     "notes": "",
@@ -59189,7 +59189,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "266;267"
+    "footnote_ids": "267;268"
   },
   "CO:TH": {
     "notes": "",
@@ -59197,7 +59197,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "263;264"
+    "footnote_ids": "264;265"
   },
   "CO:TJ": {
     "notes": "",
@@ -59205,7 +59205,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "259;260"
+    "footnote_ids": "260;261"
   },
   "CO:TL": {
     "notes": "",
@@ -59213,15 +59213,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "265"
+    "footnote_ids": "266"
   },
   "CO:TM": {
-    "notes": "- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 267 ] [ 268 ]",
+    "notes": "- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 268 ] [ 269 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "272;273;274"
+    "footnote_ids": "273;274;275"
   },
   "CO:TN": {
     "notes": "",
@@ -59229,7 +59229,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "270"
+    "footnote_ids": "271"
   },
   "CO:TO": {
     "notes": "",
@@ -59237,7 +59237,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "268"
+    "footnote_ids": "269"
   },
   "CO:TR": {
     "notes": "",
@@ -59245,7 +59245,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "271"
+    "footnote_ids": "272"
   },
   "CO:TT": {
     "notes": "",
@@ -59253,7 +59253,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "269"
+    "footnote_ids": "270"
   },
   "CO:TV": {
     "notes": "",
@@ -59261,7 +59261,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "275"
+    "footnote_ids": "276"
   },
   "CO:TZ": {
     "notes": "",
@@ -59269,7 +59269,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "261;262"
+    "footnote_ids": "262;263"
   },
   "CO:UA": {
     "notes": "",
@@ -59277,7 +59277,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "278"
+    "footnote_ids": "279"
   },
   "CO:UG": {
     "notes": "- Determined at the port of entry.",
@@ -59285,15 +59285,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "276;277"
+    "footnote_ids": "277;278"
   },
   "CO:US": {
-    "notes": "- Certain Colombian Government officials may be denied entry. [ 276 ] Colombian citizens with valid U.S. visas may enter the United States with enhanced scrutiny. [ 276 ]",
+    "notes": "- Certain Colombian Government officials may be denied entry. [ 277 ] Colombian citizens with valid U.S. visas may enter the United States with enhanced scrutiny. [ 277 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "281;BBC-282"
+    "footnote_ids": "282;BBC-283"
   },
   "CO:UY": {
     "notes": "- Entry is allowed with a valid Colombian identity card.\n- Colombians can live and work legally in Uruguay under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a citizen at birth or a naturalized citizen for over 5 years, and passing a background check.",
@@ -59301,7 +59301,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "283"
+    "footnote_ids": "284"
   },
   "CO:UZ": {
     "notes": "",
@@ -59309,7 +59309,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "284;285"
+    "footnote_ids": "285;286"
   },
   "CO:VA": {
     "notes": "",
@@ -59317,7 +59317,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "288"
+    "footnote_ids": "289"
   },
   "CO:VC": {
     "notes": "",
@@ -59325,7 +59325,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "226"
+    "footnote_ids": "227"
   },
   "CO:VE": {
     "notes": "",
@@ -59333,7 +59333,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "289"
+    "footnote_ids": "290"
   },
   "CO:VN": {
     "notes": "- e-Visa is valid for 90 days and multiple entry.",
@@ -59341,7 +59341,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "290;291"
+    "footnote_ids": "291;292"
   },
   "CO:VU": {
     "notes": "",
@@ -59349,7 +59349,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "286;287"
+    "footnote_ids": "287;288"
   },
   "CO:WS": {
     "notes": "",
@@ -59357,15 +59357,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "227"
+    "footnote_ids": "228"
   },
   "CO:YE": {
-    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 287 ]",
+    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 288 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "292;293"
+    "footnote_ids": "293;294"
   },
   "CO:ZA": {
     "notes": "",
@@ -59373,7 +59373,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "244"
+    "footnote_ids": "245"
   },
   "CO:ZM": {
     "notes": "",
@@ -59381,7 +59381,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "294;295"
+    "footnote_ids": "295;296"
   },
   "CO:ZW": {
     "notes": "",
@@ -59389,7 +59389,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "296;297"
+    "footnote_ids": "297;298"
   },
   "CR:AD": {
     "notes": "",
@@ -168949,18 +168949,18 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "8"
+    "footnote_ids": "10"
   },
   "MA:AE": {
-    "notes": "- May apply using 'Smart service'. [ 257 ]",
+    "notes": "- May apply using 'Smart service'. [ 259 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "260;261"
+    "footnote_ids": "262;263"
   },
   "MA:AF": {
-    "notes": "- Visitors must arrive at Kabul International (KBL).",
+    "notes": "- e-Visa holders must arrive via Kabul International (KBL).",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
@@ -168973,7 +168973,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "10;11"
+    "footnote_ids": "12;13"
   },
   "MA:AL": {
     "notes": "- Visa-free for a maximum stay of 90 days within 180 days for valid visa holders of the Schengen Area member states, the United Kingdom and the United States.",
@@ -168989,7 +168989,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "14;15"
+    "footnote_ids": "16;17"
   },
   "MA:AO": {
     "notes": "",
@@ -168997,15 +168997,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "9"
+    "footnote_ids": "11"
   },
   "MA:AR": {
-    "notes": "- Moroccan passport holders are exempt from paying fees when applying for a visa. [ 13 ]",
+    "notes": "- Moroccan passport holders are exempt from paying fees when applying for a visa. [ 15 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "12;13"
+    "footnote_ids": "14;15"
   },
   "MA:AT": {
     "notes": "- Austria is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169013,7 +169013,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "18"
+    "footnote_ids": "20"
   },
   "MA:AU": {
     "notes": "- May apply online. (Online Visitor e600 visa).",
@@ -169021,7 +169021,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "16;17"
+    "footnote_ids": "18;19"
   },
   "MA:AZ": {
     "notes": "",
@@ -169029,7 +169029,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "19"
+    "footnote_ids": "21"
   },
   "MA:BA": {
     "notes": "- Visa-free for a maximum stay of 30 days for valid visa holders (or holding residence permit) of the Schengen Area member states, Cyprus, the United Kingdom, Ireland, and the United States.",
@@ -169037,7 +169037,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "35"
+    "footnote_ids": "37"
   },
   "MA:BB": {
     "notes": "",
@@ -169045,7 +169045,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "25"
+    "footnote_ids": "27"
   },
   "MA:BD": {
     "notes": "- Visa on arrival for a maximum stay of 30 days when traveling for tourism purposes and residing in a country without diplomatic or consular representation of Bangladesh provided that they hold a return or onward ticket and a confirmed hotel reservation.",
@@ -169053,7 +169053,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "24"
+    "footnote_ids": "26"
   },
   "MA:BE": {
     "notes": "- Belgium is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169061,7 +169061,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "27"
+    "footnote_ids": "29"
   },
   "MA:BF": {
     "notes": "",
@@ -169069,7 +169069,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "41"
+    "footnote_ids": "43"
   },
   "MA:BG": {
     "notes": "- Bulgaria is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169077,7 +169077,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "40"
+    "footnote_ids": "42"
   },
   "MA:BH": {
     "notes": "",
@@ -169085,7 +169085,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "23"
+    "footnote_ids": "25"
   },
   "MA:BI": {
     "notes": "",
@@ -169093,7 +169093,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "42;43"
+    "footnote_ids": "44;45"
   },
   "MA:BJ": {
     "notes": "",
@@ -169101,7 +169101,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "29"
+    "footnote_ids": "31"
   },
   "MA:BN": {
     "notes": "- 72 hours visa-free transit if holding a confirmed onward ticket for a flight to a third country.",
@@ -169109,7 +169109,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "39"
+    "footnote_ids": "41"
   },
   "MA:BO": {
     "notes": "",
@@ -169117,7 +169117,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "33;34"
+    "footnote_ids": "35;36"
   },
   "MA:BR": {
     "notes": "",
@@ -169125,23 +169125,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "38"
+    "footnote_ids": "40"
   },
   "MA:BS": {
-    "notes": "- Visa not required for permanent residents of the United States or Canada. [ 21 ]\n- Cruise ship passengers travelling to and returning from the Bahamas do not require to obtain visa for entry. Both entry and departure must be by a cruise ship. [ 22 ]",
+    "notes": "- Visa not required for permanent residents of the United States or Canada. [ 23 ]\n- Cruise ship passengers travelling to and returning from the Bahamas do not require to obtain visa for entry. Both entry and departure must be by a cruise ship. [ 24 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "20;21;22"
+    "footnote_ids": "22;23;24"
   },
   "MA:BT": {
-    "notes": "- The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD. [ 32 ]",
+    "notes": "- The Sustainable Development Fee (SDF) of 200 USD per person, per night for almost all visitors to Bhutan. Additionally, if payment is made in US dollars from September 1, 2023 to August 31, 2027, the SDF is 100 USD. [ 34 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "30;31;32"
+    "footnote_ids": "32;33;34"
   },
   "MA:BW": {
     "notes": "",
@@ -169149,7 +169149,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "36;37"
+    "footnote_ids": "38;39"
   },
   "MA:BY": {
     "notes": "- Visa-free for holders of a valid visa issued by Russia.\n- Visa on arrival at Minsk National Airport (MSQ) for passengers with an original invitation letter from a Belarusian tourist company or medical/health organization, a service contract issued under Belarusian law, or supporting documents previously submitted to the Consular Division at Minsk National Airport (MSQ) at least 3–5 working days before departure.",
@@ -169157,7 +169157,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "26"
+    "footnote_ids": "28"
   },
   "MA:BZ": {
     "notes": "",
@@ -169165,7 +169165,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "28"
+    "footnote_ids": "30"
   },
   "MA:CA": {
     "notes": "- Eligible travelers who held a Canadian visa in the past 10 years or who hold a valid United States nonimmigrant visa can enter visa-free by air with an eTA.\n- A visa is still required for entry by land or sea.",
@@ -169173,7 +169173,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "48"
+    "footnote_ids": "50"
   },
   "MA:CD": {
     "notes": "",
@@ -169181,7 +169181,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "58;59"
+    "footnote_ids": "60;61"
   },
   "MA:CF": {
     "notes": "",
@@ -169189,7 +169189,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "50"
+    "footnote_ids": "52"
   },
   "MA:CG": {
     "notes": "- Visa-free from 1 January 2027.",
@@ -169197,7 +169197,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "57"
+    "footnote_ids": "59"
   },
   "MA:CH": {
     "notes": "- Switzerland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169205,7 +169205,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "238"
+    "footnote_ids": "240"
   },
   "MA:CI": {
     "notes": "",
@@ -169213,7 +169213,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "61"
+    "footnote_ids": "63"
   },
   "MA:CL": {
     "notes": "- Moroccan passport holders are exempt from paying fees when applying for a visa.",
@@ -169221,7 +169221,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "53"
+    "footnote_ids": "55"
   },
   "MA:CM": {
     "notes": "",
@@ -169229,7 +169229,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "46;47"
+    "footnote_ids": "48;49"
   },
   "MA:CN": {
     "notes": "- Moroccan passport holders are exempt from paying fees when applying for a visa.\n- 24 hours visa-free transit through China (unless arriving in Fuzhou, Huangshan, Mudanjiang, Shenzhen or Yanji).\n- Hong Kong, Macau, and Taiwan count as third countries under the 24-hour transit without visa (TWOV) policies.",
@@ -169237,7 +169237,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "54"
+    "footnote_ids": "56"
   },
   "MA:CO": {
     "notes": "",
@@ -169245,7 +169245,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "55"
+    "footnote_ids": "57"
   },
   "MA:CR": {
     "notes": "- Visa-free for a maximum stay of 90 days for valid multiple-entry visa holders of Canada and the United States.",
@@ -169253,7 +169253,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "60"
+    "footnote_ids": "62"
   },
   "MA:CU": {
     "notes": "- Can be extended up to 90 days with a fee.",
@@ -169261,7 +169261,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "63"
+    "footnote_ids": "65"
   },
   "MA:CV": {
     "notes": "",
@@ -169269,7 +169269,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "49"
+    "footnote_ids": "51"
   },
   "MA:CY": {
     "notes": "- Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states.",
@@ -169277,7 +169277,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "64"
+    "footnote_ids": "66"
   },
   "MA:CZ": {
     "notes": "- The Czech Republic is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169285,7 +169285,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "65"
+    "footnote_ids": "67"
   },
   "MA:DE": {
     "notes": "- Germany is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169293,7 +169293,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "91"
+    "footnote_ids": "93"
   },
   "MA:DJ": {
     "notes": "",
@@ -169301,7 +169301,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "67;68"
+    "footnote_ids": "69;70"
   },
   "MA:DK": {
     "notes": "- Denmark is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169309,7 +169309,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "66"
+    "footnote_ids": "68"
   },
   "MA:DM": {
     "notes": "- Visa-free for a maximum stay of 6 months for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States and Canada.",
@@ -169317,7 +169317,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "69"
+    "footnote_ids": "71"
   },
   "MA:DO": {
     "notes": "",
@@ -169325,15 +169325,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "70"
+    "footnote_ids": "72"
   },
   "MA:DZ": {
-    "notes": "",
+    "notes": "- Visitors on tours organized to some southern regions by an approved travel agency may obtain a visa on arrival for up to 30 days. [ 8 ] [ 9 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "6;7"
+    "footnote_ids": "6;7;8;9"
   },
   "MA:EC": {
     "notes": "",
@@ -169341,7 +169341,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "71"
+    "footnote_ids": "73"
   },
   "MA:EE": {
     "notes": "- Estonia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169349,15 +169349,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "78"
+    "footnote_ids": "80"
   },
   "MA:EG": {
-    "notes": "- Holders of valid residency permits in the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States can enter Egypt without a visa in advance. [ 73 ]\n- Visa on arrival for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States.\n- Also, Moroccan citizens holding valid residency permits from Gulf Cooperation Council (GCC) countries can obtain a visa upon arrival in Egypt.",
+    "notes": "- Holders of valid residency permits in the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States can enter Egypt without a visa in advance. [ 75 ]\n- Visa on arrival for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, Australia, Canada, Japan, New Zealand, the United Kingdom or the United States.\n- Also, Moroccan citizens holding valid residency permits from Gulf Cooperation Council (GCC) countries can obtain a visa upon arrival in Egypt.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "72;73"
+    "footnote_ids": "74;75"
   },
   "MA:ER": {
     "notes": "",
@@ -169365,23 +169365,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "77"
+    "footnote_ids": "79"
   },
   "MA:ES": {
-    "notes": "- Spain is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]\n- Residents of Tetouan may enter Ceuta without a visa. [ 224 ]\n- Residents of Nador may enter Melilla without a visa. [ 224 ]",
+    "notes": "- Spain is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]\n- Residents of Tetouan may enter Ceuta without a visa. [ 226 ]\n- Residents of Nador may enter Melilla without a visa. [ 226 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "227;Spain-228"
+    "footnote_ids": "229;Spain-230"
   },
   "MA:ET": {
-    "notes": "- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 82 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 83 ]",
+    "notes": "- Visa on arrival is obtainable only at Addis Ababa Bole International Airport. [ 84 ]\n- e-Visa holders must arrive via Addis Ababa Bole International Airport.\n- e-Visa is available for 30 or 90 days. [ 85 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "80;81;82;83"
+    "footnote_ids": "82;83;84;85"
   },
   "MA:FI": {
     "notes": "- Finland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169389,7 +169389,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "86"
+    "footnote_ids": "88"
   },
   "MA:FJ": {
     "notes": "",
@@ -169397,7 +169397,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "84;85"
+    "footnote_ids": "86;87"
   },
   "MA:FM": {
     "notes": "",
@@ -169405,7 +169405,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "159"
+    "footnote_ids": "161"
   },
   "MA:FR": {
     "notes": "- France is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169413,7 +169413,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "87"
+    "footnote_ids": "89"
   },
   "MA:GA": {
     "notes": "",
@@ -169421,7 +169421,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "88"
+    "footnote_ids": "90"
   },
   "MA:GB": {
     "notes": "- Conditional 48 hours visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country.",
@@ -169429,7 +169429,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "262"
+    "footnote_ids": "264"
   },
   "MA:GD": {
     "notes": "",
@@ -169437,7 +169437,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "94"
+    "footnote_ids": "96"
   },
   "MA:GE": {
     "notes": "- Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland, the Gulf Cooperation Council, Australia, Canada, Israel, Japan, New Zealand, South Korea and the United States.",
@@ -169445,7 +169445,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "90"
+    "footnote_ids": "92"
   },
   "MA:GH": {
     "notes": "- Moroccan passport holders must obtain an Electronic Travel Authorization (ETA) prior to travel.",
@@ -169453,7 +169453,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "92"
+    "footnote_ids": "94"
   },
   "MA:GM": {
     "notes": "",
@@ -169461,7 +169461,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "89"
+    "footnote_ids": "91"
   },
   "MA:GN": {
     "notes": "",
@@ -169469,7 +169469,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "96"
+    "footnote_ids": "98"
   },
   "MA:GQ": {
     "notes": "",
@@ -169477,7 +169477,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "75;76"
+    "footnote_ids": "77;78"
   },
   "MA:GR": {
     "notes": "- Greece is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169485,7 +169485,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "93"
+    "footnote_ids": "95"
   },
   "MA:GT": {
     "notes": "- Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, the United States and Canada.",
@@ -169493,7 +169493,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "95"
+    "footnote_ids": "97"
   },
   "MA:GW": {
     "notes": "",
@@ -169501,7 +169501,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "97"
+    "footnote_ids": "99"
   },
   "MA:GY": {
     "notes": "",
@@ -169509,7 +169509,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "98;99"
+    "footnote_ids": "100;101"
   },
   "MA:HK": {
     "notes": "",
@@ -169525,7 +169525,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "101"
+    "footnote_ids": "103"
   },
   "MA:HR": {
     "notes": "- Croatia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169533,7 +169533,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "62"
+    "footnote_ids": "64"
   },
   "MA:HT": {
     "notes": "",
@@ -169541,7 +169541,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "100"
+    "footnote_ids": "102"
   },
   "MA:HU": {
     "notes": "- Hungary is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169549,7 +169549,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "102"
+    "footnote_ids": "104"
   },
   "MA:ID": {
     "notes": "",
@@ -169557,7 +169557,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "107;108"
+    "footnote_ids": "109;110"
   },
   "MA:IE": {
     "notes": "- Moroccan passport holders are exempt from paying fees when applying for a visa.",
@@ -169565,7 +169565,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "113"
+    "footnote_ids": "115"
   },
   "MA:IL": {
     "notes": "",
@@ -169573,7 +169573,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "Israel-114"
+    "footnote_ids": "Israel-116"
   },
   "MA:IN": {
     "notes": "",
@@ -169581,7 +169581,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "104;105;106"
+    "footnote_ids": "106;107;108"
   },
   "MA:IQ": {
     "notes": "",
@@ -169589,7 +169589,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "111;112"
+    "footnote_ids": "113;114"
   },
   "MA:IR": {
     "notes": "",
@@ -169597,7 +169597,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "109;110"
+    "footnote_ids": "111;112"
   },
   "MA:IS": {
     "notes": "- Iceland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169605,7 +169605,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "103"
+    "footnote_ids": "105"
   },
   "MA:IT": {
     "notes": "- Italy is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169613,7 +169613,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "115"
+    "footnote_ids": "117"
   },
   "MA:JM": {
     "notes": "",
@@ -169621,7 +169621,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "116"
+    "footnote_ids": "118"
   },
   "MA:JO": {
     "notes": "- Visa can be obtained upon arrival obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)",
@@ -169629,7 +169629,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "118;119"
+    "footnote_ids": "120;121"
   },
   "MA:JP": {
     "notes": "- Moroccan passport holders with residence in Australia, Brazil, Cambodia, Canada, Saudi Arabia, South Africa, Taiwan, the United Kingdom and the United States can apply for a single entry e-Visa for tourism purposes only.",
@@ -169637,7 +169637,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "117"
+    "footnote_ids": "119"
   },
   "MA:KE": {
     "notes": "",
@@ -169645,7 +169645,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "122"
+    "footnote_ids": "124"
   },
   "MA:KG": {
     "notes": "- e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).",
@@ -169653,7 +169653,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "129;130"
+    "footnote_ids": "131;132"
   },
   "MA:KH": {
     "notes": "",
@@ -169661,7 +169661,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "44;45"
+    "footnote_ids": "46;47"
   },
   "MA:KI": {
     "notes": "- 90 days within any 12-month period.",
@@ -169669,7 +169669,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "123"
+    "footnote_ids": "125"
   },
   "MA:KM": {
     "notes": "",
@@ -169677,7 +169677,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "56"
+    "footnote_ids": "58"
   },
   "MA:KN": {
     "notes": "",
@@ -169685,7 +169685,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "200;201"
+    "footnote_ids": "202;203"
   },
   "MA:KP": {
     "notes": "",
@@ -169693,15 +169693,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "124"
+    "footnote_ids": "126"
   },
   "MA:KR": {
-    "notes": "- The validity period of a K-ETA is 3 years from the date of approval. [ 127 ]",
+    "notes": "- The validity period of a K-ETA is 3 years from the date of approval. [ 129 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "125;126;127"
+    "footnote_ids": "127;128;129"
   },
   "MA:KW": {
     "notes": "",
@@ -169709,7 +169709,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "128"
+    "footnote_ids": "130"
   },
   "MA:KZ": {
     "notes": "",
@@ -169717,15 +169717,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "120;121"
+    "footnote_ids": "122;123"
   },
   "MA:LA": {
-    "notes": "- 18 [ Note 1 ] of the 33 border crossings are only open to regular visa holders. [ 132 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 2 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 132 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 3 ] and 7 border crossings. [ Note 4 ] [ 132 ]",
+    "notes": "- 18 [ Note 1 ] of the 33 border crossings are only open to regular visa holders. [ 134 ]\n- e-Visa may be used to enter Laos through the Luang Prabang, Pakse and Vientiane international airports, 3 Thai-Lao Friendship Bridges [ Note 2 ], in Boten (road and railroad), and in Vientiane (at Khamsavath railway station). [ 134 ]\n- Visa on arrival is available at the Luang Prabang, Pakse and Vientiane international airports, 4 Thai-Lao Friendship Bridges [ Note 3 ] and 7 border crossings. [ Note 4 ] [ 134 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "131;Visa-only_border_crossings-132;Checkpoints-133;eVisa_Friendship_Bridges-134;Friendship_Bridges-135;VOA_border_crossings._Laos-136"
+    "footnote_ids": "133;Visa-only_border_crossings-134;Checkpoints-135;eVisa_Friendship_Bridges-136;Friendship_Bridges-137;VOA_border_crossings._Laos-138"
   },
   "MA:LB": {
     "notes": "- Visa on arrival at Beirut International Airport or any other port of entry only if they are holding a copy of a reservation in a 3 to 5 star hotel or private residential address with telephone number in the Republic of Lebanon, at least 2,000 USD in cash, a non-refundable return or circle trip ticket, and there are no Israeli stamps, visas, or seals on their passport.",
@@ -169733,7 +169733,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "138"
+    "footnote_ids": "140"
   },
   "MA:LC": {
     "notes": "",
@@ -169741,7 +169741,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "202"
+    "footnote_ids": "204"
   },
   "MA:LI": {
     "notes": "- Liechtenstein is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169749,15 +169749,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "143"
+    "footnote_ids": "145"
   },
   "MA:LK": {
-    "notes": "- Sri Lanka introduced an ETA valid for 30 days. [ 227 ]",
+    "notes": "- Sri Lanka introduced an ETA valid for 30 days. [ 229 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "229;230;231"
+    "footnote_ids": "231;232;233"
   },
   "MA:LR": {
     "notes": "",
@@ -169765,7 +169765,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "140"
+    "footnote_ids": "142"
   },
   "MA:LS": {
     "notes": "",
@@ -169773,7 +169773,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "139"
+    "footnote_ids": "141"
   },
   "MA:LT": {
     "notes": "- Lithuania is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169781,7 +169781,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "144"
+    "footnote_ids": "146"
   },
   "MA:LU": {
     "notes": "- Luxembourg is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169789,7 +169789,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "145"
+    "footnote_ids": "147"
   },
   "MA:LV": {
     "notes": "- Latvia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169797,7 +169797,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "137"
+    "footnote_ids": "139"
   },
   "MA:LY": {
     "notes": "",
@@ -169805,7 +169805,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "141;142"
+    "footnote_ids": "143;144"
   },
   "MA:MC": {
     "notes": "",
@@ -169813,15 +169813,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "162"
+    "footnote_ids": "164"
   },
   "MA:MD": {
-    "notes": "- Holders of a valid residence permit or a valid visa (excluding transit visas) issued by a Member State of the European Union, a State party to the Schengen Agreement, the United Kingdom, the United States of America, or Canada are exempt from the invitation letter requirement. [ 157 ]",
+    "notes": "- Holders of a valid residence permit or a valid visa (excluding transit visas) issued by a Member State of the European Union, a State party to the Schengen Agreement, the United Kingdom, the United States of America, or Canada are exempt from the invitation letter requirement. [ 159 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "160;161"
+    "footnote_ids": "162;163"
   },
   "MA:ME": {
     "notes": "- Visa-free for a maximum stay of 30 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.",
@@ -169829,7 +169829,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "164"
+    "footnote_ids": "166"
   },
   "MA:MG": {
     "notes": "- For stays of 61 to 90 days, the visa fee is 59 USD.",
@@ -169837,7 +169837,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "146;147"
+    "footnote_ids": "148;149"
   },
   "MA:MH": {
     "notes": "",
@@ -169845,7 +169845,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "154"
+    "footnote_ids": "156"
   },
   "MA:MK": {
     "notes": "- Visa-free for a maximum stay of 15 days for valid visa holders of the Schengen Area member states.",
@@ -169853,7 +169853,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "181"
+    "footnote_ids": "183"
   },
   "MA:ML": {
     "notes": "- May enter with an Identity Card or an expired passport.",
@@ -169861,7 +169861,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "152"
+    "footnote_ids": "154"
   },
   "MA:MM": {
     "notes": "- e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\n- e-Visa for tourism only.",
@@ -169869,7 +169869,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "167;168"
+    "footnote_ids": "169;170"
   },
   "MA:MN": {
     "notes": "",
@@ -169877,7 +169877,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "163"
+    "footnote_ids": "165"
   },
   "MA:MR": {
     "notes": "",
@@ -169885,7 +169885,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "155;156"
+    "footnote_ids": "157;158"
   },
   "MA:MT": {
     "notes": "- Malta is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169893,7 +169893,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "153"
+    "footnote_ids": "155"
   },
   "MA:MU": {
     "notes": "",
@@ -169901,7 +169901,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "157"
+    "footnote_ids": "159"
   },
   "MA:MV": {
     "notes": "",
@@ -169909,7 +169909,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "151"
+    "footnote_ids": "153"
   },
   "MA:MW": {
     "notes": "",
@@ -169917,7 +169917,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "148;149"
+    "footnote_ids": "150;151"
   },
   "MA:MX": {
     "notes": "- Visa-free for a maximum stay of 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States, Canada and Japan.",
@@ -169925,7 +169925,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "158"
+    "footnote_ids": "160"
   },
   "MA:MY": {
     "notes": "",
@@ -169933,7 +169933,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "150"
+    "footnote_ids": "152"
   },
   "MA:MZ": {
     "notes": "",
@@ -169941,7 +169941,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "165;166"
+    "footnote_ids": "167;168"
   },
   "MA:NA": {
     "notes": "",
@@ -169949,7 +169949,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "169;170"
+    "footnote_ids": "171;172"
   },
   "MA:NE": {
     "notes": "",
@@ -169957,7 +169957,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "178"
+    "footnote_ids": "180"
   },
   "MA:NG": {
     "notes": "",
@@ -169965,7 +169965,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "179;180"
+    "footnote_ids": "181;182"
   },
   "MA:NI": {
     "notes": "",
@@ -169973,7 +169973,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "177"
+    "footnote_ids": "179"
   },
   "MA:NL": {
     "notes": "- Netherlands is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169981,7 +169981,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "174"
+    "footnote_ids": "176"
   },
   "MA:NO": {
     "notes": "- Norway is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -169989,7 +169989,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "182"
+    "footnote_ids": "184"
   },
   "MA:NP": {
     "notes": "",
@@ -169997,7 +169997,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "172;173"
+    "footnote_ids": "174;175"
   },
   "MA:NR": {
     "notes": "",
@@ -170005,15 +170005,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "171"
+    "footnote_ids": "173"
   },
   "MA:NZ": {
-    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 172 ]",
+    "notes": "- Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. [ 174 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "175;Australian_Resident_Visa-176"
+    "footnote_ids": "177;Australian_Resident_Visa-178"
   },
   "MA:OM": {
     "notes": "- Visa-free for a maximum stay of 14 days for valid visa holders of Australia, Canada, Japan, the United States, United Kingdom or the Schengen Area member states.",
@@ -170021,7 +170021,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "183"
+    "footnote_ids": "185"
   },
   "MA:PA": {
     "notes": "- Visa-free for a maximum stay of 30 days for valid visa holders or residents of Australia, the United Kingdom, the United States and Canada.",
@@ -170029,7 +170029,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "187"
+    "footnote_ids": "189"
   },
   "MA:PE": {
     "notes": "- Visa-free for a maximum stay of 183 days within a one-year period for valid visa holders of the Schengen Area member states and the United States.",
@@ -170037,7 +170037,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "191"
+    "footnote_ids": "193"
   },
   "MA:PG": {
     "notes": "- Visitors may apply for a visa online under the \"Tourist - Own Itinerary\" category.",
@@ -170045,7 +170045,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "188;189"
+    "footnote_ids": "190;191"
   },
   "MA:PH": {
     "notes": "",
@@ -170053,7 +170053,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "192"
+    "footnote_ids": "194"
   },
   "MA:PK": {
     "notes": "",
@@ -170061,7 +170061,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "184;185"
+    "footnote_ids": "186;187"
   },
   "MA:PL": {
     "notes": "- Poland is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -170069,7 +170069,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "193"
+    "footnote_ids": "195"
   },
   "MA:PT": {
     "notes": "- Portugal is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -170077,7 +170077,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "194"
+    "footnote_ids": "196"
   },
   "MA:PW": {
     "notes": "",
@@ -170085,7 +170085,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "186"
+    "footnote_ids": "188"
   },
   "MA:PY": {
     "notes": "",
@@ -170093,7 +170093,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "190"
+    "footnote_ids": "192"
   },
   "MA:QA": {
     "notes": "- Travelers can apply for a visa on the Hayya website.",
@@ -170101,7 +170101,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "195;196"
+    "footnote_ids": "197;198"
   },
   "MA:RO": {
     "notes": "- Romania is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -170109,7 +170109,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "197"
+    "footnote_ids": "199"
   },
   "MA:RS": {
     "notes": "- 90 days within any 180-day period. Transfers allowed.\n- Visa-free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, Ireland and the United States.",
@@ -170117,7 +170117,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "210;211"
+    "footnote_ids": "212;213"
   },
   "MA:RU": {
     "notes": "- Visa-free for holders of a valid visa issued by Belarus.",
@@ -170125,7 +170125,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "198"
+    "footnote_ids": "200"
   },
   "MA:RW": {
     "notes": "",
@@ -170133,7 +170133,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "199"
+    "footnote_ids": "201"
   },
   "MA:SA": {
     "notes": "- Tourists eligible for Visa on Arrival must hold valid tourist or business visas from the US, United Kingdom, or Schengen countries. The visa should have been used once with an entry stamp. Permanent residents of the US, UK, or EU, along with their first-degree relatives, can also apply after confirming their presence.",
@@ -170141,7 +170141,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "208"
+    "footnote_ids": "210"
   },
   "MA:SB": {
     "notes": "- Visa on arrival if having a pre-arranged visa.",
@@ -170149,7 +170149,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "219"
+    "footnote_ids": "221"
   },
   "MA:SC": {
     "notes": "- Application can be submitted up to 30 days before travel.\n- Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles.\n- Yellow fever vaccination certificate is required if coming from endemic countries.\n- Payment of the fee (EUR 10) by credit or debit card.\n- Valid for one journey only and it expires once exit the country.",
@@ -170157,7 +170157,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "212;213"
+    "footnote_ids": "214;215"
   },
   "MA:SD": {
     "notes": "",
@@ -170165,7 +170165,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "232"
+    "footnote_ids": "234"
   },
   "MA:SE": {
     "notes": "- Sweden is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -170173,7 +170173,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "237"
+    "footnote_ids": "239"
   },
   "MA:SG": {
     "notes": "",
@@ -170181,7 +170181,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "216"
+    "footnote_ids": "218"
   },
   "MA:SI": {
     "notes": "- Slovenia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -170189,7 +170189,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "218"
+    "footnote_ids": "220"
   },
   "MA:SK": {
     "notes": "- Slovakia is part of the Schengen Area, so a Schengen visa issued by any other Schengen country is valid for entry. [Schengen Countries ]",
@@ -170197,7 +170197,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "217"
+    "footnote_ids": "219"
   },
   "MA:SL": {
     "notes": "",
@@ -170205,7 +170205,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "214;215"
+    "footnote_ids": "216;217"
   },
   "MA:SM": {
     "notes": "",
@@ -170213,7 +170213,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "205"
+    "footnote_ids": "207"
   },
   "MA:SN": {
     "notes": "",
@@ -170221,23 +170221,23 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "209"
+    "footnote_ids": "211"
   },
   "MA:SO": {
-    "notes": "- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 218 ]",
+    "notes": "- All visitors must have an approved Electronic Visa (eTAS) before the start of their journey. [ 220 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "220;221;222"
+    "footnote_ids": "222;223;224"
   },
   "MA:SR": {
-    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 231 ]\n- Multiple entry e-Visa is also available. [ 232 ]",
+    "notes": "- An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival. [ 233 ]\n- Multiple entry e-Visa is also available. [ 234 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "233;234;235;236"
+    "footnote_ids": "235;236;237;238"
   },
   "MA:SS": {
     "notes": "- Obtainable online.\n- Printed visa authorization must be presented at the time of travel.",
@@ -170245,7 +170245,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "225;226"
+    "footnote_ids": "227;228"
   },
   "MA:ST": {
     "notes": "",
@@ -170253,7 +170253,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "206;207"
+    "footnote_ids": "208;209"
   },
   "MA:SV": {
     "notes": "- Visa-free for a maximum stay of 90 days for valid visa holders or residents of the Schengen Area member states, Canada and the United States.",
@@ -170261,7 +170261,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "74"
+    "footnote_ids": "76"
   },
   "MA:SY": {
     "notes": "",
@@ -170269,7 +170269,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "239"
+    "footnote_ids": "241"
   },
   "MA:SZ": {
     "notes": "",
@@ -170277,7 +170277,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "79"
+    "footnote_ids": "81"
   },
   "MA:TD": {
     "notes": "- Visa-free from 1 January 2027.",
@@ -170285,7 +170285,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "51;52"
+    "footnote_ids": "53;54"
   },
   "MA:TG": {
     "notes": "- Travelers must complete an online travel declaration at least 24 hours before arrival.",
@@ -170293,7 +170293,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "247"
+    "footnote_ids": "249"
   },
   "MA:TH": {
     "notes": "",
@@ -170301,15 +170301,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "245"
+    "footnote_ids": "247"
   },
   "MA:TJ": {
-    "notes": "- Holders of passports which are 55 years old and more do not require a visa for 14 days. [ 238 ]",
+    "notes": "- Holders of passports which are 55 years old and more do not require a visa for 14 days. [ 240 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "240;241;242"
+    "footnote_ids": "242;243;244"
   },
   "MA:TL": {
     "notes": "",
@@ -170317,15 +170317,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "246"
+    "footnote_ids": "248"
   },
   "MA:TM": {
-    "notes": "- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 250 ] [ 251 ]",
+    "notes": "- When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD. [ 252 ] [ 253 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "253;254;255"
+    "footnote_ids": "255;256;257"
   },
   "MA:TN": {
     "notes": "",
@@ -170333,7 +170333,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "251"
+    "footnote_ids": "253"
   },
   "MA:TO": {
     "notes": "",
@@ -170341,7 +170341,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "248"
+    "footnote_ids": "250"
   },
   "MA:TR": {
     "notes": "",
@@ -170349,7 +170349,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "252"
+    "footnote_ids": "254"
   },
   "MA:TT": {
     "notes": "",
@@ -170357,7 +170357,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "249;250"
+    "footnote_ids": "251;252"
   },
   "MA:TV": {
     "notes": "",
@@ -170365,7 +170365,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "256"
+    "footnote_ids": "258"
   },
   "MA:TZ": {
     "notes": "- e-Visa: Single Entry for 50 USD.",
@@ -170373,7 +170373,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "243;244"
+    "footnote_ids": "245;246"
   },
   "MA:UA": {
     "notes": "",
@@ -170381,7 +170381,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "259"
+    "footnote_ids": "261"
   },
   "MA:UG": {
     "notes": "",
@@ -170389,7 +170389,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "257;258"
+    "footnote_ids": "259;260"
   },
   "MA:US": {
     "notes": "- B1/B2 visas issued with validity of 10 years.",
@@ -170397,7 +170397,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "USState-263"
+    "footnote_ids": "USState-265"
   },
   "MA:UY": {
     "notes": "",
@@ -170405,15 +170405,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "264"
+    "footnote_ids": "266"
   },
   "MA:UZ": {
-    "notes": "- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 263 ]",
+    "notes": "- 5-day visa-free transit at the international airports if holding a confirmed onward ticket for a flight to a third country. [ 265 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "265;266;267"
+    "footnote_ids": "267;268;269"
   },
   "MA:VA": {
     "notes": "",
@@ -170421,7 +170421,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "269"
+    "footnote_ids": "271"
   },
   "MA:VC": {
     "notes": "",
@@ -170429,7 +170429,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "203"
+    "footnote_ids": "205"
   },
   "MA:VE": {
     "notes": "",
@@ -170437,7 +170437,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "270;271"
+    "footnote_ids": "272;273"
   },
   "MA:VG": {
     "notes": "",
@@ -170453,7 +170453,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "272;273"
+    "footnote_ids": "274;275"
   },
   "MA:VU": {
     "notes": "",
@@ -170461,7 +170461,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "268"
+    "footnote_ids": "270"
   },
   "MA:WS": {
     "notes": "",
@@ -170469,15 +170469,15 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "204"
+    "footnote_ids": "206"
   },
   "MA:YE": {
-    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 271 ]",
+    "notes": "- Yemen introduced an e-Visa system for visitors who meet certain eligibility requirements (group travel of 10 or more people, business trips, and transit etc.). [ 273 ]",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "274;275"
+    "footnote_ids": "276;277"
   },
   "MA:ZA": {
     "notes": "",
@@ -170485,7 +170485,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "223;224"
+    "footnote_ids": "225;226"
   },
   "MA:ZM": {
     "notes": "",
@@ -170493,7 +170493,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "276"
+    "footnote_ids": "278"
   },
   "MA:ZW": {
     "notes": "",
@@ -170501,7 +170501,7 @@
     "last_verified": "",
     "confidence": "unverified",
     "reciprocity": "",
-    "footnote_ids": "277;278"
+    "footnote_ids": "279;280"
   },
   "MC:AD": {
     "notes": "",
@@ -283952,7 +283952,7 @@
     "footnote_ids": "187;188"
   },
   "TW:MA": {
-    "notes": "- Individuals holding Taiwanese passports must obtain visa approval from the Moroccan Ministry of the Interior.\n- In late July, Morocco announced through the Moroccan Embassy in Japan that it would temporarily suspend the acceptance of \"Visa Confirmation Letter\" (VCL) entry applications from Taiwanese citizens to Morocco.",
+    "notes": "- Late July 2026, Morocco announced through the Moroccan Embassy in Japan that it would temporarily suspend the acceptance of \"Visa Confirmation Letter\" (VCL) entry applications from Taiwanese citizens to Morocco.",
     "source_url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
     "last_verified": "",
     "confidence": "unverified",

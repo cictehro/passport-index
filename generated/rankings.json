@@ -262,7 +262,7 @@
   {
     "rank": 53,
     "passport": "IL",
-    "score": 135.5
+    "score": 136
   },
   {
     "rank": 54,
@@ -362,7 +362,7 @@
   {
     "rank": 73,
     "passport": "CO",
-    "score": 121
+    "score": 121.3
   },
   {
     "rank": 74,
@@ -392,7 +392,7 @@
   {
     "rank": 79,
     "passport": "AL",
-    "score": 118.5
+    "score": 119
   },
   {
     "rank": 80,
@@ -501,13 +501,13 @@
   },
   {
     "rank": 101,
-    "passport": "MV",
-    "score": 91.1
+    "passport": "XK",
+    "score": 90.2
   },
   {
     "rank": 102,
-    "passport": "XK",
-    "score": 90.2
+    "passport": "MV",
+    "score": 90.1
   },
   {
     "rank": 103,
@@ -561,18 +561,18 @@
   },
   {
     "rank": 113,
+    "passport": "MA",
+    "score": 80.6
+  },
+  {
+    "rank": 114,
     "passport": "BY",
     "score": 80.4
   },
   {
-    "rank": 114,
+    "rank": 115,
     "passport": "ID",
     "score": 80.2
-  },
-  {
-    "rank": 115,
-    "passport": "MA",
-    "score": 80.1
   },
   {
     "rank": 116,

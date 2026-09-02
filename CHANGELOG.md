@@ -5,6 +5,17 @@
 | Metric | Value |
 |--------|-------|
 | Passports | 199 |
+| Routes | 38,897 (no change) |
+| Top ranked | SG (score: 161.2) |
+| Last ranked | SY (score: 37.9) |
+
+---
+
+## 2026-09-02
+
+| Metric | Value |
+|--------|-------|
+| Passports | 199 |
 | Routes | 38,897 (+62) |
 | Top ranked | SG (score: 161.2) |
 | Last ranked | SY (score: 37.9) |
