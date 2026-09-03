@@ -34,6 +34,40 @@ function cleanNotes(notes: string): string {
   return notes.trim();
 }
 
+function classifySegmentLabel(text: string): string | null {
+  const t = text.toLowerCase();
+  if (/not required|freedom of movement|right of abode|free visa|visa waiver|id card valid|visa free/.test(t)) return "Visa not required";
+  if (/visa on arr\w*|voa\b|visitor[’']?s?\s*permit|permit on arrival/.test(t)) return "Visa on arrival";
+  if (/\beta\b|electronic travel authorization|electronic travel/.test(t)) return "ETA";
+  if (/evisa|e-visa|electronic\s*visa|electronic(al)?\s*travel|electronic\s*authorization|electronic\s*entry|evisitor|e600\b|esta\b|electronic border|online visa|e-tourist card|e\s*tourist\s*card|\bease\b/.test(t)) return "eVisa";
+  if (/admission refused|admission restrict\w*|travel restrict\w*|travel banned|travel prohibited|visa restrict\w*|suspended|passport not recognized|particular visit regime/.test(t)) return "Admission restricted";
+  if (/visa required|vesa required|visa de facto required|tourist card required|permission required|invitation required|special permit required|travel certificate required|affidavit of identity required|mainland travel permit/.test(t)) return "Visa required";
+  return null;
+}
+
+function extractAllMethods(requirementRaw: string): string[] {
+  const segments = requirementRaw.split("/").map((s) => s.trim()).filter(Boolean);
+  if (segments.length < 2) return [];
+  const labels: string[] = [];
+  const seen = new Set<string>();
+  for (const seg of segments) {
+    const label = classifySegmentLabel(seg);
+    if (label && !seen.has(label)) {
+      seen.add(label);
+      labels.push(label);
+    }
+  }
+  return labels.length > 1 ? labels : [];
+}
+
+function buildNotes(notes: string, requirementRaw: string): string {
+  const cleaned = cleanNotes(notes);
+  const methods = extractAllMethods(requirementRaw);
+  if (methods.length === 0) return cleaned;
+  const methodLines = ["Multiple entry methods are available for this route:", ...methods.map((m) => `- ${m}`)].join("\n");
+  return cleaned ? `${methodLines}\n${cleaned}` : methodLines;
+}
+
 function normalizeReciprocity(raw: string): string {
   const v = raw.trim().toLowerCase();
   if (["✓", "✔️", "✔", "yes", "y"].includes(v)) return "Yes";
@@ -148,7 +182,7 @@ function main() {
         destination,
         status,
         days: parseDays(allowedStay),
-        notes: cleanNotes(notes),
+        notes: buildNotes(notes, requirementRaw),
         source_url: sourceUrl,
         last_verified: "",
         confidence: "unverified",

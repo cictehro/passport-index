@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T19:24:29.924Z",
+  "generated_at": "2026-09-03T02:38:35.662Z",
   "universe_size": 199,
   "total_expected_pairs": 39402,
-  "total_missing_pairs": 655,
+  "total_missing_pairs": 654,
   "by_passport": [
     {
       "code": "AO",
@@ -53,17 +53,6 @@
       "name": "China",
       "missing": [
         "HK",
-        "MO",
-        "PS",
-        "TW",
-        "XK"
-      ]
-    },
-    {
-      "code": "ER",
-      "name": "Eritrea",
-      "missing": [
-        "BI",
         "MO",
         "PS",
         "TW",
@@ -349,6 +338,16 @@
     {
       "code": "EC",
       "name": "Ecuador",
+      "missing": [
+        "MO",
+        "PS",
+        "TW",
+        "XK"
+      ]
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
       "missing": [
         "MO",
         "PS",
@@ -2535,13 +2534,6 @@
       ]
     },
     {
-      "code": "BI",
-      "name": "Burundi",
-      "missing": [
-        "ER"
-      ]
-    },
-    {
       "code": "CI",
       "name": "Côte d'Ivoire",
       "missing": [
@@ -2664,6 +2656,11 @@
     {
       "code": "BH",
       "name": "Bahrain",
+      "missing": []
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
       "missing": []
     },
     {
