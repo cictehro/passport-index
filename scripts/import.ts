@@ -65,7 +65,7 @@ function buildNotes(notes: string, requirementRaw: string): string {
   const methods = extractAllMethods(requirementRaw);
   if (methods.length === 0) return cleaned;
   const methodLines = ["Multiple entry methods are available for this route:", ...methods.map((m) => `- ${m}`)].join("\n");
-  return cleaned ? `${methodLines}\n${cleaned}` : methodLines;
+  return cleaned ? `${methodLines}\n\n${cleaned}` : methodLines;
 }
 
 function normalizeReciprocity(raw: string): string {
